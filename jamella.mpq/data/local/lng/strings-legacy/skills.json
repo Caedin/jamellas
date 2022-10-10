@@ -6446,7 +6446,7 @@
   {
     "id": 4541,
     "Key": "skillname42",
-    "enUS": "Static Field",
+    "enUS": "Magic Mastery",
     "zhTW": "靜態力場",
     "deDE": "Statikfeld",
     "esES": "Campo estático",
@@ -6470,7 +6470,7 @@
   {
     "id": 4544,
     "Key": "skillan42",
-    "enUS": "Static Field",
+    "enUS": "Magic Mastery",
     "zhTW": "靜態力場",
     "deDE": "Statikfeld",
     "esES": "Campo estático",
@@ -14150,7 +14150,7 @@
   {
     "id": 10354,
     "Key": "skillxld42",
-    "enUS": "creates an electrical field that reduces life\nof all nearby enemies",
+    "enUS": "increases casting speed",
     "zhTW": "創造一道閃電結界，降低附近所有敵人的生命",
     "deDE": "Erzeugt ein Feld aus elektrischer Energie, das die Lebenskraft\naller in der Nähe befindlichen Feinde verringert.",
     "esES": "crea un campo eléctrico que reduce la vida\nde todos los enemigos que se encuentren cerca",

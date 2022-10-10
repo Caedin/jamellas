@@ -2834,7 +2834,7 @@
   {
     "id": 10986,
     "Key": "Moditemenrescoldsk",
-    "enUS": "-%d%% to Enemy Cold Resistance",
+    "enUS": "Cold Damage: +%d%%",
     "zhTW": "-%d%% 敵人冰寒抗性",
     "deDE": "-%d%% zu Kälte-Widerstand des Feindes",
     "esES": "-%d%% para Resistencia al frío enemigo",

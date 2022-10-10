@@ -190,3 +190,4 @@ hidedead	187																											1	1			1																																		
 impale	188																																																																							0
 desecrated	189																												1	1																																										0
 evilpower	190																																																																							0
+magicmastery	191																																																																							0
