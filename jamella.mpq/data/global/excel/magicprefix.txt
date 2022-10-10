@@ -2160,40 +2160,40 @@ emptyString	100	1	1	98	99					1	31	abs-cold		26	28										ring	amul											
 emptyString	100	1	1	99	99					1	31	abs-cold		67	72										armo												0	0
 emptyString	100	1	1	99	99					1	31	abs-cold		27	29										weap												0	0
 emptyString	100	1	1	99	99					1	31	abs-cold		27	29										ring	amul											0	0
-emptyString	100	1	1	1	25					1	32hp%	1	3										ring	amul											0	0
-emptyString	100	1	1	5	30					1	32hp%	2	4										ring	amul											0	0
-emptyString	100	1	1	10	35					1	32hp%	3	5										ring	amul											0	0
-emptyString	100	1	1	15	40					1	32hp%	4	6										ring	amul											0	0
-emptyString	100	1	1	20	45					1	32hp%	5	7										ring	amul											0	0
-emptyString	100	1	1	25	50					1	32hp%	6	8										ring	amul											0	0
-emptyString	100	1	1	30	55					1	32hp%	7	9										ring	amul											0	0
-emptyString	100	1	1	35	60					1	32hp%	8	10										ring	amul											0	0
-emptyString	100	1	1	40	65					1	32hp%	9	11										ring	amul											0	0
-emptyString	100	1	1	45	70					1	32hp%	10	12										ring	amul											0	0
-emptyString	100	1	1	50	72					1	32hp%	11	13										ring	amul											0	0
-emptyString	100	1	1	55	74					1	32hp%	12	14										ring	amul											0	0
-emptyString	100	1	1	60	76					1	32hp%	13	15										ring	amul											0	0
-emptyString	100	1	1	65	78					1	32hp%	14	16										ring	amul											0	0
-emptyString	100	1	1	70	80					1	32hp%	15	17										ring	amul											0	0
-emptyString	100	1	1	72	82					1	32hp%	16	18										ring	amul											0	0
-emptyString	100	1	1	74	84					1	32hp%	17	19										ring	amul											0	0
-emptyString	100	1	1	76	86					1	32hp%	18	20										ring	amul											0	0
-emptyString	100	1	1	78	88					1	32hp%	19	21										ring	amul											0	0
-emptyString	100	1	1	80	90					1	32hp%	20	22										ring	amul											0	0
-emptyString	100	1	1	82	91					1	32hp%	21	23										ring	amul											0	0
-emptyString	100	1	1	84	92					1	32hp%	22	24										ring	amul											0	0
-emptyString	100	1	1	86	93					1	32hp%	23	25										ring	amul											0	0
-emptyString	100	1	1	88	94					1	32hp%	24	26										ring	amul											0	0
-emptyString	100	1	1	90	95					1	32hp%	25	27										ring	amul											0	0
-emptyString	100	1	1	91	96					1	32hp%	26	28										ring	amul											0	0
-emptyString	100	1	1	92	97					1	32hp%	27	29										ring	amul											0	0
-emptyString	100	1	1	93	98					1	32hp%	28	30										ring	amul											0	0
-emptyString	100	1	1	94	99					1	32hp%	29	31										ring	amul											0	0
-emptyString	100	1	1	95	99					1	32hp%	30	32										ring	amul											0	0
-emptyString	100	1	1	96	99					1	32hp%	31	33										ring	amul											0	0
-emptyString	100	1	1	97	99					1	32hp%	32	34										ring	amul											0	0
-emptyString	100	1	1	98	99					1	32hp%	33	35										ring	amul											0	0
-emptyString	100	1	1	99	99					1	32hp%	34	36										ring	amul											0	0
+emptyString	100	1	1	1	25					1	32	hp%		1	3										ring	amul											0	0
+emptyString	100	1	1	5	30					1	32	hp%		2	4										ring	amul											0	0
+emptyString	100	1	1	10	35					1	32	hp%		3	5										ring	amul											0	0
+emptyString	100	1	1	15	40					1	32	hp%		4	6										ring	amul											0	0
+emptyString	100	1	1	20	45					1	32	hp%		5	7										ring	amul											0	0
+emptyString	100	1	1	25	50					1	32	hp%		6	8										ring	amul											0	0
+emptyString	100	1	1	30	55					1	32	hp%		7	9										ring	amul											0	0
+emptyString	100	1	1	35	60					1	32	hp%		8	10										ring	amul											0	0
+emptyString	100	1	1	40	65					1	32	hp%		9	11										ring	amul											0	0
+emptyString	100	1	1	45	70					1	32	hp%		10	12										ring	amul											0	0
+emptyString	100	1	1	50	72					1	32	hp%		11	13										ring	amul											0	0
+emptyString	100	1	1	55	74					1	32	hp%		12	14										ring	amul											0	0
+emptyString	100	1	1	60	76					1	32	hp%		13	15										ring	amul											0	0
+emptyString	100	1	1	65	78					1	32	hp%		14	16										ring	amul											0	0
+emptyString	100	1	1	70	80					1	32	hp%		15	17										ring	amul											0	0
+emptyString	100	1	1	72	82					1	32	hp%		16	18										ring	amul											0	0
+emptyString	100	1	1	74	84					1	32	hp%		17	19										ring	amul											0	0
+emptyString	100	1	1	76	86					1	32	hp%		18	20										ring	amul											0	0
+emptyString	100	1	1	78	88					1	32	hp%		19	21										ring	amul											0	0
+emptyString	100	1	1	80	90					1	32	hp%		20	22										ring	amul											0	0
+emptyString	100	1	1	82	91					1	32	hp%		21	23										ring	amul											0	0
+emptyString	100	1	1	84	92					1	32	hp%		22	24										ring	amul											0	0
+emptyString	100	1	1	86	93					1	32	hp%		23	25										ring	amul											0	0
+emptyString	100	1	1	88	94					1	32	hp%		24	26										ring	amul											0	0
+emptyString	100	1	1	90	95					1	32	hp%		25	27										ring	amul											0	0
+emptyString	100	1	1	91	96					1	32	hp%		26	28										ring	amul											0	0
+emptyString	100	1	1	92	97					1	32	hp%		27	29										ring	amul											0	0
+emptyString	100	1	1	93	98					1	32	hp%		28	30										ring	amul											0	0
+emptyString	100	1	1	94	99					1	32	hp%		29	31										ring	amul											0	0
+emptyString	100	1	1	95	99					1	32	hp%		30	32										ring	amul											0	0
+emptyString	100	1	1	96	99					1	32	hp%		31	33										ring	amul											0	0
+emptyString	100	1	1	97	99					1	32	hp%		32	34										ring	amul											0	0
+emptyString	100	1	1	98	99					1	32	hp%		33	35										ring	amul											0	0
+emptyString	100	1	1	99	99					1	32	hp%		34	36										ring	amul											0	0
 emptyString	100	1	1	1	25					1	33	swing1		25	25										weap												0	0
 emptyString	100	1	1	1	25					1	33	swing1		15	15										armo												0	0
 emptyString	100	1	1	1	25					1	33	swing1		15	15										ring	amul											0	0
