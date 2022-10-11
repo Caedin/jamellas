@@ -1187,7 +1187,7 @@ emptyString	100	1	1	98	99					1	15	att		180	190										ring	amul											0	0
 emptyString	100	1	1	99	99					1	15	att		1700	1800										weap												0	0
 emptyString	100	1	1	99	99					1	15	att		185	195										armo												0	0
 emptyString	100	1	1	99	99					1	15	att		185	195										ring	amul											0	0
-emptyString	100	1	1	1	25					1	16	block		17	42										shld												0	0
+emptyString	100	1	1	1						1	16	block		17	42										shld												0	0
 emptyString	100	1	1	1	25					1	17	dmg%		2	7										weap												0	0
 emptyString	100	1	1	1	25					1	17	dmg%		2	4										armo												0	0
 emptyString	100	1	1	1	25					1	17	dmg%		2	4										ring	amul											0	0
@@ -1824,9 +1824,9 @@ emptyString	100	1	1	98	99					1	23	res-all		23	24										ring	amul											0
 emptyString	100	1	1	99	99					1	23	res-all		7	8										armo												0	0
 emptyString	100	1	1	99	99					1	23	res-all		7	8										weap												0	0
 emptyString	100	1	1	99	99					1	23	res-all		23	24										ring	amul											0	0
-emptyString	100	1	1	35	60					1	24	abs-fire%		25	25										armo												0	0
-emptyString	100	1	1	35	60					1	24	abs-fire%		25	25										weap												0	0
-emptyString	100	1	1	35	60					1	24	abs-fire%		25	25										ring	amul											0	0
+emptyString	100	1	1	35						1	24	abs-fire%		25	25										armo												0	0
+emptyString	100	1	1	35						1	24	abs-fire%		25	25										weap												0	0
+emptyString	100	1	1	35						1	24	abs-fire%		25	25										ring	amul											0	0
 emptyString	100	1	1	35	60					1	25	abs-fire		2	7										armo												0	0
 emptyString	100	1	1	35	60					1	25	abs-fire		1	3										weap												0	0
 emptyString	100	1	1	35	60					1	25	abs-fire		1	3										ring	amul											0	0
@@ -1908,9 +1908,9 @@ emptyString	100	1	1	98	99					1	25	abs-fire		26	28										ring	amul											
 emptyString	100	1	1	99	99					1	25	abs-fire		67	72										armo												0	0
 emptyString	100	1	1	99	99					1	25	abs-fire		27	29										weap												0	0
 emptyString	100	1	1	99	99					1	25	abs-fire		27	29										ring	amul											0	0
-emptyString	100	1	1	35	60					1	26	abs-ltng%		25	25										armo												0	0
-emptyString	100	1	1	35	60					1	26	abs-ltng%		25	25										weap												0	0
-emptyString	100	1	1	35	60					1	26	abs-ltng%		25	25										ring	amul											0	0
+emptyString	100	1	1	35						1	26	abs-ltng%		25	25										armo												0	0
+emptyString	100	1	1	35						1	26	abs-ltng%		25	25										weap												0	0
+emptyString	100	1	1	35						1	26	abs-ltng%		25	25										ring	amul											0	0
 emptyString	100	1	1	35	60					1	27	abs-ltng		2	7										armo												0	0
 emptyString	100	1	1	35	60					1	27	abs-ltng		1	3										weap												0	0
 emptyString	100	1	1	35	60					1	27	abs-ltng		1	3										ring	amul											0	0
@@ -1992,9 +1992,9 @@ emptyString	100	1	1	98	99					1	27	abs-ltng		26	28										ring	amul											
 emptyString	100	1	1	99	99					1	27	abs-ltng		67	72										armo												0	0
 emptyString	100	1	1	99	99					1	27	abs-ltng		27	29										weap												0	0
 emptyString	100	1	1	99	99					1	27	abs-ltng		27	29										ring	amul											0	0
-emptyString	100	1	1	35	60					1	28	abs-mag%		25	25										armo												0	0
-emptyString	100	1	1	35	60					1	28	abs-mag%		25	25										weap												0	0
-emptyString	100	1	1	35	60					1	28	abs-mag%		25	25										ring	amul											0	0
+emptyString	100	1	1	35						1	28	abs-mag%		25	25										armo												0	0
+emptyString	100	1	1	35						1	28	abs-mag%		25	25										weap												0	0
+emptyString	100	1	1	35						1	28	abs-mag%		25	25										ring	amul											0	0
 emptyString	100	1	1	35	60					1	29	abs-mag		2	7										armo												0	0
 emptyString	100	1	1	35	60					1	29	abs-mag		1	3										weap												0	0
 emptyString	100	1	1	35	60					1	29	abs-mag		1	3										ring	amul											0	0
@@ -2076,9 +2076,9 @@ emptyString	100	1	1	98	99					1	29	abs-mag		26	28										ring	amul											0
 emptyString	100	1	1	99	99					1	29	abs-mag		67	72										armo												0	0
 emptyString	100	1	1	99	99					1	29	abs-mag		27	29										weap												0	0
 emptyString	100	1	1	99	99					1	29	abs-mag		27	29										ring	amul											0	0
-emptyString	100	1	1	35	60					1	30	abs-cold%		25	25										armo												0	0
-emptyString	100	1	1	35	60					1	30	abs-cold%		25	25										weap												0	0
-emptyString	100	1	1	35	60					1	30	abs-cold%		25	25										ring	amul											0	0
+emptyString	100	1	1	35						1	30	abs-cold%		25	25										armo												0	0
+emptyString	100	1	1	35						1	30	abs-cold%		25	25										weap												0	0
+emptyString	100	1	1	35						1	30	abs-cold%		25	25										ring	amul											0	0
 emptyString	100	1	1	35	60					1	31	abs-cold		2	7										armo												0	0
 emptyString	100	1	1	35	60					1	31	abs-cold		1	3										weap												0	0
 emptyString	100	1	1	35	60					1	31	abs-cold		1	3										ring	amul											0	0
@@ -2194,9 +2194,9 @@ emptyString	100	1	1	96	99					1	32	regen		31	33										ring	amul											0	0
 emptyString	100	1	1	97	99					1	32	regen		32	34										ring	amul											0	0
 emptyString	100	1	1	98	99					1	32	regen		33	35										ring	amul											0	0
 emptyString	100	1	1	99	99					1	32	regen		34	36										ring	amul											0	0
-emptyString	100	1	1	1	25					1	33	swing1		25	25										weap												0	0
-emptyString	100	1	1	1	25					1	33	swing1		15	15										armo												0	0
-emptyString	100	1	1	1	25					1	33	swing1		15	15										ring	amul											0	0
+emptyString	100	1	1	1						1	33	swing1		25	25										weap												0	0
+emptyString	100	1	1	1						1	33	swing1		15	15										armo												0	0
+emptyString	100	1	1	1						1	33	swing1		15	15										ring	amul											0	0
 emptyString	100	1	1	1	25					1	34	gold%		20	30										armo												0	0
 emptyString	100	1	1	1	25					1	34	gold%		20	30										weap												0	0
 emptyString	100	1	1	1	25					1	34	gold%		22	37										ring	amul											0	0
@@ -2435,21 +2435,21 @@ emptyString	100	1	1	96	99					1	36	regen-mana		31	33										ring	amul									
 emptyString	100	1	1	97	99					1	36	regen-mana		32	34										ring	amul											0	0
 emptyString	100	1	1	98	99					1	36	regen-mana		33	35										ring	amul											0	0
 emptyString	100	1	1	99	99					1	36	regen-mana		34	36										ring	amul											0	0
-emptyString	100	1	1	25	50					1	37	ama		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	37	ama		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	37	ama		1	1										ring	amul											0	0
-emptyString	100	1	1	25	50					1	38	pal		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	38	pal		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	38	pal		1	1										ring	amul											0	0
-emptyString	100	1	1	25	50					1	39	nec		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	39	nec		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	39	nec		1	1										ring	amul											0	0
-emptyString	100	1	1	25	50					1	40	sor		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	40	sor		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	40	sor		1	1										ring	amul											0	0
-emptyString	100	1	1	25	50					1	41	bar		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	41	bar		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	41	bar		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	37	ama		1	1										armo												0	0
+emptyString	100	1	1	25						1	37	ama		1	1										weap												0	0
+emptyString	100	1	1	25						1	37	ama		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	38	pal		1	1										armo												0	0
+emptyString	100	1	1	25						1	38	pal		1	1										weap												0	0
+emptyString	100	1	1	25						1	38	pal		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	39	nec		1	1										armo												0	0
+emptyString	100	1	1	25						1	39	nec		1	1										weap												0	0
+emptyString	100	1	1	25						1	39	nec		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	40	sor		1	1										armo												0	0
+emptyString	100	1	1	25						1	40	sor		1	1										weap												0	0
+emptyString	100	1	1	25						1	40	sor		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	41	bar		1	1										armo												0	0
+emptyString	100	1	1	25						1	41	bar		1	1										weap												0	0
+emptyString	100	1	1	25						1	41	bar		1	1										ring	amul											0	0
 emptyString	100	1	1	25	50					1	42	ease		-2	-6										weap												0	0
 emptyString	100	1	1	25	50					1	42	ease		-2	-6										armo												0	0
 emptyString	100	1	1	30	55					1	42	ease		-4	-8										weap												0	0
@@ -2508,18 +2508,18 @@ emptyString	100	1	1	98	99					1	42	ease		-56	-60										weap												0	0
 emptyString	100	1	1	98	99					1	42	ease		-56	-60										armo												0	0
 emptyString	100	1	1	99	99					1	42	ease		-58	-62										weap												0	0
 emptyString	100	1	1	99	99					1	42	ease		-58	-62										armo												0	0
-emptyString	100	1	1	1	25					1	43	move1		15	15										armo												0	0
-emptyString	100	1	1	1	25					1	43	move1		5	5										weap												0	0
-emptyString	100	1	1	1	25					1	43	move1		5	5										ring	amul											0	0
-emptyString	100	1	1	1	25					1	44	balance1		30	30										armo												0	0
-emptyString	100	1	1	1	25					1	44	balance1		10	10										weap												0	0
-emptyString	100	1	1	1	25					1	44	balance1		10	10										ring	amul											0	0
-emptyString	100	1	1	1	25					1	45	block1		15	15										armo												0	0
-emptyString	100	1	1	1	25					1	45	block1		5	5										weap												0	0
-emptyString	100	1	1	1	25					1	45	block1		5	5										ring	amul											0	0
-emptyString	100	1	1	1	25					1	46	cast1		10	10										weap												0	0
-emptyString	100	1	1	1	25					1	46	cast1		10	10										armo												0	0
-emptyString	100	1	1	1	25					1	46	cast1		10	10										ring	amul											0	0
+emptyString	100	1	1	1						1	43	move1		15	15										armo												0	0
+emptyString	100	1	1	1						1	43	move1		5	5										weap												0	0
+emptyString	100	1	1	1						1	43	move1		5	5										ring	amul											0	0
+emptyString	100	1	1	1						1	44	balance1		30	30										armo												0	0
+emptyString	100	1	1	1						1	44	balance1		10	10										weap												0	0
+emptyString	100	1	1	1						1	44	balance1		10	10										ring	amul											0	0
+emptyString	100	1	1	1						1	45	block1		15	15										armo												0	0
+emptyString	100	1	1	1						1	45	block1		5	5										weap												0	0
+emptyString	100	1	1	1						1	45	block1		5	5										ring	amul											0	0
+emptyString	100	1	1	1						1	46	cast1		10	10										weap												0	0
+emptyString	100	1	1	1						1	46	cast1		10	10										armo												0	0
+emptyString	100	1	1	1						1	46	cast1		10	10										ring	amul											0	0
 emptyString	100	1	1	1	25					1	47	dmg-norm		1	5										weap												0	0
 emptyString	100	1	1	1	25					1	47	dmg-norm		1	2										armo												0	0
 emptyString	100	1	1	1	25					1	47	dmg-norm		1	2										ring	amul											0	0
@@ -3132,26 +3132,26 @@ emptyString	100	1	1	98	99					1	52	att-undead		582	757										ring	amul							
 emptyString	100	1	1	99	99					1	52	att-undead		2664	3470										weap												0	0
 emptyString	100	1	1	99	99					1	52	att-undead		669	871										armo												0	0
 emptyString	100	1	1	99	99					1	52	att-undead		669	871										ring	amul											0	0
-emptyString	100	1	1	25	50					1	53	fireskill		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	53	fireskill		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	53	fireskill		1	1										ring	amul											0	0
-emptyString	100	1	1	55	74					1	54	allskills		1	1										armo												0	0
-emptyString	100	1	1	55	74					1	54	allskills		1	1										weap												0	0
-emptyString	100	1	1	55	74					1	54	allskills		1	1										ring	amul											0	0
-emptyString	100	1	1	25	50					1	55	freeze		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	56	openwounds		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	57	deadly		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	58	slow		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	59	nofreeze		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	60	pierce		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	61	magicarrow		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	62	explosivearrow		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	63	dru		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	63	dru		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	63	dru		1	1										ring	amul											0	0
-emptyString	100	1	1	25	50					1	64	ass		1	1										armo												0	0
-emptyString	100	1	1	25	50					1	64	ass		1	1										weap												0	0
-emptyString	100	1	1	25	50					1	64	ass		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	53	fireskill		1	1										armo												0	0
+emptyString	100	1	1	25						1	53	fireskill		1	1										weap												0	0
+emptyString	100	1	1	25						1	53	fireskill		1	1										ring	amul											0	0
+emptyString	100	1	1	55						1	54	allskills		1	1										armo												0	0
+emptyString	100	1	1	55						1	54	allskills		1	1										weap												0	0
+emptyString	100	1	1	55						1	54	allskills		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	55	freeze		1	1										weap												0	0
+emptyString	100	1	1	1						1	56	openwounds		9	32										weap												0	0
+emptyString	100	1	1	1						1	57	deadly		9	32										weap												0	0
+emptyString	100	1	1	1						1	58	slow		25	25										weap												0	0
+emptyString	100	1	1	25						1	59	nofreeze		1	1										armo												0	0
+emptyString	100	1	1	25						1	60	pierce		1	1										weap												0	0
+emptyString	100	1	1	25						1	61	magicarrow		1	1										weap												0	0
+emptyString	100	1	1	25						1	62	explosivearrow		1	1										weap												0	0
+emptyString	100	1	1	25						1	63	dru		1	1										armo												0	0
+emptyString	100	1	1	25						1	63	dru		1	1										weap												0	0
+emptyString	100	1	1	25						1	63	dru		1	1										ring	amul											0	0
+emptyString	100	1	1	25						1	64	ass		1	1										armo												0	0
+emptyString	100	1	1	25						1	64	ass		1	1										weap												0	0
+emptyString	100	1	1	25						1	64	ass		1	1										ring	amul											0	0
 emptyString	100	1	1	1	25					1	65	all-stats		2	7										armo												0	0
 emptyString	100	1	1	1	25					1	65	all-stats		1	4										weap												0	0
 emptyString	100	1	1	1	25					1	65	all-stats		1	3										ring	amul											0	0
