@@ -663,5 +663,7 @@
   { "ss2": { "asset": "scroll/identify_scroll" } },
   { "ss3": { "asset": "scroll/identify_scroll" } },
   { "si1": { "asset": "scroll/town_portal_scroll" } },
-  { "si2": { "asset": "scroll/town_portal_scroll" } }
+  { "si2": { "asset": "scroll/town_portal_scroll" } },
+  { "pe1": { "asset": "potion/elixir" } },
+  { "pe2": { "asset": "potion/elixir" } }
 ]

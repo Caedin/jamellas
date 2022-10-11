@@ -5854,5 +5854,15 @@
     "id": 27361,
     "Key" : "AdvancedScrollUpgradeDesc",
     "enUS" : "an exceptional armor or weapon into an elite one\nCombine with Demon Heart to improve"
+  },
+  {
+    "id": 27372,
+    "Key" : "PotionOfStatPoints",
+    "enUS" : "+1 to Available Stats"
+  },
+  {
+    "id": 27373,
+    "Key" : "PotionOfSkillPoints",
+    "enUS" : "+1 to Available Skills"
   }
 ]

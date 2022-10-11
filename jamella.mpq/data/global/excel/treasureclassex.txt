@@ -41,7 +41,7 @@ Runes 14			1						r27	1	r28	1	r25	1	r26	1	r23	1	r24	1	r19	1	r20	1	r17	1	Runes 13
 Runes 15			1						r29	1	r30	1	r27	1	r28	1	r25	1	r26	1	r23	1	r24	1	r19	1	Runes 14	10					0
 Runes 16			1						r31	1	r32	1	r29	1	r30	1	r27	1	r28	1	r25	1	r26	1	r23	1	Runes 15	11					0
 Runes 17			1						r33	1	r31	1	r32	1	r29	1	r30	1	r27	1	r28	1	r25	1	r26	1	Runes 16	12					0
-Act 1 Junk			1						Act 5 (H) Equip C	2	Gold	200	Runes 17	1	dhr	1																	0
+Act 1 Junk			1						Act 5 (H) Equip C	2	Gold	194	Runes 17	1	dhr	1	pe1	5	pe2	1													0
 Act 2 Junk			1						Act 1 Junk	1																							0
 Act 3 Junk			1						Act 1 Junk	1																							0
 Act 4 Junk			1						Act 1 Junk	1																							0
