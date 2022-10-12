@@ -1,0 +1,67 @@
+code	pvalue	prange	svalue	srange	jvalue	jrange	scvalue	scrange	minlvl	lvlscalefactor	primary	prefix_name	suffix_name
+ac	5	5	0	0	2	2	2	2	1	0	armo	Sturdy	of Quality
+red-dmg	1	1	0	0	0	0.25	1	1	1	5	armo	Protective	of the Protector
+red-dmg%	1	1	0	0	0	0	0	0	1	0	armo	Ancient	of the Ages
+ac%	5	5	0	0	2	2	2	2	1	0	armo	Fine	of Craftsmenship
+red-mag	1	1	0	0	0	0.25	1	1	1	5	armo	Warding	of Nullification
+str	5	5	3	3	2	2	1	1	1	0	armo	Strong	of the Bear
+dex	5	5	3	3	2	2	1	1	1	0	armo	Agile	of the Wolf
+vit	5	5	3	3	2	2	1	1	1	0	armo	Hearty	of the Ox
+enr	5	5	3	3	2	2	1	1	1	0	armo	Wise	of the Crane
+mana	5	5	5	5	10	10	3	3	1	10	armo	Energetic	of Brilliance
+mana%	5	2	5	2	10	4	2	2	30	10	armo	Overflowing	of Flowing Water
+hp	5	5	5	5	10	10	3	3	1	10	armo	Healthful	of the Steward
+hp%	5	2	5	2	10	4	2	2	30	10	armo	Everlasting	of Eternity
+att	100	100	25	10	25	10	0	0	1	0	weap	Precise	of Alacrity
+block	30	40	0	0	0	0	15	0	1	static	shld	Bulwark	of Blocking
+dmg%	5	5	3	2	3	2	2	2	1	10	weap	Cruel	of Evisceration
+res-fire	2	2	2	2	5	5	2	2	20	-5	armo	Fire Guard	of Cooling
+res-ltng	2	2	2	2	5	5	2	2	20	-5	armo	Shock Guard	of Grounding
+res-cold	2	2	2	2	5	5	2	2	20	-5	armo	Ice Guard	of Warmth
+res-mag	2	2	2	2	5	5	2	2	20	-5	armo	Magic Guard	of Earth
+res-pois	2	2	2	2	5	5	2	2	20	-5	armo	Poison Guard	of Antivenin
+res-all	1	1	1	1	3	3	1	1	30	-5	armo	All Guard	of Warding
+abs-fire%	25	0	25	0	25	0	5	0	35	static	armo	Fire Eater	of the Fire Elemental
+abs-fire	5	5	2	2	2	2	0	0	35	0	armo	Fire Eater	of the Fire Elemental
+abs-ltng%	25	0	25	0	25	0	5	0	35	static	armo	Grounder	of the Gods
+abs-ltng	5	5	2	2	2	2	0	0	35	0	armo	Grounder	of the Gods
+abs-mag%	25	0	25	0	25	0	5	0	35	static	armo	Ethereal	of Magic Absorption
+abs-mag	5	5	2	2	2	2	0	0	35	0	armo	Ethereal	of Magic Absorption
+abs-cold%	25	0	25	0	25	0	5	0	35	static	armo	Ice Revenant	of the Ice Eater
+abs-cold	5	5	2	2	2	2	0	0	35	0	armo	Ice Revenant	of the Ice Eater
+regen	0	0	0	0	2	2	0	0	1	0	armo	Healing	of Healing
+swing1	25	0	15	0	15	0	15	0	1	static	weap	Fast	of Swiftness
+gold%	25	10	25	10	30	15	0	0	1	0	armo	Lucky	of the Duck
+mag%	25	10	25	10	30	15	0	0	1	0	armo	Lucky	of the Goose
+regen-mana	0	0	0	0	2	2	0	0	1	0	armo	Envigorative	of Coalescing
+ama	1	0	1	0	1	0	1	0	25	static	armo	Amazon's	of the Amazonas
+pal	1	0	1	0	1	0	1	0	25	static	armo	Paladin's	of the Crusader
+nec	1	0	1	0	1	0	1	0	25	static	armo	Necromancer's	of the Undead
+sor	1	0	1	0	1	0	1	0	25	static	armo	Sorceress's	of the Ethereal
+bar	1	0	1	0	1	0	1	0	25	static	armo	Barbarian's	of the Tribes
+ease	-4	-4	-4	-4	0	0	0	0	25	0	weap	Light	of Welfare 
+move1	15	0	5	0	5	0	15	0	1	static	armo	Swift	of Speed
+balance1	30	0	10	0	10	0	15	0	1	static	armo	Swift	of Speed
+block1	15	0	5	0	5	0	15	0	1	static	armo	Swift	of Speed
+cast1	10	0	10	0	10	0	10	0	1	static	weap	Swift	of Speed
+dmg-norm	3	4	2	1	2	1	2	1	1	5	weap	Cruel	of Cruelty
+att%	5	5	3	2	3	2	0	0	1	10	weap	Precise	of Precision
+dmg-demon	10	8	6	2	6	2	0	0	1	15	weap	Demon Slayer's	of Purging
+dmg-undead	10	8	6	2	6	2	0	0	1	15	weap	Undead Slayer's	of Purging
+att-demon	10	8	6	2	6	2	0	0	1	15	weap	Demon Slayer's	of Purging
+att-undead	10	8	6	2	6	2	0	0	1	15	weap	Undead Slayer's	of Purging
+fireskill	1	0	1	0	1	0	1	0	25	static	armo	Fire Lord's	of the Fire Lord
+allskills	1	0	1	0	1	0	0	0	55	static	armo	Great	of Greatness
+freeze	1	0	0	0	0	0	0	0	25	static	weap	Frozen	of Freezing
+openwounds	21	23	0	0	0	0	0	0	1	static	weap	Bloodletter's	of Bleeding
+deadly	21	23	0	0	0	0	10	0	1	static	weap	Assassin's	of Assassination
+slow	25	0	0	0	0	0	0	0	1	static	weap	Cripple's	of Crippling
+nofreeze	1	0	0	0	0	0	0	0	25	static	armo	Indominable	of the Snow Man
+pierce	1	0	0	0	0	0	0	0	25	static	weap	Piercing	of pericing
+magicarrow	1	0	0	0	0	0	0	0	25	static	weap	Magic	of Magic Arrows
+explosivearrow	1	0	0	0	0	0	0	0	25	static	weap	Explosive	of Explosive Arrows
+dru	1	0	1	0	1	0	1	0	25	static	armo	Druid's	of the Wild
+ass	1	0	1	0	1	0	1	0	25	static	armo	Assassin's	of Slaying
+all-stats	5	5	3	3	2	2	1	1	1	0	armo	Great	of Greatness
+addxp	0	0	0	0	1	1	0	0	1	0	armo	Wizard's	of Learning
+cheap	0	0	0	0	1	1	0	0	1	0	armo	Gheed's	of Haggling

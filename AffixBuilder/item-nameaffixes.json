@@ -1,0 +1,537 @@
+[
+    {
+        "id": 27368,
+        "Key": "j000",
+        "enUS": "Sturdy"
+    },
+    {
+        "id": 27369,
+        "Key": "j001",
+        "enUS": "Protective"
+    },
+    {
+        "id": 27370,
+        "Key": "j002",
+        "enUS": "Ancient"
+    },
+    {
+        "id": 27371,
+        "Key": "j003",
+        "enUS": "Fine"
+    },
+    {
+        "id": 27372,
+        "Key": "j004",
+        "enUS": "Warding"
+    },
+    {
+        "id": 27373,
+        "Key": "j005",
+        "enUS": "Strong"
+    },
+    {
+        "id": 27374,
+        "Key": "j006",
+        "enUS": "Agile"
+    },
+    {
+        "id": 27375,
+        "Key": "j007",
+        "enUS": "Hearty"
+    },
+    {
+        "id": 27376,
+        "Key": "j008",
+        "enUS": "Wise"
+    },
+    {
+        "id": 27377,
+        "Key": "j009",
+        "enUS": "Energetic"
+    },
+    {
+        "id": 27378,
+        "Key": "j010",
+        "enUS": "Overflowing"
+    },
+    {
+        "id": 27379,
+        "Key": "j011",
+        "enUS": "Healthful"
+    },
+    {
+        "id": 27380,
+        "Key": "j012",
+        "enUS": "Everlasting"
+    },
+    {
+        "id": 27381,
+        "Key": "j013",
+        "enUS": "Precise"
+    },
+    {
+        "id": 27382,
+        "Key": "j014",
+        "enUS": "Bulwark"
+    },
+    {
+        "id": 27383,
+        "Key": "j015",
+        "enUS": "Cruel"
+    },
+    {
+        "id": 27384,
+        "Key": "j016",
+        "enUS": "Fire Guard"
+    },
+    {
+        "id": 27385,
+        "Key": "j017",
+        "enUS": "Shock Guard"
+    },
+    {
+        "id": 27386,
+        "Key": "j018",
+        "enUS": "Ice Guard"
+    },
+    {
+        "id": 27387,
+        "Key": "j019",
+        "enUS": "Magic Guard"
+    },
+    {
+        "id": 27388,
+        "Key": "j020",
+        "enUS": "Poison Guard"
+    },
+    {
+        "id": 27389,
+        "Key": "j021",
+        "enUS": "All Guard"
+    },
+    {
+        "id": 27390,
+        "Key": "j022",
+        "enUS": "Fire Eater"
+    },
+    {
+        "id": 27391,
+        "Key": "j023",
+        "enUS": "Grounder"
+    },
+    {
+        "id": 27392,
+        "Key": "j024",
+        "enUS": "Ethereal"
+    },
+    {
+        "id": 27393,
+        "Key": "j025",
+        "enUS": "Ice Revenant"
+    },
+    {
+        "id": 27394,
+        "Key": "j026",
+        "enUS": "Healing"
+    },
+    {
+        "id": 27395,
+        "Key": "j027",
+        "enUS": "Fast"
+    },
+    {
+        "id": 27396,
+        "Key": "j028",
+        "enUS": "Lucky"
+    },
+    {
+        "id": 27397,
+        "Key": "j029",
+        "enUS": "Envigorative"
+    },
+    {
+        "id": 27398,
+        "Key": "j030",
+        "enUS": "Amazon's"
+    },
+    {
+        "id": 27399,
+        "Key": "j031",
+        "enUS": "Paladin's"
+    },
+    {
+        "id": 27400,
+        "Key": "j032",
+        "enUS": "Necromancer's"
+    },
+    {
+        "id": 27401,
+        "Key": "j033",
+        "enUS": "Sorceress's"
+    },
+    {
+        "id": 27402,
+        "Key": "j034",
+        "enUS": "Barbarian's"
+    },
+    {
+        "id": 27403,
+        "Key": "j035",
+        "enUS": "Light"
+    },
+    {
+        "id": 27404,
+        "Key": "j036",
+        "enUS": "Swift"
+    },
+    {
+        "id": 27405,
+        "Key": "j037",
+        "enUS": "Demon Slayer's"
+    },
+    {
+        "id": 27406,
+        "Key": "j038",
+        "enUS": "Undead Slayer's"
+    },
+    {
+        "id": 27407,
+        "Key": "j039",
+        "enUS": "Fire Lord's"
+    },
+    {
+        "id": 27408,
+        "Key": "j040",
+        "enUS": "Great"
+    },
+    {
+        "id": 27409,
+        "Key": "j041",
+        "enUS": "Frozen"
+    },
+    {
+        "id": 27410,
+        "Key": "j042",
+        "enUS": "Bloodletter's"
+    },
+    {
+        "id": 27411,
+        "Key": "j043",
+        "enUS": "Assassin's"
+    },
+    {
+        "id": 27412,
+        "Key": "j044",
+        "enUS": "Cripple's"
+    },
+    {
+        "id": 27413,
+        "Key": "j045",
+        "enUS": "Indominable"
+    },
+    {
+        "id": 27414,
+        "Key": "j046",
+        "enUS": "Piercing"
+    },
+    {
+        "id": 27415,
+        "Key": "j047",
+        "enUS": "Magic"
+    },
+    {
+        "id": 27416,
+        "Key": "j048",
+        "enUS": "Explosive"
+    },
+    {
+        "id": 27417,
+        "Key": "j049",
+        "enUS": "Druid's"
+    },
+    {
+        "id": 27418,
+        "Key": "j050",
+        "enUS": "Wizard's"
+    },
+    {
+        "id": 27419,
+        "Key": "j051",
+        "enUS": "Gheed's"
+    },
+    {
+        "id": 27420,
+        "Key": "j052",
+        "enUS": "of Quality"
+    },
+    {
+        "id": 27421,
+        "Key": "j053",
+        "enUS": "of the Protector"
+    },
+    {
+        "id": 27422,
+        "Key": "j054",
+        "enUS": "of the Ages"
+    },
+    {
+        "id": 27423,
+        "Key": "j055",
+        "enUS": "of Craftsmenship"
+    },
+    {
+        "id": 27424,
+        "Key": "j056",
+        "enUS": "of Nullification"
+    },
+    {
+        "id": 27425,
+        "Key": "j057",
+        "enUS": "of the Bear"
+    },
+    {
+        "id": 27426,
+        "Key": "j058",
+        "enUS": "of the Wolf"
+    },
+    {
+        "id": 27427,
+        "Key": "j059",
+        "enUS": "of the Ox"
+    },
+    {
+        "id": 27428,
+        "Key": "j060",
+        "enUS": "of the Crane"
+    },
+    {
+        "id": 27429,
+        "Key": "j061",
+        "enUS": "of Brilliance"
+    },
+    {
+        "id": 27430,
+        "Key": "j062",
+        "enUS": "of Flowing Water"
+    },
+    {
+        "id": 27431,
+        "Key": "j063",
+        "enUS": "of the Steward"
+    },
+    {
+        "id": 27432,
+        "Key": "j064",
+        "enUS": "of Eternity"
+    },
+    {
+        "id": 27433,
+        "Key": "j065",
+        "enUS": "of Alacrity"
+    },
+    {
+        "id": 27434,
+        "Key": "j066",
+        "enUS": "of Blocking"
+    },
+    {
+        "id": 27435,
+        "Key": "j067",
+        "enUS": "of Evisceration"
+    },
+    {
+        "id": 27436,
+        "Key": "j068",
+        "enUS": "of Cooling"
+    },
+    {
+        "id": 27437,
+        "Key": "j069",
+        "enUS": "of Grounding"
+    },
+    {
+        "id": 27438,
+        "Key": "j070",
+        "enUS": "of Warmth"
+    },
+    {
+        "id": 27439,
+        "Key": "j071",
+        "enUS": "of Earth"
+    },
+    {
+        "id": 27440,
+        "Key": "j072",
+        "enUS": "of Antivenin"
+    },
+    {
+        "id": 27441,
+        "Key": "j073",
+        "enUS": "of Warding"
+    },
+    {
+        "id": 27442,
+        "Key": "j074",
+        "enUS": "of the Fire Elemental"
+    },
+    {
+        "id": 27443,
+        "Key": "j075",
+        "enUS": "of the Gods"
+    },
+    {
+        "id": 27444,
+        "Key": "j076",
+        "enUS": "of Magic Absorption"
+    },
+    {
+        "id": 27445,
+        "Key": "j077",
+        "enUS": "of the Ice Eater"
+    },
+    {
+        "id": 27446,
+        "Key": "j078",
+        "enUS": "of Healing"
+    },
+    {
+        "id": 27447,
+        "Key": "j079",
+        "enUS": "of Swiftness"
+    },
+    {
+        "id": 27448,
+        "Key": "j080",
+        "enUS": "of the Duck"
+    },
+    {
+        "id": 27449,
+        "Key": "j081",
+        "enUS": "of the Goose"
+    },
+    {
+        "id": 27450,
+        "Key": "j082",
+        "enUS": "of Coalescing"
+    },
+    {
+        "id": 27451,
+        "Key": "j083",
+        "enUS": "of the Amazonas"
+    },
+    {
+        "id": 27452,
+        "Key": "j084",
+        "enUS": "of the Crusader"
+    },
+    {
+        "id": 27453,
+        "Key": "j085",
+        "enUS": "of the Undead"
+    },
+    {
+        "id": 27454,
+        "Key": "j086",
+        "enUS": "of the Ethereal"
+    },
+    {
+        "id": 27455,
+        "Key": "j087",
+        "enUS": "of the Tribes"
+    },
+    {
+        "id": 27456,
+        "Key": "j088",
+        "enUS": "of Welfare "
+    },
+    {
+        "id": 27457,
+        "Key": "j089",
+        "enUS": "of Speed"
+    },
+    {
+        "id": 27458,
+        "Key": "j090",
+        "enUS": "of Cruelty"
+    },
+    {
+        "id": 27459,
+        "Key": "j091",
+        "enUS": "of Precision"
+    },
+    {
+        "id": 27460,
+        "Key": "j092",
+        "enUS": "of Purging"
+    },
+    {
+        "id": 27461,
+        "Key": "j093",
+        "enUS": "of the Fire Lord"
+    },
+    {
+        "id": 27462,
+        "Key": "j094",
+        "enUS": "of Greatness"
+    },
+    {
+        "id": 27463,
+        "Key": "j095",
+        "enUS": "of Freezing"
+    },
+    {
+        "id": 27464,
+        "Key": "j096",
+        "enUS": "of Bleeding"
+    },
+    {
+        "id": 27465,
+        "Key": "j097",
+        "enUS": "of Assassination"
+    },
+    {
+        "id": 27466,
+        "Key": "j098",
+        "enUS": "of Crippling"
+    },
+    {
+        "id": 27467,
+        "Key": "j099",
+        "enUS": "of the Snow Man"
+    },
+    {
+        "id": 27468,
+        "Key": "j100",
+        "enUS": "of pericing"
+    },
+    {
+        "id": 27469,
+        "Key": "j101",
+        "enUS": "of Magic Arrows"
+    },
+    {
+        "id": 27470,
+        "Key": "j102",
+        "enUS": "of Explosive Arrows"
+    },
+    {
+        "id": 27471,
+        "Key": "j103",
+        "enUS": "of the Wild"
+    },
+    {
+        "id": 27472,
+        "Key": "j104",
+        "enUS": "of Slaying"
+    },
+    {
+        "id": 27473,
+        "Key": "j105",
+        "enUS": "of Learning"
+    },
+    {
+        "id": 27474,
+        "Key": "j106",
+        "enUS": "of Haggling"
+    }
+]
