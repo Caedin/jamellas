@@ -672,8 +672,8 @@ Act 4 (H) Unique B	15	80	-3	200	400	600	800	80	Act 4 (H) Uitem B	1	Act 4 (H) Cpo
 Act 5 (H) Unique A	15	81	-3	203	405	608	810	81	Act 5 (H) Uitem A	1	Act 5 (H) Cpot A	2																					0
 Act 5 (H) Unique B	15	83	-3	208	415	623	830	83	Act 5 (H) Uitem B	1	Act 5 (H) Cpot B	2																					0
 Act 5 (H) Unique C	15	85	-3	213	425	638	850	85	Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2																					0
-Quill 1	16	0	-6						dhr	1	ss1	1	ss2	1	ss3	1	si1	1	si2	1													0
-Quill 2	16	4	1	10	20	30	40	4																									0
+Quill 1	16	0	1					125	Gold	19	Act 1 Junk	19	Act 1 Good	1																			0
+Quill 2	16	4	1	10	20	30	40	125	Gold	19	Act 1 Junk	19	Act 1 Good	1																			0
 Quill 3	16	8	1	20	40	60	80	125	Gold	19	Act 1 Junk	19	Act 1 Good	1																			0
 Quill 4	16	12	1	30	60	90	120	125	Gold	19	Act 1 Junk	19	Act 1 Good	1																			0
 Quill 5	16	20	1	50	100	150	200	125	Gold	19	Act 3 Junk	19	Act 3 Good	1																			0

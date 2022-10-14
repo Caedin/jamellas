@@ -53,7 +53,10 @@ att-undead	10	8	6	2	6	2	0	0	1	15	weap	Undead Slayer's	of Purging
 fireskill	1	0	1	0	1	0	1	0	25	static	armo	Fire Lord's	of the Fire Lord
 allskills	1	0	1	0	1	0	0	0	55	static	armo	Great	of Greatness
 freeze	1	0	0	0	0	0	0	0	25	static	weap	Frozen	of Freezing
-openwounds	21	23	0	0	0	0	0	0	1	static	weap	Bloodletter's	of Bleeding
+extra-fire	7	5	0	0	0	0	0	0	1	5	weap		
+extra-ltng	7	5	0	0	0	0	0	0	1	5	weap		
+extra-pois	7	5	0	0	0	0	0	0	1	5	weap		
+extra-cold	7	5	0	0	0	0	0	0	1	5	weap		
 deadly	21	23	0	0	0	0	10	0	1	static	weap	Assassin's	of Assassination
 slow	25	0	0	0	0	0	0	0	1	static	weap	Cripple's	of Crippling
 nofreeze	1	0	0	0	0	0	0	0	25	static	armo	Indominable	of the Snow Man

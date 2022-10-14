@@ -5,30 +5,30 @@ Amethyst		18	gsv	att	0	160	160						0	0	0	str	0	12	12		0	0	0		0	0	0	ac	0	32	32		
 Flawless Amethyst		18	gzv	att	0	320	320						0	0	0	str	0	24	24		0	0	0		0	0	0	ac	0	64	64		0	0	0		0	0	0
 Perfect Amethyst		17	gpv	att	0	640	640						0	0	0	str	0	48	48		0	0	0		0	0	0	ac	0	128	128		0	0	0		0	0	0
 Chipped Sapphire		5	gcb	cold-min	0	1	1	cold-max	0	3	3	cold-len	0	25	25	enr	0	3	3		0	0	0		0	0	0	res-cold	0	12	12		0	0	0		0	0	0
-Flawed Sapphire		5	gfb	cold-min	0	2	2	cold-max	0	6	6	cold-len	0	35	35	enr	0	6	6		0	0	0		0	0	0	res-cold	0	24	24		0	0	0		0	0	0
-Sapphire		5	gsb	cold-min	0	4	4	cold-max	0	12	12	cold-len	0	50	50	enr	0	12	12		0	0	0		0	0	0	res-cold	0	48	48		0	0	0		0	0	0
-Flawless Sapphire		5	glb	cold-min	0	8	8	cold-max	0	24	24	cold-len	0	60	60	enr	0	24	24		0	0	0		0	0	0	res-cold	0	96	96		0	0	0		0	0	0
-Perfect Sapphire		6	gpb	cold-min	0	16	16	cold-max	0	48	48	cold-len	0	75	75	enr	0	48	48		0	0	0		0	0	0	res-cold	0	192	192		0	0	0		0	0	0
+Flawed Sapphire		5	gfb	cold-min	0	2	2	cold-max	0	6	6	cold-len	0	35	35	enr	0	6	6		0	0	0		0	0	0	res-cold	0	18	18		0	0	0		0	0	0
+Sapphire		5	gsb	cold-min	0	4	4	cold-max	0	12	12	cold-len	0	50	50	enr	0	12	12		0	0	0		0	0	0	res-cold	0	24	24		0	0	0		0	0	0
+Flawless Sapphire		5	glb	cold-min	0	8	8	cold-max	0	24	24	cold-len	0	60	60	enr	0	24	24		0	0	0		0	0	0	res-cold	0	36	36		0	0	0		0	0	0
+Perfect Sapphire		6	gpb	cold-min	0	16	16	cold-max	0	48	48	cold-len	0	75	75	enr	0	48	48		0	0	0		0	0	0	res-cold	0	48	48		0	0	0		0	0	0
 Chipped Emerald		11	gcg	pois-min	0	34	34	pois-max	0	34	34	pois-len	0	75	75	dex	0	3	3		0	0	0		0	0	0	res-pois	0	12	12		0	0	0		0	0	0
-Flawed Emerald		11	gfg	pois-min	0	68	68	pois-max	0	68	68	pois-len	0	100	100	dex	0	6	6		0	0	0		0	0	0	res-pois	0	24	24		0	0	0		0	0	0
-Emerald		11	gsg	pois-min	0	136	136	pois-max	0	136	136	pois-len	0	125	125	dex	0	12	12		0	0	0		0	0	0	res-pois	0	48	48		0	0	0		0	0	0
-Flawless Emerald		11	glg	pois-min	0	272	272	pois-max	0	272	272	pois-len	0	152	152	dex	0	24	24		0	0	0		0	0	0	res-pois	0	96	96		0	0	0		0	0	0
-Perfect Emerald		12	gpg	pois-min	0	544	544	pois-max	0	544	544	pois-len	0	179	179	dex	0	48	48		0	0	0		0	0	0	res-pois	0	192	192		0	0	0		0	0	0
+Flawed Emerald		11	gfg	pois-min	0	68	68	pois-max	0	68	68	pois-len	0	100	100	dex	0	6	6		0	0	0		0	0	0	res-pois	0	18	18		0	0	0		0	0	0
+Emerald		11	gsg	pois-min	0	136	136	pois-max	0	136	136	pois-len	0	125	125	dex	0	12	12		0	0	0		0	0	0	res-pois	0	24	24		0	0	0		0	0	0
+Flawless Emerald		11	glg	pois-min	0	272	272	pois-max	0	272	272	pois-len	0	152	152	dex	0	24	24		0	0	0		0	0	0	res-pois	0	36	36		0	0	0		0	0	0
+Perfect Emerald		12	gpg	pois-min	0	544	544	pois-max	0	544	544	pois-len	0	179	179	dex	0	48	48		0	0	0		0	0	0	res-pois	0	48	48		0	0	0		0	0	0
 Chipped Ruby		8	gcr	fire-min	0	3	3	fire-max	0	4	4		0	0	0	hp	0	10	10		0	0	0		0	0	0	res-fire	0	12	12		0	0	0		0	0	0
-Flawed Ruby		8	gfr	fire-min	0	6	6	fire-max	0	8	8		0	0	0	hp	0	20	20		0	0	0		0	0	0	res-fire	0	24	24		0	0	0		0	0	0
-Ruby		8	gsr	fire-min	0	12	12	fire-max	0	16	16		0	0	0	hp	0	40	40		0	0	0		0	0	0	res-fire	0	48	48		0	0	0		0	0	0
-Flawless Ruby		8	glr	fire-min	0	24	24	fire-max	0	32	32		0	0	0	hp	0	80	80		0	0	0		0	0	0	res-fire	0	96	96		0	0	0		0	0	0
-Perfect Ruby		9	gpr	fire-min	0	48	48	fire-max	0	64	64		0	0	0	hp	0	160	160		0	0	0		0	0	0	res-fire	0	192	192		0	0	0		0	0	0
+Flawed Ruby		8	gfr	fire-min	0	6	6	fire-max	0	8	8		0	0	0	hp	0	20	20		0	0	0		0	0	0	res-fire	0	18	18		0	0	0		0	0	0
+Ruby		8	gsr	fire-min	0	12	12	fire-max	0	16	16		0	0	0	hp	0	40	40		0	0	0		0	0	0	res-fire	0	24	24		0	0	0		0	0	0
+Flawless Ruby		8	glr	fire-min	0	24	24	fire-max	0	32	32		0	0	0	hp	0	80	80		0	0	0		0	0	0	res-fire	0	36	36		0	0	0		0	0	0
+Perfect Ruby		9	gpr	fire-min	0	48	48	fire-max	0	64	64		0	0	0	hp	0	160	160		0	0	0		0	0	0	res-fire	0	48	48		0	0	0		0	0	0
 Chipped Diamond		1	gcw	dmg-undead	0	28	28						0	0	0	att	0	20	20		0	0	0		0	0	0	res-all	0	6	6		0	0	0		0	0	0
 Flawed Diamond		1	gfw	dmg-undead	0	56	56						0	0	0	att	0	40	40		0	0	0		0	0	0	res-all	0	12	12		0	0	0		0	0	0
-Diamond		1	gsw	dmg-undead	0	112	112						0	0	0	att	0	80	80		0	0	0		0	0	0	res-all	0	24	24		0	0	0		0	0	0
-Flawless Diamond		1	glw	dmg-undead	0	224	224						0	0	0	att	0	160	160		0	0	0		0	0	0	res-all	0	48	48		0	0	0		0	0	0
-Perfect Diamond		0	gpw	dmg-undead	0	448	448						0	0	0	att	0	320	320		0	0	0		0	0	0	res-all	0	96	96		0	0	0		0	0	0
+Diamond		1	gsw	dmg-undead	0	112	112						0	0	0	att	0	80	80		0	0	0		0	0	0	res-all	0	18	18		0	0	0		0	0	0
+Flawless Diamond		1	glw	dmg-undead	0	224	224						0	0	0	att	0	160	160		0	0	0		0	0	0	res-all	0	24	24		0	0	0		0	0	0
+Perfect Diamond		0	gpw	dmg-undead	0	448	448						0	0	0	att	0	320	320		0	0	0		0	0	0	res-all	0	30	30		0	0	0		0	0	0
 Chipped Topaz		14	gcy	ltng-min	0	1	1	ltng-max	0	8	8		0	0	0	mag%	0	9	9		0	0	0		0	0	0	res-ltng	0	12	12		0	0	0		0	0	0
-Flawed Topaz		14	gfy	ltng-min	0	1	1	ltng-max	0	16	16		0	0	0	mag%	0	18	18		0	0	0		0	0	0	res-ltng	0	24	24		0	0	0		0	0	0
-Topaz		14	gsy	ltng-min	0	1	1	ltng-max	0	32	32		0	0	0	mag%	0	36	36		0	0	0		0	0	0	res-ltng	0	48	48		0	0	0		0	0	0
-Flawless Topaz		14	gly	ltng-min	0	1	1	ltng-max	0	64	64		0	0	0	mag%	0	72	72		0	0	0		0	0	0	res-ltng	0	96	96		0	0	0		0	0	0
-Perfect Topaz		13	gpy	ltng-min	0	1	1	ltng-max	0	128	128		0	0	0	mag%	0	144	144		0	0	0		0	0	0	res-ltng	0	192	192		0	0	0		0	0	0
+Flawed Topaz		14	gfy	ltng-min	0	1	1	ltng-max	0	16	16		0	0	0	mag%	0	18	18		0	0	0		0	0	0	res-ltng	0	18	18		0	0	0		0	0	0
+Topaz		14	gsy	ltng-min	0	1	1	ltng-max	0	32	32		0	0	0	mag%	0	36	36		0	0	0		0	0	0	res-ltng	0	24	24		0	0	0		0	0	0
+Flawless Topaz		14	gly	ltng-min	0	1	1	ltng-max	0	64	64		0	0	0	mag%	0	72	72		0	0	0		0	0	0	res-ltng	0	36	36		0	0	0		0	0	0
+Perfect Topaz		13	gpy	ltng-min	0	1	1	ltng-max	0	128	128		0	0	0	mag%	0	144	144		0	0	0		0	0	0	res-ltng	0	48	48		0	0	0		0	0	0
 Chipped Skull		2	skc	mana%	0	1	1	hp%	0	1	1					mana%	0	1	1	hp%	0	1	1		0	0	0	mana%	0	1	1	hp%	0	1	1		0	0	0
 Flawed Skull		2	skf	mana%	0	2	2	hp%	0	2	2					mana%	0	2	2	hp%	0	2	2		0	0	0	mana%	0	2	2	hp%	0	2	2		0	0	0
 Skull		2	sku	mana%	0	4	4	hp%	0	4	4					mana%	0	4	4	hp%	0	4	4		0	0	0	mana%	0	4	4	hp%	0	4	4		0	0	0
