@@ -32,7 +32,7 @@ aura	1	cold	1	armo	105	linear	3	x/3
 aura	1	lightning	1	armo	110	linear	3	x/3
 oskill	1	all	30	armo, weap, ring, amul	32	linear	3	x/3
 oskill	1	cold	1	armo	40, 50	linear	6	x
-oskill	1	all	18	armo, weap, ring, amul	54	linear	3	x/3
+oskill	1	all	60	weap	54	linear	3	x/3
 oskill	1	magic	24	armo, weap, ring, amul	58	linear	6	x
 oskill	1	lightning	24	armo, weap, ring, amul	57	linear	6	x
 oskill	1	all	18	weap	81	linear	6	x
