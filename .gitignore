@@ -5,4 +5,5 @@
 !.gitkeep
 !*.txt
 !*.json
+!*.py
 !*/
