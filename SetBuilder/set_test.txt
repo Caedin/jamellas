@@ -1,0 +1,188 @@
+index	*ID	set	item	*ItemName	rarity	lvl	lvl req	chrtransform	invtransform	invfile	flippyfile	dropsound	dropsfxframe	usesound	cost mult	cost add	add func	prop1	par1	min1	max1	prop2	par2	min2	max2	prop3	par3	min3	max3	prop4	par4	min4	max4	prop5	par5	min5	max5	prop6	par6	min6	max6	prop7	par7	min7	max7	prop8	par8	min8	max8	prop9	par9	min9	max9	aprop1a	apar1a	amin1a	amax1a	aprop1b	apar1b	amin1b	amax1b	aprop2a	apar2a	amin2a	amax2a	aprop2b	apar2b	amin2b	amax2b	aprop3a	apar3a	amin3a	amax3a	aprop3b	apar3b	amin3b	amax3b	aprop4a	apar4a	amin4a	amax4a	aprop4b	apar4b	amin4b	amax4b	aprop5a	apar5a	amin5a	amax5a	aprop5b	apar5b	amin5b	amax5b	diablocloneweight	*eol
+Venom Shell	407	Venom Leviathan	utg	Crusader Gauntlets	1	73									5	5000		vit		36	73	res-ltng-max		5	15	regen		15	15	heal-kill		14	24	addxp		5	10	gold%		98	160																																																						0
+Venom Azurewrath	408	Venom Leviathan	ucl	Loricated Mail	1	73									5	5000		aura	110	3	13	ama		1	2	res-all		15	22	move1		20	62																																																														0
+Venom Valor	409	Venom Leviathan	7s7	Balrog Spear	1	73									5	5000		hp%		24	73	cast1		10	20	ease		50	50	cheap		5	10	mana-kill		14	15	regen		15	15																																																						0
+Venom Nethercrow	410	Venom Leviathan	uow	Aegis	1	73									5	5000		oskill	32	3	25	res-ltng		17	27	res-all		15	22	abs-ltng		5	19	hp		73	146																																																										0
+Venom Kinemils	411	Venom Leviathan	amu		1	73									5	5000		allskills		1	1	extra-ltng		61	123	res-all-max		5	15	demon-heal		14	15	regen		15	15																																																										0
+Venom Windhammer	412	Venom Leviathan	ci2	Tiara	1	73									5	5000		hp%		24	73	vit		36	73	red-mag		36	73	res-ltng		17	27	mana-kill		14	15	enr		36	73																																																						0
+Doomspittle Uniques	413	Doomspittle Salvation	7s7	Balrog Spear	1	73									5	5000		oskill	81	6	19	aura	118	3	13	mana%		24	73	hp%		24	73																																																														0
+Doomspittle Darkfear	414	Doomspittle Salvation	usk	Demonhead	1	73									5	5000		vit		36	73	res-all-max		5	15	mag%		61	98	addxp		5	10	hp%		24	73																																																										0
+Doomspittle Maelstromwrath	415	Doomspittle Salvation	upk	Blade Barrier	1	73									5	5000		mana%		24	73	abs-ltng%		15	30	res-ltng		17	27	mana		73	146	red-mag		36	73	mana-kill		14	15																																																						0
+Doomspittle Striker	416	Doomspittle Salvation	umb	Boneweave Boots	1	73									5	5000		mana%		24	73	abs-ltng		5	19	red-mag		36	73	cheap		5	10	gold%		98	160																																																										0
+Fortune Undead	417	Fortune Cord	zvb	Sharkskin Belt	1	35									5	5000		allskills		1	1	enr		17	35	res-pois		14	23	extra-pois		42	85																																																														0
+Fortune Lord	418	Fortune Cord	xlg	Demonhide Gloves	1	35									5	5000		hp%		11	35	move1		20	43	res-pois-len		50	50	regen-mana		25	25	demon-heal		9	10																																																										0
+Fortune Islestrike	419	Fortune Cord	ltp	Light Plate	1	35									5	5000		vit		17	35	extra-pois		42	85	res-all-max		5	15	gold%		60	103	mag%		42	60																																																										0
+Ethereal Ire	420	Ethereal Dead	ucl	Loricated Mail	1	68									5	5000		ama		1	2	red-mag		34	68	dmg-to-mana		10	25	vit		34	68																																																														0
+Ethereal Silkweave	421	Ethereal Dead	ukp	Hydraskull	1	68									5	5000		hp%		22	68	oskill	58	6	17	move1		20	59	red-mag		34	68	cheap		5	10	enr		34	68																																																						0
+Ethereal Dragonscale	422	Ethereal Dead	amu		1	68									5	5000		hp%		22	68	allskills		1	1	res-pois		17	27	cast1		10	20	res-pois-len		50	50	vit		34	68																																																						0
+Disk Giantmaimer	423	Disk Crown	ulc	Spiderweb Sash	1	58									5	5000		ama		1	2	enr		29	58	red-mag		29	58	res-ltng		16	26																																																														0
+Disk Reaver	424	Disk Crown	xhg	War Gauntlets	1	58									5	5000		mana%		19	58	aura	110	3	10	enr		29	58	allskills		1	1	hp%		19	58																																																										0
+Disk Stormspike	425	Disk Crown	7pi	Stygian Pilum	1	58									5	5000		oskill	58	6	15	vit		29	58	abs-ltng%		15	30	mana		58	116	regen		15	15																																																										0
+Dark Wang	426	Dark Rebuke	9ts	Harpoon	1	47									5	5000		oskill	81	6	12	hp%		15	47	res-ltng-max		5	15																																																																		0
+Dark Bong	427	Dark Rebuke	xpk	Barbed Shield	1	47									5	5000		aura	110	3	8	cast1		10	20	demon-heal		10	11																																																																		0
+Venom Dragonscale	428	Venom Rockfleece	xcl	Tigulated Mail	1	37									5	5000		allskills		1	1	enr		18	37	oskill	40	6	10	vit		18	37																																																														0
+Venom Venomsward	429	Venom Rockfleece	xlg	Demonhide Gloves	1	37									5	5000		aura	105	3	7	abs-cold%		15	30	addxp		5	10	ease		50	50																																																														0
+Gheed's Coif	430	Gheed's Fleshrender	uld	Kraken Shell	1	79									5	5000		oskill	32	3	27	allskills		1	1	enr		39	79	res-cold		18	28																																																														0
+Gheed's Broc	431	Gheed's Fleshrender	6lw	Hydra Bow	1	79									5	5000		ama		1	2	mana%		26	79	hp%		26	79	dmg-cold	150	395	790	abs-cold%		15	30																																																										0
+Gheed's Dragon	432	Gheed's Fleshrender	amu		1	79									5	5000		ama		1	2	hp%		26	79	enr		39	79	mana%		26	79	extra-cold		64	129																																																										0
+Wisdon Hone	433	Wisdon Gaze	tbt	Light Plated Boots	1	16									5	5000		oskill	40	6	6	res-all		9	14	heal-kill		7	9	half-freeze		1	1																																																														0
+Wisdon Ribcracker	434	Wisdon Gaze	cbw	Composite Bow	1	16									5	5000		aura	114	3	3	allskills		1	1																																																																						0
+Wisdon Husoldal	435	Wisdon Gaze	tbl	Heavy Belt	1	16									5	5000		enr		8	16	allskills		1	1	res-all-max		5	15																																																																		0
+Crow Tarnhelm	436	Crow Speed	uvg	Vampirebone Gloves	1	66									5	5000		dex		33	66	red-dmg		33	66	res-all		14	21	ethereal		1	1	levelreq		1	1	oskill	145	6	17																																																						0
+Crow Shakaku	437	Crow Speed	uea	Wyrmhide	1	66									5	5000		dex		33	66	all-stats		13	22	demon-heal		13	14	indestruct		1	1	thorns		66	266	ac		355	685																																																						0
+Executioner's Giantskull	438	Executioner's Bite	rin		1	41									5	5000		str		20	41	dex		20	41	oskill	153	6	11	hp%		13	41	all-stats		10	16																																																										0
+Executioner's Kuko	439	Executioner's Bite	8cb	Double Bow	1	41									5	5000		lifesteal		4	8	ama		1	2	dmg%		182	423																																																																		0
+Executioner's Shadowfang	440	Executioner's Bite	amu		1	41									5	5000		dex		20	41	ama		1	2	hp		41	82																																																																		0
+Thieves Blood	441	Thieves Marrowwalk	xtg	Battle Gauntlets	1	43									5	5000		oskill	32	3	15	aura	 103	3	8	move1		20	47	addxp		5	10	red-dmg%		11	16																																																										0
+Thieves Manald	442	Thieves Marrowwalk	8sw	Rune Bow	1	43									5	5000		allskills		1	1	openwounds		25	50	pierce		50	50																																																																		0
+Thieves Hades	443	Thieves Marrowwalk	ztb	Battle Belt	1	43									5	5000		vit		21	43	str		21	43	red-dmg%		11	16	hp%		14	43	res-all-max		5	15																																																										0
+Thieves Honor	444	Thieves Marrowwalk	xvb	Sharkskin Boots	1	43									5	5000		dex		21	43	swing1		20	47	all-stats		10	16	red-dmg		21	43	ac		240	455																																																										0
+Thieves Woestave	445	Thieves Marrowwalk	xlm	Casque	1	43									5	5000		allskills		1	1	swing1		20	47	red-dmg		21	43																																																																		0
+Thieves Striker	446	Thieves Marrowwalk	xrs	Cuirass	1	43									5	5000		ama		1	2	hp%		14	43	red-dmg%		11	16	ac%		143	236	swing1		20	47																																																										0
+Patriarch Lazarus	447	Patriarch Vipermagi	amu		1	17									5	5000		enr		8	17	mana%		5	17	vit		8	17	ama		1	2																																																														0
+Patriarch Ironstone	448	Patriarch Vipermagi	lbb	Long Battle Bow	1	17									5	5000		ama		1	2	move1		20	34																																																																						0
+Patriarch Spellsteel	449	Patriarch Vipermagi	spl	Splint Mail	1	17									5	5000		allskills		1	1	move1		20	34	dmg-to-mana		10	25																																																																		0
+Patriarch Mane	450	Patriarch Vipermagi	rin		1	17									5	5000		allskills		1	1	abs-fire		5	5	all-stats		7	10	mana-kill		7	8																																																														0
+Rimeraven Spiritforge	451	Rimeraven Gorerod	uui	Dusk Shroud	1	59									5	5000		allskills		1	1	mana%		19	59	res-fire-max		5	15	red-mag		29	59	abs-fire%		15	30	abs-fire		5	15																																																						0
+Rimeraven Coif	452	Rimeraven Gorerod	uhl	Giant Conch	1	59									5	5000		ama		1	2	aura	100	3	10	oskill	32	3	20	res-all		14	21	abs-fire%		15	30	heal-kill		12	20																																																						0
+Dimoaks Peace	453	Dimoaks temper	crn	Crown	1	30									5	5000		ama		1	2	cast1		10	20	abs-fire%		15	30	dmg-to-mana		10	25																																																														0
+Dimoaks Guard	454	Dimoaks temper	hbt	Greaves	1	30									5	5000		oskill	94	6	8	allskills		1	1	res-fire		14	22	abs-fire%		15	30	mana-kill		8	9																																																										0
+Dimoaks Earthshaker	455	Dimoaks temper	swb	Short War Bow	1	30									5	5000		allskills		1	1	aura	102	3	5	all-stats		8	13	dmg-fire		150	300	fireskill		1	2																																																										0
+Dimoaks Star	456	Dimoaks temper	ltp	Light Plate	1	30									5	5000		enr		15	30	allskills		1	1	vit		15	30																																																																		0
+Dimoaks Lenyms	457	Dimoaks temper	xlg	Demonhide Gloves	1	30									5	5000		ama		1	2	res-all-max		5	15	extra-fire		40	80																																																																		0
+Dimoaks Kuko	458	Dimoaks temper	rin		1	30									5	5000		enr		15	30	fireskill		1	2	extra-fire		40	80																																																																		0
+Relic Carver	459	Relic Serpent	xcl	Tigulated Mail	1	48									5	5000		mana%		16	48	hp%		16	48	ass		1	2	res-cold		16	25																																																														0
+Relic Wang	460	Relic Serpent	xmg	Heavy Bracers	1	48									5	5000		oskill	58	6	12	nofreeze		1	1	abs-cold%		15	30	abs-cold		5	12																																																														0
+Wraithflight Soulfeast	461	Wraithflight Mail	uth	Lacquered Plate	1	77									5	5000		red-dmg%		13	19	str		38	77	move1		20	64	mag%		63	102	ac-hth		410	795	ethereal		1	1																																																						0
+Wraithflight Eye	462	Wraithflight Mail	utb	Mirrored Boots	1	77									5	5000		aura	 104	3	13	vit		38	77	oskill	145	6	20	red-dmg		38	77																																																														0
+Wraithflight Rakescar	463	Wraithflight Mail	7pa	Cryptic Axe	1	77									5	5000		dmg%		254	531	ass		1	2	dex		38	77	str		38	77																																																														0
+Wraithflight Steelrend	464	Wraithflight Mail	amu		1	77									5	5000		str		38	77	ass		1	2	vit		38	77	dex		38	77																																																														0
+Key Endlesshail	465	Key Lament	hgl	Gauntlets	1	29									5	5000		allskills		1	1	red-mag		14	29	res-pois-len		50	50	cheap		5	10	mag%		39	54																																																										0
+Key Atlantian	466	Key Lament	fld	Field Plate	1	29									5	5000		vit		14	29	extra-pois		39	79	dmg-to-mana		10	25																																																																		0
+Blacktongue Metalgrid	467	Blacktongue Scraper	xmg	Heavy Bracers	1	42									5	5000		str		21	42	ac%		142	234	balance1		15	25																																																																		0
+Blacktongue Charge	468	Blacktongue Scraper	xvb	Sharkskin Boots	1	42									5	5000		dex		21	42	ac%		142	234	red-dmg		21	42	swing1		20	46	move1		20	46																																																										0
+Blacktongue Pierre	469	Blacktongue Scraper	xsk	Death Mask	1	42									5	5000		oskill	32	3	14	swing1		20	46	ac		235	445	ease		50	50																																																														0
+Blacktongue Swordguard	470	Blacktongue Scraper	9s8	Battle Scythe	1	42									5	5000		dex		21	42	openwounds		25	50	indestruct		1	1																																																																		0
+Blacktongue Tannr	471	Blacktongue Scraper	aar	Ancient Armor	1	42									5	5000		aura	99	3	7	vit		21	42	swing1		20	46	red-dmg		21	42																																																														0
+Ichorsting Blackoak	472	Ichorsting Culwens	xtp	Mage Plate	1	62									5	5000		aura	110	3	11	mana%		20	62	abs-ltng		5	16	cast1		10	20	res-ltng-max		5	15	res-all-max		5	15																																																						0
+Ichorsting Krintizs	473	Ichorsting Culwens	uap	Shako	1	62									5	5000		oskill	57	6	16	res-ltng-max		5	15	red-mag		31	62	abs-ltng		5	16	cast1		10	20																																																										0
+Ichorsting Cold	474	Ichorsting Culwens	ulg	Bramble Mitts	1	62									5	5000		enr		31	62	allskills		1	1	all-stats		12	21	extra-ltng		56	112	res-all-max		5	15																																																										0
+Umbral Scalper	475	Umbral Awl	ula	Scarab Husk	1	72									5	5000		str		36	72	oskill	145	6	18	red-dmg%		13	18	dex		36	72																																																														0
+Umbral Buriza-Do	476	Umbral Awl	umc	Mithril Coil	1	72									5	5000		aura	 109	3	12	dex		36	72	res-all-max		5	15	red-dmg		36	72																																																														0
+Viperfork Hellclap	477	Viperfork Gravenspine	7fc	Hydra Edge	1	69									5	5000		str		34	69	dex		34	69	hp		69	138	dmg-norm		345	690																																																														0
+Viperfork Ears	478	Viperfork Gravenspine	usk	Demonhead	1	69									5	5000		bar		1	2	red-dmg%		13	18	move1		20	60	hp		69	138																																																														0
+Viperfork Naga	479	Viperfork Gravenspine	uvb	Scarabshell Boots	1	69									5	5000		aura	 103	3	12	red-dmg%		13	18	str		34	69	hp%		23	69	bar		1	2	res-all		15	22																																																						0
+Viperfork Oculus	480	Viperfork Gravenspine	7tk	Flying Knife	1	69									5	5000		dex		34	69	crush		25	35	swing1		20	60	dmg-norm		345	690	ignore-ac		1	1	att		370	715																																																						0
+Fleshrender Treads	481	Fleshrender Steelrend	ba8	Rage Mask	1	42									5	5000		dex		21	42	ac%		142	234	swing1		20	46	mag%		46	67																																																														0
+Fleshrender Key	482	Fleshrender Steelrend	9wh	Battle Hammer	1	42									5	5000		lifesteal		4	8	dmg-norm		210	420	ignore-ac		1	1																																																																		0
+Fleshrender Humongous	483	Fleshrender Steelrend	9cm	Dacian Falx	1	42									5	5000		str		21	42	oskill	32	3	14	dmg%		184	426	dex		21	42																																																														0
+Stormlash Endlesshail	484	Stormlash Stormshield	ulg	Bramble Mitts	1	54									5	5000		red-dmg%		12	17	ac%		154	258	levelreq		1	1	ethereal		1	1	indestruct		1	1																																																										0
+Stormlash Endlesshail	485	Stormlash Stormshield	9gi	Ancient Axe	1	54									5	5000		allskills		1	1	openwounds		25	50	levelreq		1	1																																																																		0
+Victors Tannr	486	Victors Steeldriver	xul	Chaos Armor	1	62									5	5000		red-dmg%		12	18	red-dmg		31	62	ac%		162	274	res-all		14	21																																																														0
+Victors Skystrike	487	Victors Steeldriver	amu		1	62									5	5000		dex		31	62	res-all-max		5	15	move1		20	56	swing1		20	56																																																														0
+Expansion Horadric	488	Expansion Todesfaelle	7b8	Winged Axe	1	80									5	5000		str		40	80	oskill	81	6	20	hp%		26	80	dmg%		260	540	allskills		1	1	deadly		25	50																																																						0
+Expansion Sprinkler	489	Expansion Todesfaelle	7gd	Colossus Blade	1	80									5	5000		dex		40	80	dmg-norm		400	800	deadly		25	50	ignore-ac		1	1																																																														0
+Spirit Deathspade	490	Spirit Blackhand	xhg	War Gauntlets	1	55									5	5000		aura	105	3	10	abs-cold		5	14	nofreeze		1	1	hp		55	110	res-cold-max		5	15	extra-cold		52	105																																																						0
+Spirit Gull	491	Spirit Blackhand	9gd	Executioner Sword	1	55									5	5000		allskills		1	1	res-all-max		5	15	dmg-cold	150	275	550	cheap		5	10																																																														0
+Spirit Crushflange	492	Spirit Blackhand	xtp	Mage Plate	1	55									5	5000		oskill	40	6	14	nofreeze		1	1	half-freeze		1	1	allskills		1	1																																																														0
+Spirit temper	493	Spirit Blackhand	ulc	Spiderweb Sash	1	55									5	5000		mana%		18	55	vit		27	55	dru		1	2	enr		27	55																																																														0
+Spirit Keep	494	Spirit Blackhand	xrn	Grand Crown	1	55									5	5000		hp%		18	55	abs-cold		5	14	nofreeze		1	1	regen-mana		25	25	heal-kill		11	19																																																										0
+Spirit Hellclap	495	Spirit Blackhand	dra	Totemic Mask	1	55									5	5000		vit		27	55	mana%		18	55	extra-cold		52	105	mana-kill		11	12	cheap		5	10																																																										0
+Heart Odium	496	Heart Razortine	ulg	Bramble Mitts	1	60									5	5000		oskill	58	6	15	aura	100	3	10	mana%		20	60	allskills		1	1																																																														0
+Heart One	497	Heart Razortine	uhn	Boneweave	1	60									5	5000		allskills		1	1	enr		30	60	res-fire		17	26	fireskill		1	3	abs-fire%		15	30																																																										0
+Heart Leviathan	498	Heart Razortine	72h	Legend Sword	1	60									5	5000		vit		30	60	enr		30	60	abs-fire		5	15	res-all		14	21	hp		60	120	res-fire		17	26																																																						0
+Heart Sureshrill	499	Heart Razortine	xrn	Grand Crown	1	60									5	5000		enr		30	60	hp%		20	60	mana%		20	60	dru		1	2	res-fire		17	26	res-fire-max		5	15																																																						0
+Speed Piercerib	500	Speed Curio	spt	Spetum	1	19									5	5000		mana%		6	19	abs-fire%		15	30	hp		19	38	abs-fire		5	5																																																														0
+Speed Spike	501	Speed Curio	ci0	Circlet	1	19									5	5000		mana%		6	19	aura	100	3	4																																																																						0
+Speed Shadowfang	502	Speed Curio	chn	Chain Mail	1	19									5	5000		allskills		1	1	enr		9	19	vit		9	19																																																																		0
+Frost Husoldal	503	Frost Ironward	xcl	Tigulated Mail	1	41									5	5000		aura	100	3	7	vit		20	41	oskill	32	3	14	enr		20	41																																																														0
+Frost Evo	504	Frost Ironward	9fl	Knout	1	41									5	5000		dru		1	2	hp%		13	41	hp		41	82	ease		50	50																																																														0
+Frost Pupil	505	Frost Ironward	xit	Dragon Shield	1	41									5	5000		vit		20	41	extra-fire		45	91	demon-heal		10	11	gold%		66	112																																																														0
+Frost Hellplague	506	Frost Ironward	xmg	Heavy Bracers	1	41									5	5000		enr		20	41	vit		20	41	abs-fire%		15	30	fireskill		1	2																																																														0
+Frost Duskdeep	507	Frost Ironward	amu		1	41									5	5000		enr		20	41	vit		20	41	mana%		13	41	hp%		13	41																																																														0
+Snakecord Moon	508	Snakecord Kaleidoscope	9br	War Fork	1	45									5	5000		crush		25	25	deadly		25	50	gold%		70	118	heal-kill		10	17	balance1		15	25																																																										0
+Snakecord Lidless	509	Snakecord Kaleidoscope	xmg	Heavy Bracers	1	45									5	5000		red-dmg%		11	16	str		22	45	oskill	145	6	12	allskills		1	1	hp		45	90																																																										0
+Snakecord Pluckeye	510	Snakecord Kaleidoscope	zmb	Mesh Belt	1	45									5	5000		red-dmg%		11	16	vit		22	45	swing1		20	48	res-all		13	20																																																														0
+Waterwalk Wormskull	511	Waterwalk Riphook	gth	Gothic Plate	1	29									5	5000		hp%		9	29	res-pois-max		5	15	dmg-to-mana		10	25																																																																		0
+Waterwalk Facet	512	Waterwalk Riphook	hgl	Gauntlets	1	29									5	5000		hp%		9	29	dru		1	2	mana%		9	29	res-all		12	17	dmg-to-mana		10	25																																																										0
+Nagelring Tan	513	Nagelring Fortune	xlb	Demonhide Boots	1	35									5	5000		hp%		11	35	ac%		135	220	ac		200	375																																																																		0
+Nagelring Earthshifter	514	Nagelring Fortune	aar	Ancient Armor	1	35									5	5000		dru		1	2	dex		17	35	swing1		20	43																																																																		0
+Nagelring Serpent	515	Nagelring Fortune	9tr	Fuscina	1	35									5	5000		aura	 108	3	6	dru		1	2	dmg%		170	405	dmg-undead		305	675																																																														0
+Nagelring Flamme	516	Nagelring Fortune	xap	War Hat	1	35									5	5000		red-dmg%		11	15	oskill	145	6	9	res-all		12	18	addxp		5	10																																																														0
+Nagelring Wizendraw	517	Nagelring Fortune	zvb	Sharkskin Belt	1	35									5	5000		dru		1	2	dex		17	35	red-dmg%		11	15																																																																		0
+Nagelring Gavel	518	Nagelring Fortune	xvg	Sharkskin Gloves	1	35									5	5000		red-dmg%		11	15	all-stats		9	14	ac%		135	220	res-all-max		5	15	hp		35	70																																																										0
+Talons Sanctuary	519	Talons Justice	rin		1	77									5	5000		str		38	77	vit		38	77	dex		38	77	hp%		25	77	swing1		20	64																																																										0
+Talons Point	520	Talons Justice	7bt	Decapitator	1	77									5	5000		dmg%		254	531	vit		38	77	str		38	77	oskill	54	3	20																																																														0
+Butcher's Valkiry	521	Butcher's Pluckeye	7pa	Cryptic Axe	1	80									5	5000		lifesteal		4	8	att%		180	440	mag%		65	105	noheal		1	1	addxp		5	10																																																										0
+Butcher's Guard	522	Butcher's Pluckeye	uar	Sacred Armor	1	80									5	5000		red-dmg%		13	19	swing1		20	65	hp		80	160	all-stats		15	25	red-dmg		40	80																																																										0
+Butcher's Gloomstrap	523	Butcher's Pluckeye	utg	Crusader Gauntlets	1	80									5	5000		aura	99	3	14	allskills		1	1	ac%		180	310	heal-kill		15	25																																																														0
+Giantmaimer The	524	Giantmaimer Caw	usk	Demonhead	1	73									5	5000		vit		36	73	ac%		173	296	swing1		20	62	levelreq		1	1																																																														0
+Giantmaimer Revenge	525	Giantmaimer Caw	7fc	Hydra Edge	1	73									5	5000		str		36	73	deadly		25	50	dmg-undead		419	865	all-stats		14	24	pierce		50	50	gold%		98	160																																																						0
+Harlequin Plague	526	Harlequin Venomsward	9gd	Executioner Sword	1	58									5	5000		mana%		19	58	aura	102	3	10	oskill	249	6	15	vit		29	58	allskills		1	1																																																										0
+Harlequin Pus	527	Harlequin Venomsward	uhl	Giant Conch	1	58									5	5000		mana%		19	58	mana		58	116	regen-mana		25	25	addxp		5	10	regen		15	15																																																										0
+Harlequin Annihilus	528	Harlequin Venomsward	xth	Embossed Plate	1	58									5	5000		nec		1	2	vit		29	58	cast1		10	20	extra-fire		54	108																																																														0
+Ripsaw Ire	529	Ripsaw Briser	ghm	Great Helm	1	28									5	5000		vit		14	28	aura	 109	3	5	oskill	145	6	7																																																																		0
+Ripsaw Bane	530	Ripsaw Briser	9wn	Burnt Wand	1	28									5	5000		vit		14	28	att-undead		128	284	dmg-demon		284	640																																																																		0
+Ripsaw Hammer	531	Ripsaw Briser	ne6	Mummified Trophy	1	28									5	5000		nec		1	2	dex		14	28	str		14	28																																																																		0
+Ripsaw Face	532	Ripsaw Briser	plt	Plate Mail	1	28									5	5000		red-dmg%		10	14	ac%		128	206	heal-kill		8	12	balance1		15	25																																																														0
+Rattlecage Talons	533	Rattlecage Steel	usk	Demonhead	1	70									5	5000		oskill	145	6	18	swing1		20	60	ac%		170	290	red-dmg		35	70	all-stats		13	23	ac-miss		375	725																																																						0
+Rattlecage Blinkbats	534	Rattlecage Steel	7ba	Silver-edged Axe	1	70									5	5000		crush		25	35	vit		35	70	dmg-undead		410	850	dmg-ac		50	1120	att%		170	410																																																										0
+Rattlecage Vampiregaze	535	Rattlecage Steel	utg	Crusader Gauntlets	1	70									5	5000		str		35	70	res-all		15	22	res-all-max		5	15	ac-hth		375	725																																																														0
+Rattlecage Headstriker	536	Rattlecage Steel	amu		1	70									5	5000		str		35	70	dex		35	70	move1		20	60	all-stats		13	23																																																														0
+Toe Reaver	537	Toe Brainhew	ne7	Fetish Trophy	1	36									5	5000		aura	99	3	6	red-dmg		18	36	swing1		20	43	ac%		136	222	res-all		12	18																																																										0
+Toe Waterwalk	538	Toe Brainhew	9ha	Hatchet	1	36									5	5000		vit		18	36	deadly		25	50	att-undead		136	308	att-demon		136	308																																																														0
+Staunch Awl	539	Staunch SuperKhalimFlail	xrn	Grand Crown	1	56									5	5000		mana%		18	56	all-stats		12	19	extra-pois		53	106	mana		56	112																																																														0
+Staunch Hellcast	540	Staunch SuperKhalimFlail	uhn	Boneweave	1	56									5	5000		nec		1	2	mana		56	112	mag%		53	81	mana%		18	56	all-stats		12	19																																																										0
+Crusher Briser	541	Crusher Arch	ne3	Unraveller Head	1	21									5	5000		nec		1	2	hp%		7	21	enr		10	21	mana%		7	21																																																														0
+Crusher Elite	542	Crusher Arch	ghm	Great Helm	1	21									5	5000		enr		10	21	red-mag		10	21	res-pois		12	20																																																																		0
+Crusher Bladebuckle	543	Crusher Arch	brs	Breast Plate	1	21									5	5000		vit		10	21	allskills		1	1	mana		21	42																																																																		0
+Crusher Gimmershred	544	Crusher Arch	amu		1	21									5	5000		enr		10	21	all-stats		7	11	regen		15	15																																																																		0
+Crusher Woestave	545	Crusher Arch	tgl	Light Gauntlets	1	21									5	5000		hp%		7	21	res-pois		12	20	mana-kill		7	8																																																																		0
+Speed Wrath	546	Speed Flame	xar	Ornate Armor	1	62									5	5000		dex		31	62	ac%		162	274	ease		50	50	ac		335	645																																																														0
+Speed Lament	547	Speed Flame	7ba	Silver-edged Axe	1	62									5	5000		crush		25	31	att-undead		162	386	all-stats		12	21	dmg-ac		50	1112	res-all-max		5	15																																																										0
+Boneflesh Stormeye	548	Boneflesh Class	9cm	Dacian Falx	1	45									5	5000		str		22	45	pal		1	2	dex		22	45	lifesteal		4	8																																																														0
+Boneflesh Eye	549	Boneflesh Class	xtb	Battle Boots	1	45									5	5000		oskill	32	3	15	pal		1	2	red-dmg		22	45	ac		250	475																																																														0
+Wizardspike Blinkbats	550	Wizardspike Bite	rin		1	42									5	5000		oskill	153	6	11	dex		21	42	str		21	42																																																																		0
+Wizardspike Wizardspike	551	Wizardspike Bite	92h	Espandon	1	42									5	5000		dex		21	42	att-demon		142	326	swing1		20	46																																																																		0
+Wizardspike Stump	552	Wizardspike Bite	xcl	Tigulated Mail	1	42									5	5000		red-dmg%		11	16	pal		1	2	aura	 103	3	7																																																																		0
+Wizardspike Kuko	553	Wizardspike Bite	amu		1	42									5	5000		vit		21	42	str		21	42	swing1		20	46																																																																		0
+Wizardspike Trust	554	Wizardspike Bite	xlm	Casque	1	42									5	5000		vit		21	42	swing1		20	46	levelreq		1	1																																																																		0
+Wizardspike Tarnhelm	555	Wizardspike Bite	rin		1	42									5	5000		dex		21	42	str		21	42	vit		21	42	res-all		13	19	gold%		67	113																																																										0
+Spire Carin	556	Spire Lance	9ba	Bearded Axe 	1	37									5	5000		oskill	81	6	10	dmg-ltng		185	370	abs-ltng		5	10																																																																		0
+Spire Sharp	557	Spire Lance	aar	Ancient Armor	1	37									5	5000		mana%		12	37	vit		18	37	abs-ltng%		15	30																																																																		0
+Toll Whichwild	558	Toll Chieftan	7sp	Tyrant Club	1	53									5	5000		allskills		1	1	oskill	121	6	14	dmg-cold	150	265	530	cheap		5	10																																																														0
+Toll Steelclash	559	Toll Chieftan	xth	Embossed Plate	1	53									5	5000		hp%		17	53	cast1		10	20	extra-cold		51	103																																																																		0
+Toll Steelgoad	560	Toll Chieftan	rin		1	53									5	5000		enr		26	53	vit		26	53	cast1		10	20																																																																		0
+Meat Wraithflight	561	Meat Jordan	vou	Voulge	1	9									5	5000		allskills		1	1	aura	102	3	3	dmg-fire		45	90																																																																		0
+Meat Crainte	562	Meat Jordan	vgl	Heavy Gloves	1	9									5	5000		enr		4	9	mana%		3	9	allskills		1	1																																																																		0
+Relic Ages	563	Relic Iros	9cr	Dimensional Blade	1	33									5	5000		str		16	33	dmg-ac		50	1083	att-demon		133	299	att%		133	299	deadly		25	50																																																										0
+Relic Blade	564	Relic Iros	xea	Serpentskin Armor	1	33									5	5000		str		16	33	ac%		133	216	ac-hth		190	355	heal-kill		9	14																																																														0
+Relic Tarnhelm	565	Relic Iros	xlg	Demonhide Gloves	1	33									5	5000		oskill	32	3	11	ac%		133	216	red-dmg		16	33	swing1		20	42	res-all-max		5	15																																																										0
+Relic Cthon	566	Relic Iros	xvb	Sharkskin Boots	1	33									5	5000		red-dmg%		10	15	move1		20	42	thorns		33	233	str		16	33																																																														0
+Relic Darkfear	567	Relic Iros	xap	War Hat	1	33									5	5000		aura	 104	3	6	ac%		133	216	res-all		12	18																																																																		0
+Relic Odium	568	Relic Iros	rin		1	33									5	5000		vit		16	33	move1		20	42	all-stats		9	14	addxp		5	10																																																														0
+Couant Windforce	569	Couant Rakescar	9p9	Lance	1	52									5	5000		dmg%		204	456	dmg-ac		50	1102	balance1		15	25	ethereal		1	1																																																														0
+Couant Face	570	Couant Rakescar	zhb	War Belt	1	52									5	5000		oskill	145	6	13	hp%		17	52	str		26	52	vit		26	52																																																														0
+Steel Warder	571	Steel Wind	7gs	Balrog Blade	1	72									5	5000		oskill	54	3	18	aura	114	3	12	abs-cold		5	18	res-cold-max		5	15	dmg-cold	150	360	720																																																										0
+Steel Valkiry	572	Steel Wind	amu		1	72									5	5000		allskills		1	1	hp%		24	72	mana%		24	72	enr		36	72	vit		36	72																																																										0
+Steel Bladebuckle	573	Steel Wind	rin		1	72									5	5000		enr		36	72	abs-cold		5	18	mana		72	144	res-all-max		5	15	hp		72	144																																																										0
+Stump Darkfear	574	Stump Lazarus	7mt	Devil Star	1	74									5	5000		aura	114	3	13	oskill	121	6	19	dmg-cold	150	370	740	cast1		10	20																																																														0
+Stump Grasp	575	Stump Lazarus	amu		1	74									5	5000		mana%		24	74	abs-cold%		15	30	mana-kill		14	15	hp%		24	74	allskills		1	1	vit		37	74																																																						0
+Evo Silk	576	Evo Humongous	xlg	Demonhide Gloves	1	37									5	5000		aura	110	3	7	extra-ltng		43	87	red-mag		18	37																																																																		0
+Evo Carin	577	Evo Humongous	xla	Demonhide Armor	1	37									5	5000		oskill	58	6	10	mana%		12	37	sor		1	2																																																																		0
+Demonhorn's Toe	578	Demonhorn's Suicide	ob8	Cloudy Sphere	1	42									5	5000		hp%		14	42	cast1		10	20	mana		42	84																																																																		0
+Demonhorn's Li	579	Demonhorn's Suicide	xhl	Basinet	1	42									5	5000		enr		21	42	vit		21	42	res-ltng		15	24																																																																		0
+Demonhorn's Silkweave	580	Demonhorn's Suicide	ful	Full Plate Mail	1	42									5	5000		oskill	276	6	11	enr		21	42	vit		21	42	abs-ltng%		15	30																																																														0
+Bonnet Hone	581	Bonnet Staff	9tr	Fuscina	1	35									5	5000		aura	118	3	6	oskill	57	6	9	vit		17	35	cast1		10	20																																																														0
+Bonnet Dark	582	Bonnet Staff	xui	Ghost Armor	1	35									5	5000		sor		1	2	res-all		12	18	heal-kill		9	14	light-thorns		17	35	hp%		11	35																																																										0
+Bonnet Whichwild	583	Bonnet Staff	xvg	Sharkskin Gloves	1	35									5	5000		hp%		11	35	red-mag		17	35	abs-ltng		5	9																																																																		0
+Thieves Do	584	Thieves Swordguard	9di	Rondel	1	38									5	5000		enr		19	38	dmg-fire		190	380	extra-fire		44	88	all-stats		9	15																																																														0
+Thieves Bloodrise	585	Thieves Swordguard	zvb	Sharkskin Belt	1	38									5	5000		hp%		12	38	res-fire-max		5	15	abs-fire		5	10	regen		15	15																																																														0
+Axe Windhammer	586	Axe Viper	uld	Kraken Shell	1	76									5	5000		aura	100	3	13	res-fire		18	28	demon-heal		14	15	cheap		5	10																																																														0
+Axe Spike	587	Axe Viper	utg	Crusader Gauntlets	1	76									5	5000		oskill	32	3	26	mana%		25	76	res-all		15	22	res-fire		18	28	demon-heal		14	15	hp%		25	76																																																						0
+Kira's Etlich	588	Kira's Wang	9wh	Battle Hammer	1	42									5	5000		allskills		1	1	mana		42	84	abs-fire		5	11	demon-heal		10	11	addxp		5	10																																																										0
+Kira's Cutthroat1	589	Kira's Wang	xmb	Mesh Boots	1	42									5	5000		aura	100	3	7	oskill	94	6	11	abs-fire%		15	30	res-all		13	19	hp		42	84																																																										0
+Patriarch Couant	590	Patriarch Hellplague	7vo	Colossus Voulge	1	62									5	5000		aura	102	3	11	oskill	32	3	21	enr		31	62	res-fire		17	26	dmg-fire		310	620	regen		15	15																																																						0
+Patriarch Wisp	591	Patriarch Hellplague	ulc	Spiderweb Sash	1	62									5	5000		hp%		20	62	mana%		20	62	all-stats		12	21	abs-fire		5	16																																																														0
+Patriarch Irices	592	Patriarch Hellplague	ulb	Wyrmhide Boots	1	62									5	5000		vit		31	62	enr		31	62	mana%		20	62	abs-fire		5	16	heal-kill		12	21																																																										0
+Patriarch Felloak	593	Patriarch Hellplague	ulg	Bramble Mitts	1	62									5	5000		sor		1	2	all-stats		12	21	heal-kill		12	21	gold%		87	143																																																														0

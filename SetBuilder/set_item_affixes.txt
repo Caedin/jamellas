@@ -1,0 +1,118 @@
+Property	Hierarchy	Type	MinLvl	ItemType	Param	LvlFunc	MinValue	MaxValue
+red-dmg%	1	normal	1	armo		ln	x/32 * 100	x/24 * 100
+res-fire	2	fire	1	armo, weap, ring, amul		ln	x/24 * 100	x/16 * 100
+res-ltng	2	lightning	1	armo, weap, ring, amul		ln	x/24 * 100	x/16 * 100
+res-cold	2	cold	1	armo, weap, ring, amul		ln	x/24 * 100	x/16 * 100
+res-pois	2	poison	1	armo, weap, ring, amul		ln	x/24 * 100	x/16 * 100
+res-all	2	all	1	armo, weap, ring, amul		ln	x/28 * 100	x/20 * 100
+str	1	normal	1	armo, weap, ring, amul		linear	x / 2	x
+dex	1	normal	1	armo, weap, ring, amul		linear	x / 2	x
+vit	1	all	1	armo, weap, ring, amul		linear	x / 2	x
+enr	1	magic	1	armo, weap, ring, amul		linear	x / 2	x
+mana%	1	magic	1	armo, weap, ring, amul		linear	x / 3	x
+hp%	1	all	1	armo, weap, ring, amul		linear	x / 3	x
+dmg%	1	normal	1	weap		linear	(2 * x) + 100	(3*x) + 300
+lifesteal	1	normal	1	weap			4	8
+ama	1	all	1	armo, weap, ring, amul		linear	1	1 + x/100
+pal	1	all	1	armo, weap, ring, amul		linear	1	1 + x/100
+nec	1	all	1	armo, weap, ring, amul		linear	1	1 + x/100
+sor	1	all	1	armo, weap, ring, amul		linear	1	1 + x/100
+bar	1	all	1	armo, weap, ring, amul		linear	1	1 + x/100
+dru	1	all	1	armo, weap, ring, amul		linear	1	1 + x/100
+ass	1	all	1	armo, weap, ring, amul		linear	1	1 + x/100
+allskills	1	all	1	armo, weap, ring, amul		linear	1	x/100
+crush	1	normal	1	weap		linear	25	x/2
+aura	1	normal	1	weap	98, 108, 113, 122	linear	3	x/6
+aura	1	fire	1	weap	102	linear	3	x/6
+aura	1	cold	1	weap	114	linear	3	x/6
+aura	1	lightning	1	weap	118	linear	3	x/6
+aura	1	normal	1	armo	99, 103, 104, 109	linear	3	x/6
+aura	1	fire	1	armo	100	linear	3	x/6
+aura	1	cold	1	armo	105	linear	3	x/6
+aura	1	lightning	1	armo	110	linear	3	x/6
+oskill	1	all	30	armo, weap, ring, amul	32	linear	3	x/3
+oskill	1	cold	1	armo	40, 50	linear	6	x / 4
+oskill	1	all	60	weap	54	linear	3	x / 4
+oskill	1	magic	24	armo, weap, ring, amul	58	linear	6	x / 4
+oskill	1	lightning	24	armo, weap, ring, amul	57	linear	6	x / 4
+oskill	1	all	18	weap	81	linear	6	x / 4
+oskill	1	fire	30	armo, weap, ring, amul	94	linear	6	x / 4
+oskill	1	all	18	shie	117	linear	6	x / 4
+oskill	1	all	30	weap	121	linear	6	x / 4
+oskill	1	normal	18	armo	145	linear	6	x / 4
+oskill	1	normal	24	weap	149	linear	6	x / 4
+oskill	1	all	18	ring, amul	153	linear	6	x / 4
+oskill	1	fire	24	weap	249	linear	6	x / 4
+oskill	1	cold	24	weap	250	linear	6	x / 4
+oskill	1	lightning	24	armo, weap, ring, amul	276	linear	6	x / 4
+red-dmg	2	normal	1	armo		linear	x / 2	x
+ac%	2	normal	1	armo		linear	x + 100	(2 * x) + 150
+red-mag	2	magic	1	armo		linear	x / 2	x
+mana	2	magic	1	armo, weap, ring, amul		linear	x	2 * x
+hp	2	all	1	armo, weap, ring, amul		linear	x	2 * x
+res-fire-max	2	fire	1	armo, weap, ring, amul			5	15
+res-ltng-max	2	lightning	1	armo, weap, ring, amul			5	15
+res-cold-max	2	cold	1	armo, weap, ring, amul			5	15
+res-pois-max	2	poison	1	armo, weap, ring, amul			5	15
+res-all-max	2	all	1	armo, weap, ring, amul			5	15
+abs-fire%	2	fire	1	armo, weap, ring, amul			15	30
+abs-ltng%	2	lightning	1	armo, weap, ring, amul			15	30
+abs-cold%	2	cold	1	armo, weap, ring, amul			15	30
+abs-fire	2	fire	1	armo, weap, ring, amul		linear	5	x/4
+abs-ltng	2	lightning	1	armo, weap, ring, amul		linear	5	x/4
+abs-cold	2	cold	1	armo, weap, ring, amul		linear	5	x/4
+swing1	2	normal	1	armo, weap, ring, amul		linear	20	25 + x / 2
+move1	2	all	1	armo, weap, ring, amul		linear	20	25 + x / 2
+cast1	2	magic	1	armo, weap, ring, amul			10	20
+manasteal	2	normal	1	weap			4	8
+att%	2	normal	1	weap		linear	x + 100	(3 * x) + 200
+dmg-ac	2	normal	1	weap		linear	50	50+10x
+dmg-demon	2	normal	1	weap		linear	(3 * x) + 200	(5*x) + 500
+dmg-undead	2	normal	1	weap		linear	(3 * x) + 200	(5*x) + 500
+att-demon	2	normal	1	weap		linear	x + 100	(3 * x) + 200
+att-undead	2	normal	1	weap		linear	x + 100	(3 * x) + 200
+fireskill	2	fire	1	armo, weap, ring, amul		linear	1	1 + x / 50
+openwounds	2	normal	1	weap			25	50
+deadly	2	normal	1	weap			25	50
+slow	2	normal	1	weap			25	25
+nofreeze	2	cold	1	armo			1	1
+dmg-fire	2	fire	1	weap		linear	5 * x	10 * x
+dmg-ltng	2	lightning	1	weap		linear	5 * x	10 * x
+dmg-cold	2	cold	1	weap	150	linear	5 * x	10 * x
+dmg-pois	2	poison	1	weap	75	linear	5 * x	10 * x
+dmg-norm	2	normal	1	weap		linear	5 * x	10 * x
+extra-fire	2	fire	1	armo, weap, ring, amul		linear	x / 2 + 25	x + 50
+extra-ltng	2	lightning	1	armo, weap, ring, amul		linear	x / 2 + 25	x + 50
+extra-cold	2	cold	1	armo, weap, ring, amul		linear	x / 2 + 25	x + 50
+extra-pois	2	poison	1	armo, weap, ring, amul		linear	x / 2 + 25	x + 50
+all-stats	2	all	1	armo, weap, ring, amul		linear	x/8 + 5	x/4 + 5
+ac	3	normal	1	armo		linear	(5 * x) + 25	(10 * x) + 25
+ac-miss	3	normal	1	armo		linear	(5 * x) + 25	(10 * x) + 25
+ac-hth	3	normal	1	armo		linear	(5 * x) + 25	(10 * x) + 25
+att	3	normal	1	weap		linear	(5 * x) + 25	(10 * x) + 25
+block	3	normal	1	shie			20	40
+dmg-to-mana	3	magic	1	armo, ring, amul			10	25
+regen	3	all	1	armo, weap, ring, amul			15	15
+thorns	3	normal	1	armo, weap, ring, amul		linear	x	2x
+gold%	3	all	1	armo, weap, ring, amul		linear	25 + x	50 + 1.5 * x
+mag%	3	all	1	armo, weap, ring, amul		linear	25 + x / 2	25 + x
+regen-mana	3	magic	1	armo, weap, ring, amul			25	25
+ease	3	all	1	armo, weap, ring, amul			50	50
+balance1	3	normal	1	armo, weap, ring, amul			15	25
+block1	3	normal	1	shie			15	25
+res-pois-len	3	poison	1	armo, weap, ring, amul			50	50
+ignore-ac	3	normal	1	weap			1	1
+reduce-ac	3	normal	1	weap			25	50
+noheal	3	normal	1	weap			1	1
+half-freeze	3	cold	1	armo, weap, ring, amul			1	1
+light-thorns	3	lightning	1	armo, weap, ring, amul		linear	x / 2	x
+freeze	3	cold	1	weap			1	1
+mana-kill	3	magic	1	armo, weap, ring, amul		linear	x/8 + 5	x/8 + 5
+demon-heal	3	all	1	armo, weap, ring, amul		linear	x/8 + 5	x/8 + 5
+pierce	3	normal	1	weap			50	50
+indestruct	3	normal	1	armo, weap, ring, amul			1	1
+addxp	3	all	1	armo, weap, ring, amul			5	10
+heal-kill	3	all	1	armo, weap, ring, amul		linear	x/8 + 5	x/4 + 5
+cheap	3	all	1	armo, weap, ring, amul			5	10
+ethereal	3	normal	1	armo, weap, ring, amul			1	1
+levelreq	3	normal	1	armo, weap, ring, amul			1	1

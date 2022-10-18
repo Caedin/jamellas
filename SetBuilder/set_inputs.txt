@@ -1,0 +1,60 @@
+skill	id	class	element	level	weapon_restriction
+Lightning Strike	34	ama	lightning	30	jave,spea,ajav,aspe
+Lightning Fury	35	ama	lightning	30	jave, ajav
+Plague Javelin	25	ama	poison	18	jave, ajav
+Poison Javelin	15	ama	poison	6	jave, ajav
+Charged Strike	24	ama	lightning	18	jave,spea,ajav,aspe
+Valkyrie	32	ama	lightning	30	
+Freezing Arrow	31	ama	cold	30	bow, xbow, abow
+Ice Arrow	21	ama	cold	18	bow, xbow, abow
+Cold Arrow	11	ama	cold	6	bow, xbow, abow
+Multiple Shot	12	ama	normal	6	bow, xbow, abow
+Guided Arrow	22	ama	normal	18	bow, xbow, abow
+Strafe	26	ama	normal	24	bow, xbow, abow
+Fire Arrow	7	ama	fire	1	bow, xbow, abow
+Exploding Arrow	16	ama	fire	12	bow, xbow, abow
+Immolation Arrow	27	ama	fire	24	bow, xbow, abow
+Blades of Ice	274	ass	cold	24	
+Dragon Flight	275	ass	normal	24	
+Venom	278	ass	poison	24	
+Shadow Master	279	ass	normal	30	
+Lightning Sentry	271	ass	lightning	30	
+Blade Shield	277	ass	normal	24	
+Increased Speed	148	bar	normal	18	
+Iron Skin	145	bar	normal	18	
+Natural Resistance	153	bar	normal	18	
+Whirlwind	151	bar	normal	30	
+Frenzy	147	bar	normal	24	
+Hurricane	250	dru	cold	30	
+Firestorm	225	dru	fire	1	
+Molten Boulder	229	dru	fire	6	
+Armageddon	249	dru	fire	30	
+Fury	248	dru	normal	24	
+Rabies	238	dru	poison	18	
+Maul	233	dru	normal	12	
+Summon Grizzly	247	dru	normal	30	
+Clay Golem	75	nec	normal	6	
+BloodGolem	85	nec	normal	12	
+FireGolem	94	nec	fire	30	
+IronGolem	90	nec	normal	18	
+Bone Spear	84	nec	normal	12	
+Bone Spirit	93	nec	normal	30	
+Poison Nova	92	nec	poison	30	
+Poison Dagger	73	nec	poison	6	knif
+Fanaticism	122	pal	normal	30	
+Thorns	103	pal	normal	6	
+Sanctuary	119	pal	normal	18	
+Holy Shock	118	pal	lightning	18	
+Holy Freeze	114	pal	cold	12	
+Holy Fire	102	pal	fire	6	
+Zeal	106	pal	normal	18	
+Fist of the Heavens	121	pal	normal	30	
+Blizzard	59	sor	cold	24	
+Frozen Orb	64	sor	cold	30	
+Thunder Storm	57	sor	lightning	24	
+Nova	48	sor	lightning	12	
+Chain Lightning	53	sor	lightning	24	
+Hydra	62	sor	fire	30	
+Fire Wall	51	sor	fire	18	
+Meteor	56	sor	fire	24	
+Enchant	52	sor	fire	18	
