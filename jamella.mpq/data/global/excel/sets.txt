@@ -32,62 +32,62 @@ Bul-Kathos' Children	Bul-Kathos' Children	100																																	dm
 Cow King's Leathers	Cow King's Leathers	100	res-pois		25	25	ac		100	100																									stam		100	100	str		20	20	gold%		100	100	mag%		100	100	gethit-skill	42	25	5	swing3		30	30	hp		100	100	allskills		1	1	0
 Naj's Ancient Set	Naj's Ancient Set	100	ac		175	175	mag%/lvl	12																											allskills		1	1	hp%		20	20	dex		15	15	res-all		50	50	str		20	20	mana		100	100	fireskill		2	2	hp%		12	12	0
 McAuley's Folly	McAuley's Folly	100	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	hp%		4	4																	0
-Kerke's Waterwalk	Kerke's Waterwalk	100	gold%		200	200					skill	34	3	3					extra-ltng		93	93					allskills		1	1					skilltab	0	3	3	extra-ltng		93	93	res-all		26	27	res-ltng-max		10	10	allskills		1	1	skill	34	3	3	cheap		10	10					0
-Lenyms Salamander	Lenyms Salamander	100	extra-ltng		127	127					regen-mana		77	77																					cheap		10	10	all-stats		14	15	gold%		200	200	skilltab	0	3	3	skill	35	3	3	extra-ltng		127	127	allskills		1	1					0
-Arreat's Shadowkiller	Arreat's Shadowkiller	100	addxp		10	10					gold%		200	200					ama		1	1					mag%		100	100					ama		1	1	dmg-pois	75	324	648	res-all		28	29	cheap		10	10	skill	25	3	3	res-pois-max		10	10	res-all-max		10	10					0
-Crack Flamebellow	Crack Flamebellow	100	regen		6	6					demon-heal		3	3																					res-all		12	13	extra-pois		56	56	dmg-pois	75	36	72	addxp		10	10	allskills		1	1	res-all-max		10	10									0
-Jadetalon Lidless	Jadetalon Lidless	100	gold%		200	200					all-stats		12	13																					skilltab	0	3	3	res-ltng-max		10	10																									0
-Pierre Champion	Pierre Champion	100	res-all		25	26					extra-ltng		85	85																					res-ltng		25	26	allskills		1	1	gold%		200	200	skilltab	1	3	3	res-ltng-max		10	10	res-all		25	26	cheap		10	10	skill	32	3	3	0
-Cerebus Break	Cerebus Break	100	res-all		30	31					cheap		10	10					addxp		10	10					all-stats		13	14					res-cold		30	31	dmg-cold	150	213	426	res-all		30	31	all-stats		13	14	mag%		100	100	allskills		1	1	gold%		200	200					0
-Harvest Arm	Harvest Arm	100	ama		1	1					skill	21	3	3					extra-cold		95	95													res-all		27	28	res-all-max		10	10	addxp		10	10	gold%		200	200	ama		1	1	cheap		10	10	skilltab	2	3	3					0
-Wizardspike Gutsiphon	Wizardspike Gutsiphon	100	allskills		1	1					nofreeze		1	1																					gold%		200	200	res-cold-max		10	10	cheap		10	10	allskills		1	1	extra-cold		70	70	res-all		21	22	skill	11	3	3					0
-Gutsiphon Headstriker	Gutsiphon Headstriker	100	dmg-demon		24	25					ac		330	330																					skilltab	2	3	3	addxp		10	10	allskills		1	1	hp%		25	25																	0
-Gore Lament	Gore Lament	100	red-mag		53	53					att-demon		39	40																					skill	22	3	3	att-demon		39	40	att-undead		39	40	hp		53	53	red-dmg%		28	29	ama		1	1									0
-Ondal's Eaglehorn	Ondal's Eaglehorn	100	cheap		10	10					hp%		25	25					hp		55	55													addxp		10	10	red-dmg%		28	29	att-demon		41	42	res-all-max		10	10	move1		20	20													0
-Heavens Robes	Heavens Robes	100	ama		1	1					extra-fire		105	105																					res-fire		28	29	res-fire-max		10	10	ama		1	1																					0
-Gnasher Dragonscale	Gnasher Dragonscale	100	demon-heal		22	22					regen-mana		44	44					all-stats		10	11													gold%		200	200	res-all		27	28	ama		1	1	dmg-fire		132	264	res-all-max		10	10	all-stats		10	11									0
-Chromatic Toll	Chromatic Toll	100	cheap		10	10					regen		32	32																					res-all		24	25	skilltab	2	3	3	gold%		200	200	all-stats		9	9																	0
-Crow Waterwalk	Crow Waterwalk	100	skilltab	18	3	3					extra-cold		123	123																					res-all-max		10	10	skill	274	3	3	res-all		30	31	ass		1	1	extra-cold		123	123													0
-Rainbow Dark	Rainbow Dark	100	cast1		20	20					skill	275	3	3																					cheap		10	10	move1		20	20	att-demon		39	39	skill	275	3	3	res-all-max		10	10	mana%		25	25	hp		52	52	res-all		28	29	0
-Atma's Stone	Atma's Stone	100	addxp		10	10					regen-mana		42	42					mag%		100	100													res-all-max		10	10	mag%		100	100	gold%		200	200	res-all		26	27	all-stats		10	11	cheap		10	10	res-pois		26	27	res-pois-max		10	10	0
-Umes Guard	Umes Guard	100	addxp		10	10					dex		17	18																					skilltab	19	3	3	dmg-demon		48	48	ass		1	1																					0
-Arch Riphook	Arch Riphook	100	cheap		10	10					res-ltng		28	29																					res-all		28	29	skilltab	20	3	3	skill	271	3	3	cheap		10	10	all-stats		12	12	res-ltng-max		10	10	mag%		100	100					0
-Widowmaker Gravenspine	Widowmaker Gravenspine	100	vit		18	19					mana%		25	25																					allskills		1	1	red-dmg%		30	31	mana		67	67	all-stats		13	14	str		18	19	skilltab	20	3	3	res-all		30	31					0
-Kaleidoscope Shadowdancer	Kaleidoscope Shadowdancer	100	str		12	13					swing1		20	20					ac%		111	111													dmg%		27	28	dmg-norm		111	222	mana		37	37	skilltab	13	3	3	move1		20	20	addxp		10	10	res-all		25	26					0
-Stormguild Talons	Stormguild Talons	100	cast1		20	20					skill	145	3	3																					mana		39	39	move1		20	20	red-dmg%		26	27	att-demon		29	30	cast1		20	20	res-all-max		10	10	res-all		26	27	skill	145	3	3	0
-Serpent Chang	Serpent Chang	100	bar		1	1					vit		20	21																					gold%		200	200	skill	153	3	3	enr		20	21	skilltab	13	3	3	vit		20	21	mana%		25	25									0
-Cliffkiller Greyform	Cliffkiller Greyform	100	mag%		100	100					dex		20	20																					addxp		10	10	mana		75	75	vit		20	20	res-all		30	31	bar		1	1	enr		20	20	cast1		20	20					0
-Demon's Bearer	Demon's Bearer	100	mag%		100	100					att-demon		21	21																					cast1		20	20	enr		10	11	res-all		23	24	mana		28	28																	0
-Sureshrill One	Sureshrill One	100	dru		1	1					extra-cold		125	125																					gold%		200	200	res-cold		30	31	cheap		10	10	dmg-cold	150	225	450	res-all		30	31	skilltab	15	3	3	res-all-max		10	10					0
-Stormchaser SuperKhalimFlail	Stormchaser SuperKhalimFlail	100	gold%		200	200					regen		16	16					skill	225	3	3													fireskill		1	1	all-stats		7	7	gold%		200	200	extra-fire		66	66	res-all		19	20	skill	225	3	3	cheap		10	10					0
-Warriv's Annihilus	Warriv's Annihilus	100	mana-kill		11	12					res-fire		22	23																					res-fire-max		10	10	cheap		10	10	mag%		100	100	res-fire		22	23	allskills		1	1	extra-fire		73	73	gold%		200	200	addxp		10	10	0
-Hellmouth Soulflay	Hellmouth Soulflay	100	addxp		10	10					regen-mana		30	30					skill	249	3	3					res-all		24	25					all-stats		8	9	addxp		10	10	res-fire-max		10	10	fireskill		1	1	cheap		10	10	skill	249	3	3	allskills		1	1	skilltab	15	3	3	0
-Executioner's Black	Executioner's Black	100	dmg%		33	34					red-dmg		45	45																					move1		20	20	skilltab	16	3	3	mana%		25	25																					0
-Bloodfist Crescent	Bloodfist Crescent	100	allskills		1	1					mana-kill		15	15																					res-pois		24	25	res-all-max		10	10	skilltab	16	3	3	res-all		24	25																	0
-Stormchaser Spirit	Stormchaser Spirit	100	all-stats		9	10					red-dmg%		25	26																					mana%		25	25	all-stats		9	10	dmg-norm		108	216	skilltab	16	3	3	dru		1	1	skill	233	3	3	dmg%		27	27	vit		12	13	0
-Bloodrise Blade	Bloodrise Blade	100	mana		57	57					ac		570	570																					res-all-max		10	10	red-dmg%		28	29	dmg%		42	43	hp		57	57	cheap		10	10	skilltab	17	3	3	dmg-demon		42	43					0
-Stormlash Annihilus	Stormlash Annihilus	100	dex		7	8					nec		1	1																					cheap		10	10	nec		1	1	skilltab	6	3	3	all-stats		6	7	dmg-demon		10	11	mana		14	14									0
-Ichorsting Endlesshail	Ichorsting Endlesshail	100	allskills		1	1					mag%		100	100																					dmg-norm		36	72	addxp		10	10	red-dmg%		17	18	dex		7	8	move1		20	20													0
-Sanctuary Jade	Sanctuary Jade	100	allskills		1	1					regen-mana		56	56																					allskills		1	1	mag%		100	100	skill	94	3	3	res-fire		28	29	res-all		28	29	extra-fire		106	106									0
-Gheed's Silk	Gheed's Silk	100	att-demon		32	33					swing1		20	20																					mag%		100	100	res-all-max		10	10	dmg-undead		32	33	allskills		1	1	dex		13	14	str		13	14									0
-Awl Iceblink	Awl Iceblink	100	red-dmg%		29	30					skill	84	3	3					dmg-undead		45	46					demon-heal		30	31					dmg-demon		45	46	mag%		100	100	skilltab	7	3	3	cast1		20	20	enr		17	18	dmg%		45	46	res-all-max		10	10					0
-Basher Break	Basher Break	100	mana-kill		19	20					cheap		10	10																					res-all		26	27	swing1		20	20	att-undead		29	30	att-demon		29	30	nec		1	1													0
-Mindrend Lavagout	Mindrend Lavagout	100	dmg-pois	75	360	720					skilltab	7	3	3																					res-pois		29	30	mag%		100	100	allskills		1	1	cheap		10	10	extra-pois		110	110	res-all		29	30	res-pois-max		10	10					0
-Hawkmail Mahim-Oak	Hawkmail Mahim-Oak	100	all-stats		9	10					allskills		1	1																					mag%		100	100	res-pois-max		10	10	skill	73	3	3	res-all		25	26	res-all-max		10	10	addxp		10	10									0
-Homunculus Lightsabre	Homunculus Lightsabre	100	enr		12	13					vit		12	13					red-mag		39	39													allskills		1	1	dex		12	13	cheap		10	10	enr		12	13	swing1		20	20	hp%		25	25									0
-Machine Woestave	Machine Woestave	100	regen		13	13					ac		130	130					enr		7	8													hp%		25	25	mana		13	13	gold%		200	200	str		7	8	vit		7	8	move1		20	20	att-undead		9	10	addxp		10	10	0
-Heaven's Ward	Heaven's Ward	100	regen-mana		71	71					regen		71	71																					cheap		10	10	all-stats		13	14	dmg-norm		213	426	dex		19	20	gold%		200	200	swing1		20	20	dmg-demon		53	54					0
-Wind Axe	Wind Axe	100	res-all		21	22					mag%		100	100																					res-all-max		10	10	allskills		1	1	res-ltng		21	22	res-ltng-max		10	10	cheap		10	10	skilltab	10	3	3									0
-Cranium Suicide	Cranium Suicide	100	res-all		30	31					all-stats		13	14					mana-kill		33	34													allskills		1	1	dmg-cold	150	201	402	res-all-max		10	10	gold%		200	200	all-stats		13	14	mag%		100	100									0
-Odium Whichwild	Odium Whichwild	100	regen		72	72					dmg-fire		216	432																					allskills		1	1	res-fire-max		10	10	all-stats		14	14	gold%		200	200	dmg-fire		216	432	cheap		10	10	extra-fire		122	122	fireskill		1	1	0
-Visage One	Visage One	100	mag%		100	100					dmg-undead		15	15																					skill	106	3	3	str		9	9																									0
-Aim Eaglehorn	Aim Eaglehorn	100	mana-kill		38	39					enr		20	21					str		20	21					skill	121	3	3					dmg-norm		231	462	att-undead		57	58	att-demon		57	58	skilltab	11	3	3	mana%		25	25	all-stats		14	15									0
-Spike Odium	Spike Odium	100	regen		75	75					sor		1	1																					res-cold-max		10	10	mag%		100	100	res-cold		30	31	gold%		200	200	addxp		10	10	res-all-max		10	10	allskills		1	1					0
-Spire Shaftstop	Spire Shaftstop	100	dmg-cold	150	219	438					res-cold		30	31					allskills		1	1													addxp		10	10	gold%		200	200	res-cold-max		10	10	sor		1	1	res-cold		30	31	dmg-cold	150	219	438									0
-Arch Basher	Arch Basher	100	mag%		100	100					gold%		200	200					cheap		10	10													skill	57	3	3	res-ltng-max		10	10	allskills		1	1	cheap		10	10	extra-ltng		108	108	res-ltng		29	30	dmg-ltng		174	348	res-all-max		10	10	0
-Oculus Spawn	Oculus Spawn	100	mana-kill		25	26					regen		51	51																					addxp		10	10	mag%		100	100	skill	48	3	3	all-stats		11	12	sor		1	1	res-ltng		28	29									0
-Blessed Trek	Blessed Trek	100	all-stats		12	13					mana-kill		28	29																					extra-ltng		107	107	allskills		1	1	res-all-max		10	10	addxp		10	10	res-all		28	29	cheap		10	10									0
-Waterwalk Revenge	Waterwalk Revenge	100	skilltab	5	3	3					addxp		10	10																					fireskill		1	1	res-all		30	31	all-stats		14	15																					0
-Ichorsting Mang	Ichorsting Mang	100	gold%		200	200					regen		25	25					regen-mana		25	25													res-fire		22	23	res-all		22	23	extra-fire		75	75	fireskill		1	1	allskills		1	1	res-fire-max		10	10	skilltab	5	3	3	addxp		10	10	0
-Bite Naga	Bite Naga	100	fireskill		1	1					gold%		200	200					skilltab	5	3	3													extra-fire		124	124	res-fire-max		10	10	skill	56	3	3	res-all-max		10	10																	0
-Rusthandle Heavens	Rusthandle Heavens	100	gold%		200	200					res-fire		27	28																					res-fire		27	28	extra-fire		94	94	skill	52	3	3	addxp		10	10	dmg-fire		132	264													0
+Zakarum Dragonscale	Zakarum Dragonscale	100	mag%		100	100					dmg-ltng		102	204																					extra-ltng		84	84	mag%		100	100	cheap		10	10	res-ltng-max		10	10	dmg-ltng		102	204	allskills		1	1	gold%		200	200	res-all-max		10	10	0
+Titan's Carrion	Titan's Carrion	100	mag%		100	100					gold%		200	200																					skill	35	3	3	mag%		100	100	res-ltng-max		10	10	extra-ltng		125	125	gold%		200	200													0
+Shaftstop Crest	Shaftstop Crest	100	skilltab	0	3	3					gold%		200	200																					gold%		200	200	res-all-max		10	10	ama		1	1	extra-pois		83	83	all-stats		9	10	addxp		10	10	skill	25	3	3	mag%		100	100	0
+Bloodletter Bul	Bloodletter Bul	100	skilltab	0	3	3					regen-mana		21	21																					skill	15	3	3	res-pois		21	22	skilltab	0	3	3	dmg-pois	75.0	126	252																	0
+Carver Lenyms	Carver Lenyms	100	regen		56	56					dmg-ltng		168	336																					dmg-ltng		168	336	gold%		200	200	cheap		10	10	res-ltng-max		10	10	addxp		10	10													0
+Constricting Kelpie	Constricting Kelpie	100	mana-kill		32	32					addxp		10	10																					allskills		1	1	res-all-max		10	10	mag%		100	100	res-ltng-max		10	10	dmg-ltng		192	384	res-all		29	30	gold%		200	200	cheap		10	10	0
+Steelpillar Hellplague	Steelpillar Hellplague	100	res-cold		27	28					ama		1	1																					ama		1	1	skilltab	2	3	3	all-stats		10	11	cheap		10	10	mag%		100	100	res-all		27	28									0
+Ears Thorn	Ears Thorn	100	skill	21	3	3					res-all		28	29																					addxp		10	10	res-all		28	29	res-cold		28	29	all-stats		11	12	mag%		100	100	gold%		200	200	extra-cold		103	103					0
+Atlantian Guard	Atlantian Guard	100	mana-kill		17	17					dmg-cold	150.0	102	204																					allskills		1	1	extra-cold		84	84	all-stats		9	10	gold%		200	200	res-all		25	26	res-cold-max		10	10									0
+Constricting Krintizs	Constricting Krintizs	100	skilltab	2	3	3					ac-miss		200	200																					move1		20	20	vit		9	9	mag%		100	100																					0
+Harlequin Wail	Harlequin Wail	100	hp%		25	25					mana%		25	25					dmg-demon		15	15													allskills		1	1	cheap		10	10	all-stats		7	8	swing1		20	20	move1		20	20	enr		9	9									0
+Steel Tannr	Steel Tannr	100	cheap		10	10					red-dmg		33	33																					cast1		20	20	mana		33	33	dmg%		24	25																					0
+Rotting Kaleidoscope	Rotting Kaleidoscope	100	fireskill		1	1					ama		1	1																					ama		1	1	res-fire-max		10	10	skilltab	2	3	3	res-all		25	26	mag%		100	100													0
+Rebuke Pelta	Rebuke Pelta	100	res-fire		26	27					res-all		26	27																					allskills		1	1	fireskill		1	1	res-all		26	27	extra-fire		90	90	all-stats		10	10	skill	16	3	3	skilltab	2	3	3	res-fire-max		10	10	0
+Lacerator Maelstromwrath	Lacerator Maelstromwrath	100	mag%		100	100					all-stats		12	13					regen-mana		62	62													res-all-max		10	10	extra-fire		112	112	cheap		10	10	fireskill		1	1	all-stats		12	13	res-all		29	30									0
+Steelclash Guards	Steelclash Guards	100	dmg-cold	150.0	99	198					regen		33	33					gold%		200	200					skilltab	18	3	3					all-stats		9	10	extra-cold		83	83	mag%		100	100	res-cold-max		10	10	res-all		24	25	skilltab	18	3	3									0
+Gorefoot Lavagout	Gorefoot Lavagout	100	mana		62	62					ass		1	1					red-dmg		62	62													vit		17	18	dex		17	18	skilltab	18	3	3	mana		62	62	swing1		20	20	skill	275	3	3	hp%		25	25					0
+Stormlash Stoneraven	Stormlash Stoneraven	100	regen-mana		43	43					regen		43	43																					ass		1	1	skilltab	19	3	3																									0
+Maelstromwrath Shell	Maelstromwrath Shell	100	mana-kill		36	36					hp		72	72					skilltab	19	3	3													cheap		10	10	dex		19	20	gold%		200	200	dmg%		54	54	str		19	20	dmg-norm		216	432	mana%		25	25	ass		1	1	0
+Torch Pierre	Torch Pierre	100	res-ltng		30	31					res-all		30	31																					dmg-ltng		216	432	addxp		10	10	skill	271	3	3																					0
+Hellslayer Cloudcrack	Hellslayer Cloudcrack	100	cast1		20	20					res-all		29	30					cheap		10	10													str		16	17	enr		16	17	vit		16	17	addxp		10	10	skill	277	3	3	cheap		10	10	allskills		1	1	all-stats		12	13	0
+Stormlash Staunch	Stormlash Staunch	100	regen-mana		74	74					ac-miss		740	740																					skill	148	3	3	vit		19	20	dex		19	20																					0
+Briser Awl	Briser Awl	100	res-all		28	29					cast1		20	20																					res-all		28	29	res-all-max		10	10	mana%		25	25	cast1		20	20	swing1		20	20													0
+Steelshade Cerebus	Steelshade Cerebus	100	str		19	20					res-all		30	31																					att-demon		54	54	mana%		25	25	enr		19	20	all-stats		14	14	cast1		20	20	red-dmg%		30	31									0
+Widowmaker Cleft	Widowmaker Cleft	100	hp		44	44					ac-hth		440	440																					hp		44	44	att-demon		33	33	res-all-max		10	10																					0
+Gavel Cranium	Gavel Cranium	100	mana-kill		32	33					hp%		25	25																					allskills		1	1	att-demon		48	49	all-stats		13	14	vit		18	18	red-dmg%		29	30	dmg-undead		48	49	cast1		20	20	mana%		25	25	0
+Soul Rusthandle	Soul Rusthandle	100	dru		1	1					nofreeze		1	1																					allskills		1	1	res-all		24	25	extra-cold		83	83	skilltab	15	3	3	dmg-cold	150.0	99	198	cheap		10	10	res-cold		24	25	gold%		200	200	0
+Ghostflame Moonfall	Ghostflame Moonfall	100	res-fire		18	19					mag%		100	100																					fireskill		1	1	res-all-max		10	10	all-stats		6	7	dmg-fire		42	84	cheap		10	10	dru		1	1	res-fire		18	19	extra-fire		64	64	0
+Buriza-Do Brainhew	Buriza-Do Brainhew	100	addxp		10	10					skill	229	3	3					mag%		100	100					res-fire		30	31					addxp		10	10	allskills		1	1	fireskill		1	1	res-all		30	31	skilltab	15	3	3	cheap		10	10	skill	229	3	3	mag%		100	100	0
+Tornado Hotspur	Tornado Hotspur	100	res-all		24	25					regen		31	31					gold%		200	200													extra-fire		81	81	res-fire-max		10	10	skill	249	3	3	skilltab	15	3	3	allskills		1	1													0
+Nethercrow Blastbark	Nethercrow Blastbark	100	skill	248	3	3					allskills		1	1																					hp%		25	25	dru		1	1	att-undead		46	47	dmg-norm		186	372	mana		62	62	cast1		20	20									0
+Razortail Forge	Razortail Forge	100	skilltab	16	3	3					addxp		10	10					gold%		200	200					regen-mana		64	64					mag%		100	100	res-all-max		10	10	gold%		200	200	dru		1	1	cheap		10	10	res-all		29	30									0
+Rakescar Riphook	Rakescar Riphook	100	mana-kill		18	19					regen		37	37					regen-mana		37	37													dex		12	13	mana		37	37	dmg%		27	28	vit		12	13	enr		12	13	att-demon		27	28	res-all		25	26					0
+Zakarum's Woestave	Zakarum's Woestave	100	mana%		25	25					cheap		10	10					res-all		27	28													dmg-demon		36	37	dmg-norm		147	294	cheap		10	10	vit		14	15																	0
+Deathspade Scraper	Deathspade Scraper	100	str		19	19					cast1		20	20																					addxp		10	10	dmg-demon		52	53	cast1		20	20	mana		70	70																	0
+Toothrow Patriarch	Toothrow Patriarch	100	skill	85	3	3					dex		11	12																					str		11	12	res-all		24	25	allskills		1	1	move1		20	20	cheap		10	10	skill	85	3	3	enr		11	12					0
+Curio Ward	Curio Ward	100	demon-heal		26	27					cheap		10	10																					addxp		10	10	dmg-fire		159	318																									0
+Stormspire Metalgrid	Stormspire Metalgrid	100	red-mag		43	43					res-all		26	27																					all-stats		10	11	dmg-demon		32	33	mag%		100	100	allskills		1	1	swing1		20	20	dmg%		32	33									0
+Point Wisdon	Point Wisdon	100	str		8	9					cheap		10	10																					enr		8	9	dmg-undead		12	12																									0
+Bloodraven's Bloodrise	Bloodraven's Bloodrise	100	hp%		25	25					regen		78	78																					vit		20	21	hp%		25	25	swing1		20	20	move1		20	20	dmg%		58	59	nec		1	1	dmg-demon		58	59	hp		78	78	0
+Kaleidoscope Annihilus	Kaleidoscope Annihilus	100	nec		1	1					all-stats		11	12																					nec		1	1	skilltab	7	3	3																									0
+Justice Hellclap	Justice Hellclap	100	cheap		10	10					res-pois		18	19					dmg-pois	75.0	78	156					regen-mana		13	13					gold%		200	200	res-all-max		10	10	skill	73	3	3	res-all		18	19	addxp		10	10													0
+The Guardian	The Guardian	100	cheap		10	10					ac		400	400					red-dmg%		26	27													dmg%		30	30	all-stats		10	10	enr		13	13	red-dmg%		26	27	mana		40	40	res-all		26	27	addxp		10	10	att-undead		30	30	0
+Goblin Cord	Goblin Cord	100	att-undead		47	48					ac%		189	189																					mana%		25	25	all-stats		12	13	dmg-norm		189	378	move1		20	20	hp%		25	25	red-dmg%		29	30									0
+Deathbit Coif	Deathbit Coif	100	red-dmg		28	28					dmg-undead		21	21																					swing1		20	20	gold%		200	200	dmg%		21	21	res-all-max		10	10																	0
+Cloudcrack Briser	Cloudcrack Briser	100	regen-mana		79	79					cheap		10	10																					skill	118	3	3	res-all		31	32	addxp		10	10	all-stats		14	15	cheap		10	10	extra-ltng		129	129	pal		1	1					0
+Song's Reaver	Song's Reaver	100	cheap		10	10					mag%		100	100					nofreeze		1	1					skilltab	10	3	3					pal		1	1	res-cold		22	23	addxp		10	10	skilltab	10	3	3	all-stats		7	8	extra-cold		73	73	gold%		200	200					0
+Ages Web	Ages Web	100	skilltab	10	3	3					extra-fire		119	119					regen		69	69													res-all		30	31	mag%		100	100	pal		1	1	skilltab	10	3	3	fireskill		1	1	cheap		10	10									0
+Stormspire Deathcleaver	Stormspire Deathcleaver	100	red-dmg%		24	25					skilltab	11	3	3					mag%		100	100													mag%		100	100	dex		10	11	att-demon		21	22	dmg-undead		21	22	skilltab	11	3	3	allskills		1	1	mana		29	29	move1		20	20	0
+Riphook Justice	Riphook Justice	100	ac%		216	216					ac-hth		720	720																					dmg%		54	54	move1		20	20																									0
+Pupil Tearhaunch	Pupil Tearhaunch	100	all-stats		13	14					res-all		30	31																					skilltab	3	3	3	gold%		200	200	res-cold		30	31	cheap		10	10	dmg-cold	150.0	210	420	extra-cold		120	120	skill	59	3	3	res-cold-max		10	10	0
+Wrath Hone	Wrath Hone	100	allskills		1	1					mag%		100	100					regen		47	47					addxp		10	10					res-cold-max		10	10	allskills		1	1	skill	64	3	3	cheap		10	10	all-stats		10	11	gold%		200	200									0
+Ironward Steelclash	Ironward Steelclash	100	res-all		30	31					skill	57	3	3																					res-all		30	31	gold%		200	200	res-all-max		10	10	skill	57	3	3	dmg-ltng		225	450													0
+Wing Stoutnail	Wing Stoutnail	100	regen-mana		28	28					gold%		200	200					res-all		23	24													allskills		1	1	skilltab	4	3	3	res-all-max		10	10	gold%		200	200	mag%		100	100	res-all		23	24	res-ltng-max		10	10					0
+Tine Blood	Tine Blood	100	regen		28	28					sor		1	1					res-ltng		23	24													res-ltng		23	24	sor		1	1	all-stats		8	9	cheap		10	10	dmg-ltng		84	168	addxp		10	10	res-all		23	24	extra-ltng		78	78	0
+Tombale Arch	Tombale Arch	100	fireskill		1	1					skill	62	3	3					skilltab	5	3	3													mag%		100	100	extra-fire		124	124	res-fire		30	31	all-stats		14	15	skill	62	3	3													0
+Twitchthroe Couant	Twitchthroe Couant	100	res-all		25	26					skilltab	5	3	3					regen		37	37													all-stats		9	10	allskills		1	1	skilltab	5	3	3	res-all-max		10	10	cheap		10	10	skill	51	3	3	dmg-fire		111	222					0
+Steeldriver Angel	Steeldriver Angel	100	skilltab	5	3	3					mag%		100	100																					sor		1	1	dmg-fire		213	426	res-all-max		10	10	res-fire-max		10	10																	0
+Moon Reaver	Moon Reaver	100	res-all		31	32					regen		79	79																					extra-fire		129	129	skill	52	3	3	fireskill		1	1	all-stats		14	15	addxp		10	10	res-fire-max		10	10	allskills		1	1					0

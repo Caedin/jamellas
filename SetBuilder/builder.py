@@ -278,6 +278,7 @@ def create_items(firstNames, secondNames):
             outitem['set'] = setName
             outitem['lvl'] = int(level)
             outitem['item'] = item['code'].values[0]
+            outitem['add func'] = 2
             outitem['*ItemName'] = item['name'].values[0]
 
             c = 0
