@@ -1161,4 +1161,3 @@ jamellasunique1157	1157	100	1		1		14		hlm			5	5000								bar		1	2	mana%		7	14	c
 jamellasunique1158	1158	100	1		1		78		xtp			5	5000								aura	100	3	26	ass		1	5	extra-fire		128	256	abs-fire		5	39	res-all		31	44	res-all-max		10	20	gold%		206	334	addxp		10	20	dmg-to-mana		25	50	ease		100	100	regen		30	30	mag%		103	206		0
 jamellasunique1159	1159	100	1		1		99		rin			5	5000								str		99	149	swing1		25	124	thorns		99	299	ethereal		1	1	balance1		35	35	ass		1	5	res-all-max		10	20	levelreq		1	1	cheap		10	20	demon-heal		29	55										0
 jamellasunique1160	1160	100	1		1		2		spc			5	5000								aura	118	3	3	dru		1	2	res-ltng-max		10	20																																						0
-jamellasunique1161	1161	100	1		1		2		spc			5	5000								lifesteal		4	8	crush		25	25	att%		102	206																																						0

@@ -7,8 +7,10 @@ import numpy as np
 from copy import copy
 import math
 
+from property_selector import PropertySelector
+from property_selector import SetPropertySelector
+
 sets = pd.read_csv('set_inputs.txt', delimiter='\t')
-affixes = pd.read_csv('set_item_affixes.txt', delimiter='\t')
 weapons = pd.read_csv('weapons.txt', delimiter='\t')
 armor = pd.read_csv('armor.txt', delimiter='\t')
 jewelry = pd.read_csv('jewelry.txt', delimiter='\t')
@@ -25,131 +27,10 @@ armor['itemclass'] = 'armo'
 
 # Load template file
 with open('itemtemplate.json', 'r') as tfile:
-    template = json.load(tfile)
+    itemtemplate = json.load(tfile)
+with open('settemplate.json', 'r') as tfile:
+    settemplate = json.load(tfile)
 
-
-def build_property_search_tree(affixes):
-    root = {}
-    minlvls = set(affixes['MinLvl'].values)
-    for l in minlvls:
-        itypeTable = affixes.query(f'MinLvl <= {l}')
-        itypes = itypeTable['ItemType'].str.split(',')
-        itypeset = set()
-        for i in itypes:
-            itypeset = itypeset.union(set([x.strip() for x in i]))
-
-        root[l] = {}
-        for i in itypeset:
-            if i == 'shie':
-                elemTypeTable = itypeTable[itypeTable['ItemType'].str.contains(i) | itypeTable['ItemType'].str.contains('armo')]
-            else:
-                elemTypeTable = itypeTable[itypeTable['ItemType'].str.contains(i)]
-
-            elemType = set(elemTypeTable['Type'].values) - set(['all', 'magic'])
-            root[l][i] = {}
-            for e in elemType:
-                if e in ['fire','lightning','poison','cold']:
-                    hlevelTable = elemTypeTable[(elemTypeTable['Type'] == e) | (elemTypeTable['Type'] == 'magic')  | (elemTypeTable['Type'] == 'all')]
-                else:
-                    hlevelTable = elemTypeTable[(elemTypeTable['Type'] == e) | (elemTypeTable['Type'] == 'all')]
-                h = [1,2,3]
-                root[l][i][e] = {}
-                for hlevel in h:
-                    hTable = hlevelTable[hlevelTable['Hierarchy'] == hlevel]
-                    
-                    propCodes = list(set(hTable['Property'].values))
-
-                    # double sample elemental prop codes
-                    propCodes = propCodes + list(set(hTable[(hTable['Type'] == e)]['Property'].values)) 
-
-                    # double sample prop codes with an exact item type match
-                    propCodes = propCodes + list(set(hTable[(hTable['ItemType'] == i)]['Property'].values)) 
-
-                    prop = hTable
-                    root[l][i][e][hlevel] = { 'prop' : prop, 'propCodes' : propCodes }
-    
-    return root
-
-root = build_property_search_tree(affixes)
-
-def search_property(root, lvl, iclass, itype, etype, hlevel, used_prop_codes, forceClass = None):
-    # level filter
-    minlvls = list(root.keys())
-    minlvls = sorted(minlvls, reverse=True)
-    for m in minlvls:
-        if m > lvl:
-            continue
-        else:
-            break
-    mlvl = m
-
-    def query(root, iclass, itype, etype, hlevel):
-        try:
-            r1 = root[itype]
-        except KeyError:
-            r1 = root[iclass]
-        
-        r2 = r1[etype]
-
-        try:
-            r3 = r2[hlevel]
-        except KeyError:
-            if hlevel < 3:
-                return query(root, iclass, itype, etype, hlevel+1)
-            else:
-                raise
-
-        # select
-        skills = set(['bar', 'ama', 'nec', 'sor', 'allskills', 'ass', 'dru', 'pal'])
-        used_prop_set = set(used_prop_codes)
-        skillFound = len(skills.intersection(used_prop_set)) > 0
-        prop_codes = []
-        for propertyCode in r3['propCodes']:
-            if skillFound:
-                if propertyCode in skills:
-                    continue
-            else:
-                # If force class is applied, skip non matching skills
-                if propertyCode in skills and forceClass is not None:
-                    if propertyCode not in {forceClass, 'allskills'}:
-                        continue
-
-                # Don't add class non assassin class skills to assassin weapons
-                if itype in ['h2h', 'h2h2'] and propertyCode in skills and propertyCode != 'ass':
-                    continue
-
-                # Don't add class non amazon class skills to amazon weapons
-                if itype in ['abow', 'ajav', 'aspe'] and propertyCode in skills and propertyCode != 'ama':
-                    continue
-
-                # Don't add class non druid class skills to druid pelts
-                if itype in ['pelt'] and propertyCode in skills and propertyCode != 'dru':
-                    continue
-                
-                # Don't add class non barb class skills to barb helms
-                if itype in ['phlm'] and propertyCode in skills and propertyCode != 'bar':
-                    continue
-                
-                # Don't add class non pally class skills to pally shields
-                if itype in ['ashd'] and propertyCode in skills and propertyCode != 'pal':
-                    continue
-
-                # Don't add class non necro class skills to necro heads
-                if itype in ['head'] and propertyCode in skills and propertyCode != 'nec':
-                    continue
-
-
-            if propertyCode not in used_prop_set:
-                prop_codes.append(propertyCode)
-
-        if len(prop_codes) == 0:
-            return query(root, iclass, itype, etype, ((hlevel+1) % 3) + 1)
-
-        pc = random.sample(prop_codes, 1)[0]
-        p = r3['prop'].query(f'Property == "{pc}"').sample()
-        return p
-
-    return query(root[mlvl], iclass, itype, etype, hlevel)
 
 def fetch_random_item(type_exclusions, type_restrictions = [], minlvl = 0, handsAvail = 2, allowHybrid = False):
     if handsAvail <= 0:
@@ -175,6 +56,7 @@ def fetch_random_item(type_exclusions, type_restrictions = [], minlvl = 0, hands
     sample = df.sample()
     return sample
 
+
 def update_exclusion_types(exclusion_list, itemtype):
     exclusion_list.append(itemtype)
     if itemtype == 'helm':
@@ -190,7 +72,7 @@ sets['NumberOfItems'] = np.maximum(2, sets['NumberOfItems'])
 sets = list(sets.values)
 q = deque(sets)
 
-idx = 0
+idx = 1250
 
 type_exclusions_by_class = {
     'ama' : ['wand', 'scep', 'knif', 'swor', 'axe', 'mace', 'club', 'hamm', 'tkni', 'taxe', 'staf', 'h2h', 'h2h2', 'orb', 'pelt', 'phlm', 'ashd', 'head'],
@@ -202,6 +84,83 @@ type_exclusions_by_class = {
     'pal' : ['wand', 'knif', 'tkni', 'taxe', 'staf', 'h2h', 'h2h2', 'orb', 'pelt', 'phlm', 'ajav', 'aspe', 'abow', 'head', 'bow', 'xbow', 'jave']
 }
 
+# "[Class Skill Tab ID] = (Amazon = 0-2, Sorceress = 3-5, Necromancer = 6-8, Paladin = 9-11, Barbarian = 12-14, Druid = 15-17,  Assassin = 18-20)"
+skilltablookup = { 
+    'ama' : {
+        34 : 0,
+        35 : 0,
+        25 : 0,
+        15 : 0,
+        24 : 0,
+        32 : 1,
+        31 : 2,
+        21 : 2,
+        11 : 2,
+        12 : 2,
+        22 : 2,
+        26 : 2,
+        7 : 2,
+        16 : 2,
+        27 : 2 
+    }, 
+    'ass' : {
+        274 : 18,
+        275 : 18,
+        278 : 19,
+        279 : 19,
+        271 : 20,
+        277 : 20,
+    }, 
+    'bar' : {
+        148 : 13,
+        145 : 13,
+        153 : 13,
+        151 : 14,
+        147 : 14
+    },
+    'dru' : {
+        250 : 15,
+        225 : 15,
+        229 : 15,
+        249 : 15,
+        248 : 16,
+        238 : 16,
+        233 : 16,
+        247 : 17
+    }, 
+    'nec' : {
+        75 : 6,
+        85 : 6,
+        94 : 6, 
+        90 : 6,
+        84 : 7, 
+        93 : 7,
+        92 : 7, 
+        73 : 7
+    },
+    'pal' : {
+        122 : 10,
+        103 : 10,
+        119 : 10,
+        118 : 10,
+        114 : 10,
+        102 : 10,
+        106 : 11,
+        121 : 11
+    },
+    'sor' : {
+        59 : 3,
+        64 : 3,
+        57 : 4,
+        48 : 4,
+        53 : 4,
+        62 : 5,
+        51 : 5,
+        56 : 5,
+        52 : 5
+    }
+}
+itemcache = set()
 
 def getNameComponents():
     newnames = pd.read_csv('names.txt', delimiter = '\t', header=None)
@@ -222,13 +181,23 @@ def getNameComponents():
     return first, second
 
 def generateItemName(first, second):
+    global itemcache
     f, s = random.sample(first, 1)[0], random.sample(second, 1)[0]
     newname = ' '.join([f, s])
-    return newname
+    if newname in itemcache:
+        return generateItemName(first, second)
+    else:
+        itemcache.add(newname)
+        return newname
 
 def create_items(firstNames, secondNames):
     global idx
+    setItems = []
     sets = []
+    propertySelector = PropertySelector(affix_file = 'set_item_affixes.txt')
+    setPropertySelector = SetPropertySelector(affix_file = 'set_bonus_affixes.txt')
+
+    # For each set...
     while q:
         skill, id, charclass, element, minilvl, type_restrictions, numitems = q.popleft()
 
@@ -241,6 +210,10 @@ def create_items(firstNames, secondNames):
 
         print(skill, id, charclass, element, minilvl, level, numitems)
 
+        setObject = copy(settemplate)
+        setObject['index'] = setName
+        setObject['name'] = setName
+
         exclusion_list = copy(type_exclusions_by_class[charclass])
         restriction_list = type_restrictions.split(',') if type(type_restrictions) == type('') else []
 
@@ -251,6 +224,7 @@ def create_items(firstNames, secondNames):
         oskillSet = False
         exclusion_list.append('shie')
 
+        # For each item ... 
         while len(items) < numitems:
             item = fetch_random_item(exclusion_list, type_restrictions = restriction_list, minlvl = level, handsAvail = hands, allowHybrid = True if charclass == 'bar' else False)
             item['level'] = level
@@ -284,7 +258,6 @@ def create_items(firstNames, secondNames):
             level = min(level, 99)
 
             propertyCodes = []
-            properties = []
 
             if auraSet: 
                 propertyCodes.append('aura')
@@ -299,7 +272,7 @@ def create_items(firstNames, secondNames):
             # Select elemental type
             etype = element
 
-            outitem = copy(template)
+            outitem = copy(itemtemplate)
             outitem['index'] = generateItemName(firstName, secondNames)
             outitem['*ID'] = idx+407
             outitem['set'] = setName
@@ -309,10 +282,10 @@ def create_items(firstNames, secondNames):
 
             c = 0
             hlevel = 1
+            # For each property
             while c < numprop:
-                prop = search_property(root, level, itemclass, itemtype, etype, hlevel, propertyCodes, forceClass = charclass)
+                prop = propertySelector.search_property(level, itemclass, itemtype, etype, hlevel, propertyCodes, forceClass = charclass)
                 propertyCodes.append(prop['Property'].values[0])
-                properties.append(prop)
 
                 if prop['Property'].values[0] == 'aura':
                     auraSet = True
@@ -366,13 +339,206 @@ def create_items(firstNames, secondNames):
                 outitem[f'max{c+1}'] = int(maxval)
 
                 c += 1
+
+            anumprop = random.randint(math.floor(numitems/2), min(5, numitems-1))
+
+            apropertyCodes = []
+            propertyType = 'ascaler'
+
+            c = 0
+            # For each aproperty itype, etype, prop_type, used_prop_codes,
+            while c < anumprop:
+                prop = setPropertySelector.search_property(itemclass, element, propertyType, apropertyCodes, forceClass = charclass)
+                propcode = prop['prop'].values[0]
+                apropertyCodes.append(propcode)
+
+
+                param = prop['param'].values[0]
+                if type(param) == type('str') and param.isnumeric() == False:
+                    param = random.sample(param.split(','), 1)[0]
+                
+                func = prop['LvlFunc'].values[0]
+                minval = prop['MinValue'].values[0]
+                maxval = prop['MaxValue'].values[0]
+
+                try:
+                    if func != '':
+
+                        if func == 'linear':
+                            minval = str(minval).replace('x', str(level))
+                            maxval = str(maxval).replace('x', str(level))       
+                            minval, maxval = math.floor(eval(minval)), math.ceil(eval(maxval))
+                        elif func == 'ln':
+                            x = np.log(level)
+
+                            minval = str(minval).replace('x', str(x))
+                            maxval = str(maxval).replace('x', str(x))   
+                            minval, maxval = math.floor(eval(minval)), math.ceil(eval(maxval))
+
+                        minval, maxval = float(minval), float(maxval)
+                except SyntaxError:
+                    print('ERROR')
+                    print(prop, func, minval, maxval)
+                    raise
+                except ValueError:
+                    print('ERROR')
+                    print(prop, func, minval, maxval)
+                    raise
+
+                if propcode == 'skill':
+                    param = id
+                elif propcode == 'skilltab':
+                    param = skilltablookup[charclass][id]
+
+                maxval = max(maxval, minval)
+                outitem[f'aprop{c+1}a'] = propcode
+                outitem[f'apar{c+1}a'] = '' if pd.isna(param) else param  
+                outitem[f'amin{c+1}a'] = int(minval)
+                outitem[f'amax{c+1}a'] = int(maxval)
+
+                c += 1
+
             idx += 1
             items.append(outitem)
-            sets.append(outitem)
-        
-    df = pd.DataFrame(sets)
-    df.to_csv('set_test.txt', index=False, sep='\t')
+            setItems.append(outitem)
 
+        # Build partial set props
+        pnumprops = random.randint(2, max(2, min(4,numitems-1)))
+
+        ppropertyCodes = []
+        propertyType = 'pscaler'
+
+        c = 0
+        while c < pnumprops:
+            prop = setPropertySelector.search_property('all', element, propertyType, ppropertyCodes, forceClass = charclass)
+            propcode = prop['prop'].values[0]
+            ppropertyCodes.append(propcode)
+
+            param = prop['param'].values[0]
+            if type(param) == type('str') and param.isnumeric() == False:
+                param = random.sample(param.split(','), 1)[0]
+            
+            func = prop['LvlFunc'].values[0]
+            minval = prop['MinValue'].values[0]
+            maxval = prop['MaxValue'].values[0]
+
+            try:
+                if func != '':
+
+                    if func == 'linear':
+                        minval = str(minval).replace('x', str(level))
+                        maxval = str(maxval).replace('x', str(level))       
+                        minval, maxval = math.floor(eval(minval)), math.ceil(eval(maxval))
+                    elif func == 'ln':
+                        x = np.log(level)
+
+                        minval = str(minval).replace('x', str(x))
+                        maxval = str(maxval).replace('x', str(x))   
+                        minval, maxval = math.floor(eval(minval)), math.ceil(eval(maxval))
+
+                    minval, maxval = float(minval), float(maxval)
+            except SyntaxError:
+                print('ERROR')
+                print(prop, func, minval, maxval)
+                raise
+            except ValueError:
+                print('ERROR')
+                print(prop, func, minval, maxval)
+                raise
+
+            if propcode == 'skill':
+                param = id
+            elif propcode == 'skilltab':
+                param = skilltablookup[charclass][id]
+
+            maxval = max(maxval, minval)
+            setObject[f'PCode{c+2}a'] = propcode
+            setObject[f'PParam{c+2}a'] = '' if pd.isna(param) else param  
+            setObject[f'PMin{c+2}a'] = int(minval)
+            setObject[f'PMax{c+2}a'] = int(maxval)
+
+            c += 1
+
+        # Build full set props
+        fnumprops = random.randint(numitems, 8)
+
+        fpropertyCodes = []
+        propertyType = 'fscaler'
+
+        c = 0
+        while c < fnumprops:
+            prop = setPropertySelector.search_property('all', element, propertyType, fpropertyCodes, forceClass = charclass)
+            propcode = prop['prop'].values[0]
+            fpropertyCodes.append(propcode)
+
+            param = prop['param'].values[0]
+            if type(param) == type('str') and param.isnumeric() == False:
+                param = random.sample(param.split(','), 1)[0]
+            
+            func = prop['LvlFunc'].values[0]
+            minval = prop['MinValue'].values[0]
+            maxval = prop['MaxValue'].values[0]
+
+            try:
+                if func != '':
+
+                    if func == 'linear':
+                        minval = str(minval).replace('x', str(level))
+                        maxval = str(maxval).replace('x', str(level))       
+                        minval, maxval = math.floor(eval(minval)), math.ceil(eval(maxval))
+                    elif func == 'ln':
+                        x = np.log(level)
+
+                        minval = str(minval).replace('x', str(x))
+                        maxval = str(maxval).replace('x', str(x))   
+                        minval, maxval = math.floor(eval(minval)), math.ceil(eval(maxval))
+
+                    minval, maxval = float(minval), float(maxval)
+            except SyntaxError:
+                print('ERROR')
+                print(prop, func, minval, maxval)
+                raise
+            except ValueError:
+                print('ERROR')
+                print(prop, func, minval, maxval)
+                raise
+
+            if propcode == 'skill':
+                param = id
+            elif propcode == 'skilltab':
+                param = skilltablookup[charclass][id]
+
+            maxval = max(maxval, minval)
+            setObject[f'FCode{c+1}'] = propcode
+            setObject[f'FParam{c+1}'] = '' if pd.isna(param) else param  
+            setObject[f'FMin{c+1}'] = int(minval)
+            setObject[f'FMax{c+1}'] = int(maxval)
+
+            c += 1
+        
+        sets.append(setObject)
+
+    df = pd.DataFrame(setItems)
+    df.to_csv('setitems.txt', index=False, sep='\t')
+
+    df = pd.DataFrame(sets)
+    df.to_csv('sets.txt', index=False, sep='\t')
 
 firstNames, secondNames = getNameComponents()
 create_items(firstNames, secondNames)
+
+
+id = 375000
+jsons = []
+for n in itemcache:
+    jsons.append(
+        {
+            "id": id,
+            "Key": n,
+            "enUS": n
+        }
+    )
+    id += 1
+
+with open('names.json', 'w') as ofile:
+    json.dump(jsons, ofile, indent=4)

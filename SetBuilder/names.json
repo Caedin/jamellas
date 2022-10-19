@@ -1,0 +1,1457 @@
+[
+    {
+        "id": 375000,
+        "Key": "Arch Stealskull",
+        "enUS": "Arch Stealskull"
+    },
+    {
+        "id": 375001,
+        "Key": "Jadetalon Lidless",
+        "enUS": "Jadetalon Lidless"
+    },
+    {
+        "id": 375002,
+        "Key": "Mindrend Heal",
+        "enUS": "Mindrend Heal"
+    },
+    {
+        "id": 375003,
+        "Key": "Stormguild Bverrit",
+        "enUS": "Stormguild Bverrit"
+    },
+    {
+        "id": 375004,
+        "Key": "Homunculus Relic",
+        "enUS": "Homunculus Relic"
+    },
+    {
+        "id": 375005,
+        "Key": "Awl Meat",
+        "enUS": "Awl Meat"
+    },
+    {
+        "id": 375006,
+        "Key": "Ichorsting Mang",
+        "enUS": "Ichorsting Mang"
+    },
+    {
+        "id": 375007,
+        "Key": "Harvest Band",
+        "enUS": "Harvest Band"
+    },
+    {
+        "id": 375008,
+        "Key": "Gore Venom",
+        "enUS": "Gore Venom"
+    },
+    {
+        "id": 375009,
+        "Key": "Widowmaker Tarnhelm",
+        "enUS": "Widowmaker Tarnhelm"
+    },
+    {
+        "id": 375010,
+        "Key": "Stormlash Frost",
+        "enUS": "Stormlash Frost"
+    },
+    {
+        "id": 375011,
+        "Key": "Arch Grasp",
+        "enUS": "Arch Grasp"
+    },
+    {
+        "id": 375012,
+        "Key": "Heaven's Thieves",
+        "enUS": "Heaven's Thieves"
+    },
+    {
+        "id": 375013,
+        "Key": "Wizardspike Mahim-Oak",
+        "enUS": "Wizardspike Mahim-Oak"
+    },
+    {
+        "id": 375014,
+        "Key": "Sanctuary Wrath",
+        "enUS": "Sanctuary Wrath"
+    },
+    {
+        "id": 375015,
+        "Key": "Rusthandle Irices",
+        "enUS": "Rusthandle Irices"
+    },
+    {
+        "id": 375016,
+        "Key": "Cerebus Boneslayer",
+        "enUS": "Cerebus Boneslayer"
+    },
+    {
+        "id": 375017,
+        "Key": "Sanctuary Vile",
+        "enUS": "Sanctuary Vile"
+    },
+    {
+        "id": 375018,
+        "Key": "Ondal's Leviathan",
+        "enUS": "Ondal's Leviathan"
+    },
+    {
+        "id": 375019,
+        "Key": "Machine Duskdeep",
+        "enUS": "Machine Duskdeep"
+    },
+    {
+        "id": 375020,
+        "Key": "Blessed Blackhand",
+        "enUS": "Blessed Blackhand"
+    },
+    {
+        "id": 375021,
+        "Key": "Umes Peasent",
+        "enUS": "Umes Peasent"
+    },
+    {
+        "id": 375022,
+        "Key": "Stormchaser Sun",
+        "enUS": "Stormchaser Sun"
+    },
+    {
+        "id": 375023,
+        "Key": "Widowmaker Gravenspine",
+        "enUS": "Widowmaker Gravenspine"
+    },
+    {
+        "id": 375024,
+        "Key": "Jadetalon Fetid",
+        "enUS": "Jadetalon Fetid"
+    },
+    {
+        "id": 375025,
+        "Key": "Gheed's Broc",
+        "enUS": "Gheed's Broc"
+    },
+    {
+        "id": 375026,
+        "Key": "Cranium Carapice",
+        "enUS": "Cranium Carapice"
+    },
+    {
+        "id": 375027,
+        "Key": "Cerebus Uniques",
+        "enUS": "Cerebus Uniques"
+    },
+    {
+        "id": 375028,
+        "Key": "Atma's Tornado",
+        "enUS": "Atma's Tornado"
+    },
+    {
+        "id": 375029,
+        "Key": "Rainbow Facet",
+        "enUS": "Rainbow Facet"
+    },
+    {
+        "id": 375030,
+        "Key": "Rusthandle Heavens",
+        "enUS": "Rusthandle Heavens"
+    },
+    {
+        "id": 375031,
+        "Key": "Visage Bearer",
+        "enUS": "Visage Bearer"
+    },
+    {
+        "id": 375032,
+        "Key": "Lenyms Wail",
+        "enUS": "Lenyms Wail"
+    },
+    {
+        "id": 375033,
+        "Key": "Bloodfist Eye",
+        "enUS": "Bloodfist Eye"
+    },
+    {
+        "id": 375034,
+        "Key": "Atma's Vigor",
+        "enUS": "Atma's Vigor"
+    },
+    {
+        "id": 375035,
+        "Key": "Machine Bloodrise",
+        "enUS": "Machine Bloodrise"
+    },
+    {
+        "id": 375036,
+        "Key": "Gheed's Crusher",
+        "enUS": "Gheed's Crusher"
+    },
+    {
+        "id": 375037,
+        "Key": "Stormchaser Spirit",
+        "enUS": "Stormchaser Spirit"
+    },
+    {
+        "id": 375038,
+        "Key": "Gnasher Visage",
+        "enUS": "Gnasher Visage"
+    },
+    {
+        "id": 375039,
+        "Key": "Kerke's Waterwalk",
+        "enUS": "Kerke's Waterwalk"
+    },
+    {
+        "id": 375040,
+        "Key": "Gheed's Demonlimb",
+        "enUS": "Gheed's Demonlimb"
+    },
+    {
+        "id": 375041,
+        "Key": "Cerebus Iros",
+        "enUS": "Cerebus Iros"
+    },
+    {
+        "id": 375042,
+        "Key": "Stormlash Garb",
+        "enUS": "Stormlash Garb"
+    },
+    {
+        "id": 375043,
+        "Key": "Mindrend Vipermagi",
+        "enUS": "Mindrend Vipermagi"
+    },
+    {
+        "id": 375044,
+        "Key": "Hellmouth Thunderstroke",
+        "enUS": "Hellmouth Thunderstroke"
+    },
+    {
+        "id": 375045,
+        "Key": "Cranium Kyanon",
+        "enUS": "Cranium Kyanon"
+    },
+    {
+        "id": 375046,
+        "Key": "Spire Plague",
+        "enUS": "Spire Plague"
+    },
+    {
+        "id": 375047,
+        "Key": "Harvest Hellcast",
+        "enUS": "Harvest Hellcast"
+    },
+    {
+        "id": 375048,
+        "Key": "Wind Shadowdancer",
+        "enUS": "Wind Shadowdancer"
+    },
+    {
+        "id": 375049,
+        "Key": "Bite Steelshade",
+        "enUS": "Bite Steelshade"
+    },
+    {
+        "id": 375050,
+        "Key": "Rusthandle Sundan",
+        "enUS": "Rusthandle Sundan"
+    },
+    {
+        "id": 375051,
+        "Key": "Harvest Lord",
+        "enUS": "Harvest Lord"
+    },
+    {
+        "id": 375052,
+        "Key": "Hellmouth Ali",
+        "enUS": "Hellmouth Ali"
+    },
+    {
+        "id": 375053,
+        "Key": "Stormchaser Manald",
+        "enUS": "Stormchaser Manald"
+    },
+    {
+        "id": 375054,
+        "Key": "Sureshrill Tenderizer",
+        "enUS": "Sureshrill Tenderizer"
+    },
+    {
+        "id": 375055,
+        "Key": "Bloodfist Twitchthroe",
+        "enUS": "Bloodfist Twitchthroe"
+    },
+    {
+        "id": 375056,
+        "Key": "Warriv's Bone",
+        "enUS": "Warriv's Bone"
+    },
+    {
+        "id": 375057,
+        "Key": "Sanctuary Hearty",
+        "enUS": "Sanctuary Hearty"
+    },
+    {
+        "id": 375058,
+        "Key": "Demon's Reign",
+        "enUS": "Demon's Reign"
+    },
+    {
+        "id": 375059,
+        "Key": "Heaven's Husoldal",
+        "enUS": "Heaven's Husoldal"
+    },
+    {
+        "id": 375060,
+        "Key": "Arreat's Dragon",
+        "enUS": "Arreat's Dragon"
+    },
+    {
+        "id": 375061,
+        "Key": "Kaleidoscope Shadowdancer",
+        "enUS": "Kaleidoscope Shadowdancer"
+    },
+    {
+        "id": 375062,
+        "Key": "Hawkmail Mahim-Oak",
+        "enUS": "Hawkmail Mahim-Oak"
+    },
+    {
+        "id": 375063,
+        "Key": "Arch Homunculus",
+        "enUS": "Arch Homunculus"
+    },
+    {
+        "id": 375064,
+        "Key": "Spire Do",
+        "enUS": "Spire Do"
+    },
+    {
+        "id": 375065,
+        "Key": "Executioner's Hone",
+        "enUS": "Executioner's Hone"
+    },
+    {
+        "id": 375066,
+        "Key": "Executioner's Black",
+        "enUS": "Executioner's Black"
+    },
+    {
+        "id": 375067,
+        "Key": "Aim Eaglehorn",
+        "enUS": "Aim Eaglehorn"
+    },
+    {
+        "id": 375068,
+        "Key": "Stormguild Ironward",
+        "enUS": "Stormguild Ironward"
+    },
+    {
+        "id": 375069,
+        "Key": "Hellmouth Blood",
+        "enUS": "Hellmouth Blood"
+    },
+    {
+        "id": 375070,
+        "Key": "Arreat's Jadetalon",
+        "enUS": "Arreat's Jadetalon"
+    },
+    {
+        "id": 375071,
+        "Key": "Warriv's Crushflange",
+        "enUS": "Warriv's Crushflange"
+    },
+    {
+        "id": 375072,
+        "Key": "Serpent Black",
+        "enUS": "Serpent Black"
+    },
+    {
+        "id": 375073,
+        "Key": "Mindrend Magefist",
+        "enUS": "Mindrend Magefist"
+    },
+    {
+        "id": 375074,
+        "Key": "Gutsiphon Diggler",
+        "enUS": "Gutsiphon Diggler"
+    },
+    {
+        "id": 375075,
+        "Key": "Arch Specific",
+        "enUS": "Arch Specific"
+    },
+    {
+        "id": 375076,
+        "Key": "Gore Forge",
+        "enUS": "Gore Forge"
+    },
+    {
+        "id": 375077,
+        "Key": "Jadetalon Ethereal",
+        "enUS": "Jadetalon Ethereal"
+    },
+    {
+        "id": 375078,
+        "Key": "Awl Steelrend",
+        "enUS": "Awl Steelrend"
+    },
+    {
+        "id": 375079,
+        "Key": "Arch Gore",
+        "enUS": "Arch Gore"
+    },
+    {
+        "id": 375080,
+        "Key": "Cerebus Break",
+        "enUS": "Cerebus Break"
+    },
+    {
+        "id": 375081,
+        "Key": "Rusthandle Fechmars",
+        "enUS": "Rusthandle Fechmars"
+    },
+    {
+        "id": 375082,
+        "Key": "Arch Broc",
+        "enUS": "Arch Broc"
+    },
+    {
+        "id": 375083,
+        "Key": "Ondal's Eaglehorn",
+        "enUS": "Ondal's Eaglehorn"
+    },
+    {
+        "id": 375084,
+        "Key": "Stormguild Todesfaelle",
+        "enUS": "Stormguild Todesfaelle"
+    },
+    {
+        "id": 375085,
+        "Key": "Odium Whichwild",
+        "enUS": "Odium Whichwild"
+    },
+    {
+        "id": 375086,
+        "Key": "Sureshrill One",
+        "enUS": "Sureshrill One"
+    },
+    {
+        "id": 375087,
+        "Key": "Sanctuary Fleshripper",
+        "enUS": "Sanctuary Fleshripper"
+    },
+    {
+        "id": 375088,
+        "Key": "Wizardspike Gutsiphon",
+        "enUS": "Wizardspike Gutsiphon"
+    },
+    {
+        "id": 375089,
+        "Key": "Rainbow Dark",
+        "enUS": "Rainbow Dark"
+    },
+    {
+        "id": 375090,
+        "Key": "Hellmouth Pain",
+        "enUS": "Hellmouth Pain"
+    },
+    {
+        "id": 375091,
+        "Key": "Gnasher Greyform",
+        "enUS": "Gnasher Greyform"
+    },
+    {
+        "id": 375092,
+        "Key": "Widowmaker Steelpillar",
+        "enUS": "Widowmaker Steelpillar"
+    },
+    {
+        "id": 375093,
+        "Key": "Serpent Spiritforge",
+        "enUS": "Serpent Spiritforge"
+    },
+    {
+        "id": 375094,
+        "Key": "Bloodrise Bearer",
+        "enUS": "Bloodrise Bearer"
+    },
+    {
+        "id": 375095,
+        "Key": "Gheed's Moonfall",
+        "enUS": "Gheed's Moonfall"
+    },
+    {
+        "id": 375096,
+        "Key": "Awl Iceblink",
+        "enUS": "Awl Iceblink"
+    },
+    {
+        "id": 375097,
+        "Key": "Spike Horadric",
+        "enUS": "Spike Horadric"
+    },
+    {
+        "id": 375098,
+        "Key": "Spike Odium",
+        "enUS": "Spike Odium"
+    },
+    {
+        "id": 375099,
+        "Key": "Chromatic Blinkbats",
+        "enUS": "Chromatic Blinkbats"
+    },
+    {
+        "id": 375100,
+        "Key": "Oculus Spawn",
+        "enUS": "Oculus Spawn"
+    },
+    {
+        "id": 375101,
+        "Key": "Ichorsting Fleshrender",
+        "enUS": "Ichorsting Fleshrender"
+    },
+    {
+        "id": 375102,
+        "Key": "Cranium Suicide",
+        "enUS": "Cranium Suicide"
+    },
+    {
+        "id": 375103,
+        "Key": "Oculus Stump",
+        "enUS": "Oculus Stump"
+    },
+    {
+        "id": 375104,
+        "Key": "Rainbow Bloodfist",
+        "enUS": "Rainbow Bloodfist"
+    },
+    {
+        "id": 375105,
+        "Key": "Cliffkiller Patriarch",
+        "enUS": "Cliffkiller Patriarch"
+    },
+    {
+        "id": 375106,
+        "Key": "Rainbow Gravepalm",
+        "enUS": "Rainbow Gravepalm"
+    },
+    {
+        "id": 375107,
+        "Key": "Crack Arm",
+        "enUS": "Crack Arm"
+    },
+    {
+        "id": 375108,
+        "Key": "Gutsiphon Headstriker",
+        "enUS": "Gutsiphon Headstriker"
+    },
+    {
+        "id": 375109,
+        "Key": "Widowmaker Tombale",
+        "enUS": "Widowmaker Tombale"
+    },
+    {
+        "id": 375110,
+        "Key": "Lenyms Salamander",
+        "enUS": "Lenyms Salamander"
+    },
+    {
+        "id": 375111,
+        "Key": "Gore Crown",
+        "enUS": "Gore Crown"
+    },
+    {
+        "id": 375112,
+        "Key": "Hellmouth Soulflay",
+        "enUS": "Hellmouth Soulflay"
+    },
+    {
+        "id": 375113,
+        "Key": "Gore Hellmouth",
+        "enUS": "Gore Hellmouth"
+    },
+    {
+        "id": 375114,
+        "Key": "Hawkmail Ironpelt",
+        "enUS": "Hawkmail Ironpelt"
+    },
+    {
+        "id": 375115,
+        "Key": "Homunculus Doomspittle",
+        "enUS": "Homunculus Doomspittle"
+    },
+    {
+        "id": 375116,
+        "Key": "Odium Swordguard",
+        "enUS": "Odium Swordguard"
+    },
+    {
+        "id": 375117,
+        "Key": "Spike Flamebellow",
+        "enUS": "Spike Flamebellow"
+    },
+    {
+        "id": 375118,
+        "Key": "Lenyms Maelstromwrath",
+        "enUS": "Lenyms Maelstromwrath"
+    },
+    {
+        "id": 375119,
+        "Key": "Waterwalk Stormspike",
+        "enUS": "Waterwalk Stormspike"
+    },
+    {
+        "id": 375120,
+        "Key": "Gnasher Tomb",
+        "enUS": "Gnasher Tomb"
+    },
+    {
+        "id": 375121,
+        "Key": "Bloodrise Rusthandle",
+        "enUS": "Bloodrise Rusthandle"
+    },
+    {
+        "id": 375122,
+        "Key": "Cranium Snakecord",
+        "enUS": "Cranium Snakecord"
+    },
+    {
+        "id": 375123,
+        "Key": "Mindrend Justice",
+        "enUS": "Mindrend Justice"
+    },
+    {
+        "id": 375124,
+        "Key": "Stormguild Djinnslayer",
+        "enUS": "Stormguild Djinnslayer"
+    },
+    {
+        "id": 375125,
+        "Key": "Blessed Lidless",
+        "enUS": "Blessed Lidless"
+    },
+    {
+        "id": 375126,
+        "Key": "Sureshrill Negra",
+        "enUS": "Sureshrill Negra"
+    },
+    {
+        "id": 375127,
+        "Key": "Machine Woestave",
+        "enUS": "Machine Woestave"
+    },
+    {
+        "id": 375128,
+        "Key": "Odium Elite",
+        "enUS": "Odium Elite"
+    },
+    {
+        "id": 375129,
+        "Key": "Chromatic Doomspittle",
+        "enUS": "Chromatic Doomspittle"
+    },
+    {
+        "id": 375130,
+        "Key": "Crack Minataur",
+        "enUS": "Crack Minataur"
+    },
+    {
+        "id": 375131,
+        "Key": "Basher Treads",
+        "enUS": "Basher Treads"
+    },
+    {
+        "id": 375132,
+        "Key": "Machine Goreshovel",
+        "enUS": "Machine Goreshovel"
+    },
+    {
+        "id": 375133,
+        "Key": "Cranium Pain",
+        "enUS": "Cranium Pain"
+    },
+    {
+        "id": 375134,
+        "Key": "Basher Break",
+        "enUS": "Basher Break"
+    },
+    {
+        "id": 375135,
+        "Key": "Heavens Robes",
+        "enUS": "Heavens Robes"
+    },
+    {
+        "id": 375136,
+        "Key": "Stormlash Rainbow",
+        "enUS": "Stormlash Rainbow"
+    },
+    {
+        "id": 375137,
+        "Key": "Mindrend Lavagout",
+        "enUS": "Mindrend Lavagout"
+    },
+    {
+        "id": 375138,
+        "Key": "Cliffkiller Negra",
+        "enUS": "Cliffkiller Negra"
+    },
+    {
+        "id": 375139,
+        "Key": "Wind Kyanon",
+        "enUS": "Wind Kyanon"
+    },
+    {
+        "id": 375140,
+        "Key": "Stormchaser Scalper",
+        "enUS": "Stormchaser Scalper"
+    },
+    {
+        "id": 375141,
+        "Key": "Stormchaser Hammer",
+        "enUS": "Stormchaser Hammer"
+    },
+    {
+        "id": 375142,
+        "Key": "Bloodfist Crescent",
+        "enUS": "Bloodfist Crescent"
+    },
+    {
+        "id": 375143,
+        "Key": "Cerebus Umbral",
+        "enUS": "Cerebus Umbral"
+    },
+    {
+        "id": 375144,
+        "Key": "Bloodrise Blade",
+        "enUS": "Bloodrise Blade"
+    },
+    {
+        "id": 375145,
+        "Key": "Ichorsting Coil",
+        "enUS": "Ichorsting Coil"
+    },
+    {
+        "id": 375146,
+        "Key": "Stormguild Talons",
+        "enUS": "Stormguild Talons"
+    },
+    {
+        "id": 375147,
+        "Key": "Stormchaser Mindrend",
+        "enUS": "Stormchaser Mindrend"
+    },
+    {
+        "id": 375148,
+        "Key": "Crack Flamebellow",
+        "enUS": "Crack Flamebellow"
+    },
+    {
+        "id": 375149,
+        "Key": "Stormguild Point",
+        "enUS": "Stormguild Point"
+    },
+    {
+        "id": 375150,
+        "Key": "Stormchaser Peace",
+        "enUS": "Stormchaser Peace"
+    },
+    {
+        "id": 375151,
+        "Key": "Arch Sundan",
+        "enUS": "Arch Sundan"
+    },
+    {
+        "id": 375152,
+        "Key": "Arch Felloak",
+        "enUS": "Arch Felloak"
+    },
+    {
+        "id": 375153,
+        "Key": "Aim Machine",
+        "enUS": "Aim Machine"
+    },
+    {
+        "id": 375154,
+        "Key": "Ondal's Soul",
+        "enUS": "Ondal's Soul"
+    },
+    {
+        "id": 375155,
+        "Key": "Stormguild Steelclash",
+        "enUS": "Stormguild Steelclash"
+    },
+    {
+        "id": 375156,
+        "Key": "Gnasher Blood",
+        "enUS": "Gnasher Blood"
+    },
+    {
+        "id": 375157,
+        "Key": "Gnasher Dragonscale",
+        "enUS": "Gnasher Dragonscale"
+    },
+    {
+        "id": 375158,
+        "Key": "Crow War",
+        "enUS": "Crow War"
+    },
+    {
+        "id": 375159,
+        "Key": "Ichorsting Bite",
+        "enUS": "Ichorsting Bite"
+    },
+    {
+        "id": 375160,
+        "Key": "Sanctuary Undead",
+        "enUS": "Sanctuary Undead"
+    },
+    {
+        "id": 375161,
+        "Key": "Machine Snare",
+        "enUS": "Machine Snare"
+    },
+    {
+        "id": 375162,
+        "Key": "Oculus Spiritkeeper",
+        "enUS": "Oculus Spiritkeeper"
+    },
+    {
+        "id": 375163,
+        "Key": "Gore Lament",
+        "enUS": "Gore Lament"
+    },
+    {
+        "id": 375164,
+        "Key": "Serpent Couant",
+        "enUS": "Serpent Couant"
+    },
+    {
+        "id": 375165,
+        "Key": "Cliffkiller Cutthroat1",
+        "enUS": "Cliffkiller Cutthroat1"
+    },
+    {
+        "id": 375166,
+        "Key": "Wind Axe",
+        "enUS": "Wind Axe"
+    },
+    {
+        "id": 375167,
+        "Key": "Atma's Mindrend",
+        "enUS": "Atma's Mindrend"
+    },
+    {
+        "id": 375168,
+        "Key": "Kerke's Gleamscythe",
+        "enUS": "Kerke's Gleamscythe"
+    },
+    {
+        "id": 375169,
+        "Key": "Executioner's Eye",
+        "enUS": "Executioner's Eye"
+    },
+    {
+        "id": 375170,
+        "Key": "Homunculus Lightsabre",
+        "enUS": "Homunculus Lightsabre"
+    },
+    {
+        "id": 375171,
+        "Key": "Pierre Warder",
+        "enUS": "Pierre Warder"
+    },
+    {
+        "id": 375172,
+        "Key": "Hellmouth Warder",
+        "enUS": "Hellmouth Warder"
+    },
+    {
+        "id": 375173,
+        "Key": "Lenyms Minataur",
+        "enUS": "Lenyms Minataur"
+    },
+    {
+        "id": 375174,
+        "Key": "Heavens Lament",
+        "enUS": "Heavens Lament"
+    },
+    {
+        "id": 375175,
+        "Key": "Atma's Hellmouth",
+        "enUS": "Atma's Hellmouth"
+    },
+    {
+        "id": 375176,
+        "Key": "Heaven's Venomsward",
+        "enUS": "Heaven's Venomsward"
+    },
+    {
+        "id": 375177,
+        "Key": "Spike Wrath",
+        "enUS": "Spike Wrath"
+    },
+    {
+        "id": 375178,
+        "Key": "Wind Talons",
+        "enUS": "Wind Talons"
+    },
+    {
+        "id": 375179,
+        "Key": "Demon's Bearer",
+        "enUS": "Demon's Bearer"
+    },
+    {
+        "id": 375180,
+        "Key": "Cliffkiller Goldskin",
+        "enUS": "Cliffkiller Goldskin"
+    },
+    {
+        "id": 375181,
+        "Key": "Harvest Spiritforge",
+        "enUS": "Harvest Spiritforge"
+    },
+    {
+        "id": 375182,
+        "Key": "Warriv's Wang",
+        "enUS": "Warriv's Wang"
+    },
+    {
+        "id": 375183,
+        "Key": "Gheed's Silk",
+        "enUS": "Gheed's Silk"
+    },
+    {
+        "id": 375184,
+        "Key": "Crack Fortune",
+        "enUS": "Crack Fortune"
+    },
+    {
+        "id": 375185,
+        "Key": "Homunculus Viperfork",
+        "enUS": "Homunculus Viperfork"
+    },
+    {
+        "id": 375186,
+        "Key": "Arch Basher",
+        "enUS": "Arch Basher"
+    },
+    {
+        "id": 375187,
+        "Key": "Crack Bloodthief",
+        "enUS": "Crack Bloodthief"
+    },
+    {
+        "id": 375188,
+        "Key": "Wind Charge",
+        "enUS": "Wind Charge"
+    },
+    {
+        "id": 375189,
+        "Key": "Kerke's Staff",
+        "enUS": "Kerke's Staff"
+    },
+    {
+        "id": 375190,
+        "Key": "Crow Bearer",
+        "enUS": "Crow Bearer"
+    },
+    {
+        "id": 375191,
+        "Key": "Widowmaker Bloodmoon",
+        "enUS": "Widowmaker Bloodmoon"
+    },
+    {
+        "id": 375192,
+        "Key": "Bite Rockstopper",
+        "enUS": "Bite Rockstopper"
+    },
+    {
+        "id": 375193,
+        "Key": "Harvest Reaper",
+        "enUS": "Harvest Reaper"
+    },
+    {
+        "id": 375194,
+        "Key": "Stormchaser SuperKhalimFlail",
+        "enUS": "Stormchaser SuperKhalimFlail"
+    },
+    {
+        "id": 375195,
+        "Key": "Spike Glory",
+        "enUS": "Spike Glory"
+    },
+    {
+        "id": 375196,
+        "Key": "Atma's Leoric",
+        "enUS": "Atma's Leoric"
+    },
+    {
+        "id": 375197,
+        "Key": "Machine Cleft",
+        "enUS": "Machine Cleft"
+    },
+    {
+        "id": 375198,
+        "Key": "Ondal's Blastbark",
+        "enUS": "Ondal's Blastbark"
+    },
+    {
+        "id": 375199,
+        "Key": "Basher The",
+        "enUS": "Basher The"
+    },
+    {
+        "id": 375200,
+        "Key": "Awl Shell",
+        "enUS": "Awl Shell"
+    },
+    {
+        "id": 375201,
+        "Key": "Blessed Skin",
+        "enUS": "Blessed Skin"
+    },
+    {
+        "id": 375202,
+        "Key": "Waterwalk Revenge",
+        "enUS": "Waterwalk Revenge"
+    },
+    {
+        "id": 375203,
+        "Key": "Lenyms Crow",
+        "enUS": "Lenyms Crow"
+    },
+    {
+        "id": 375204,
+        "Key": "Machine Frostwind",
+        "enUS": "Machine Frostwind"
+    },
+    {
+        "id": 375205,
+        "Key": "Hawkmail Cord",
+        "enUS": "Hawkmail Cord"
+    },
+    {
+        "id": 375206,
+        "Key": "Rainbow Web",
+        "enUS": "Rainbow Web"
+    },
+    {
+        "id": 375207,
+        "Key": "Mindrend Darkglow",
+        "enUS": "Mindrend Darkglow"
+    },
+    {
+        "id": 375208,
+        "Key": "Ichorsting Lightsabre",
+        "enUS": "Ichorsting Lightsabre"
+    },
+    {
+        "id": 375209,
+        "Key": "Stormchaser Vomir",
+        "enUS": "Stormchaser Vomir"
+    },
+    {
+        "id": 375210,
+        "Key": "Kaleidoscope Reign",
+        "enUS": "Kaleidoscope Reign"
+    },
+    {
+        "id": 375211,
+        "Key": "Waterwalk Leviathan",
+        "enUS": "Waterwalk Leviathan"
+    },
+    {
+        "id": 375212,
+        "Key": "Pierre Champion",
+        "enUS": "Pierre Champion"
+    },
+    {
+        "id": 375213,
+        "Key": "Harvest Arm",
+        "enUS": "Harvest Arm"
+    },
+    {
+        "id": 375214,
+        "Key": "Heaven's Ward",
+        "enUS": "Heaven's Ward"
+    },
+    {
+        "id": 375215,
+        "Key": "Arreat's Pelta",
+        "enUS": "Arreat's Pelta"
+    },
+    {
+        "id": 375216,
+        "Key": "Kaleidoscope Branch",
+        "enUS": "Kaleidoscope Branch"
+    },
+    {
+        "id": 375217,
+        "Key": "Aim Vortex",
+        "enUS": "Aim Vortex"
+    },
+    {
+        "id": 375218,
+        "Key": "Mindrend Tombale",
+        "enUS": "Mindrend Tombale"
+    },
+    {
+        "id": 375219,
+        "Key": "Kaleidoscope Harlequin",
+        "enUS": "Kaleidoscope Harlequin"
+    },
+    {
+        "id": 375220,
+        "Key": "Gutsiphon SuperKhalimFlail",
+        "enUS": "Gutsiphon SuperKhalimFlail"
+    },
+    {
+        "id": 375221,
+        "Key": "Arreat's Shroud",
+        "enUS": "Arreat's Shroud"
+    },
+    {
+        "id": 375222,
+        "Key": "Pierre Disk",
+        "enUS": "Pierre Disk"
+    },
+    {
+        "id": 375223,
+        "Key": "Heavens Razoredge",
+        "enUS": "Heavens Razoredge"
+    },
+    {
+        "id": 375224,
+        "Key": "Cliffkiller Lance",
+        "enUS": "Cliffkiller Lance"
+    },
+    {
+        "id": 375225,
+        "Key": "Rusthandle Azurewrath",
+        "enUS": "Rusthandle Azurewrath"
+    },
+    {
+        "id": 375226,
+        "Key": "Gore Cranium",
+        "enUS": "Gore Cranium"
+    },
+    {
+        "id": 375227,
+        "Key": "Kaleidoscope Talons",
+        "enUS": "Kaleidoscope Talons"
+    },
+    {
+        "id": 375228,
+        "Key": "Spire Stormchaser",
+        "enUS": "Spire Stormchaser"
+    },
+    {
+        "id": 375229,
+        "Key": "Aim Waterwalk",
+        "enUS": "Aim Waterwalk"
+    },
+    {
+        "id": 375230,
+        "Key": "Stormchaser Gull",
+        "enUS": "Stormchaser Gull"
+    },
+    {
+        "id": 375231,
+        "Key": "Sanctuary Jade",
+        "enUS": "Sanctuary Jade"
+    },
+    {
+        "id": 375232,
+        "Key": "Wind Wraithflight",
+        "enUS": "Wind Wraithflight"
+    },
+    {
+        "id": 375233,
+        "Key": "Chromatic Toll",
+        "enUS": "Chromatic Toll"
+    },
+    {
+        "id": 375234,
+        "Key": "Aim Razorswitch",
+        "enUS": "Aim Razorswitch"
+    },
+    {
+        "id": 375235,
+        "Key": "Crack Tine",
+        "enUS": "Crack Tine"
+    },
+    {
+        "id": 375236,
+        "Key": "Arreat's Scalper",
+        "enUS": "Arreat's Scalper"
+    },
+    {
+        "id": 375237,
+        "Key": "Hellmouth Thieves",
+        "enUS": "Hellmouth Thieves"
+    },
+    {
+        "id": 375238,
+        "Key": "Gheed's Nokozan",
+        "enUS": "Gheed's Nokozan"
+    },
+    {
+        "id": 375239,
+        "Key": "Demon's Stealskull",
+        "enUS": "Demon's Stealskull"
+    },
+    {
+        "id": 375240,
+        "Key": "Kerke's Blinkbats",
+        "enUS": "Kerke's Blinkbats"
+    },
+    {
+        "id": 375241,
+        "Key": "Bite Lacerator",
+        "enUS": "Bite Lacerator"
+    },
+    {
+        "id": 375242,
+        "Key": "Ichorsting Endlesshail",
+        "enUS": "Ichorsting Endlesshail"
+    },
+    {
+        "id": 375243,
+        "Key": "Atma's Tearhaunch",
+        "enUS": "Atma's Tearhaunch"
+    },
+    {
+        "id": 375244,
+        "Key": "Gore Sundan",
+        "enUS": "Gore Sundan"
+    },
+    {
+        "id": 375245,
+        "Key": "Umes Guard",
+        "enUS": "Umes Guard"
+    },
+    {
+        "id": 375246,
+        "Key": "Spike Reedeemer",
+        "enUS": "Spike Reedeemer"
+    },
+    {
+        "id": 375247,
+        "Key": "Spire Shaftstop",
+        "enUS": "Spire Shaftstop"
+    },
+    {
+        "id": 375248,
+        "Key": "Cliffkiller Greyform",
+        "enUS": "Cliffkiller Greyform"
+    },
+    {
+        "id": 375249,
+        "Key": "Aim Wolfhowl",
+        "enUS": "Aim Wolfhowl"
+    },
+    {
+        "id": 375250,
+        "Key": "Chromatic Vigor",
+        "enUS": "Chromatic Vigor"
+    },
+    {
+        "id": 375251,
+        "Key": "Blessed Trek",
+        "enUS": "Blessed Trek"
+    },
+    {
+        "id": 375252,
+        "Key": "Arch Islestrike",
+        "enUS": "Arch Islestrike"
+    },
+    {
+        "id": 375253,
+        "Key": "Warriv's Annihilus",
+        "enUS": "Warriv's Annihilus"
+    },
+    {
+        "id": 375254,
+        "Key": "Serpent Chang",
+        "enUS": "Serpent Chang"
+    },
+    {
+        "id": 375255,
+        "Key": "Gnasher Horror",
+        "enUS": "Gnasher Horror"
+    },
+    {
+        "id": 375256,
+        "Key": "Gheed's Marrowwalk",
+        "enUS": "Gheed's Marrowwalk"
+    },
+    {
+        "id": 375257,
+        "Key": "Bloodrise Kuko",
+        "enUS": "Bloodrise Kuko"
+    },
+    {
+        "id": 375258,
+        "Key": "Wizardspike Spike",
+        "enUS": "Wizardspike Spike"
+    },
+    {
+        "id": 375259,
+        "Key": "Stormchaser Dark",
+        "enUS": "Stormchaser Dark"
+    },
+    {
+        "id": 375260,
+        "Key": "Spike Helm",
+        "enUS": "Spike Helm"
+    },
+    {
+        "id": 375261,
+        "Key": "Ichorsting Chieftan",
+        "enUS": "Ichorsting Chieftan"
+    },
+    {
+        "id": 375262,
+        "Key": "Arreat's Jordan",
+        "enUS": "Arreat's Jordan"
+    },
+    {
+        "id": 375263,
+        "Key": "Crack Thieves",
+        "enUS": "Crack Thieves"
+    },
+    {
+        "id": 375264,
+        "Key": "Kerke's Bloodmoon",
+        "enUS": "Kerke's Bloodmoon"
+    },
+    {
+        "id": 375265,
+        "Key": "Cerebus Staff",
+        "enUS": "Cerebus Staff"
+    },
+    {
+        "id": 375266,
+        "Key": "Stormchaser Bloodrise",
+        "enUS": "Stormchaser Bloodrise"
+    },
+    {
+        "id": 375267,
+        "Key": "Gnasher Boneflesh",
+        "enUS": "Gnasher Boneflesh"
+    },
+    {
+        "id": 375268,
+        "Key": "Ondal's Homunculus",
+        "enUS": "Ondal's Homunculus"
+    },
+    {
+        "id": 375269,
+        "Key": "Homunculus SuperKhalimFlail",
+        "enUS": "Homunculus SuperKhalimFlail"
+    },
+    {
+        "id": 375270,
+        "Key": "Spire Swordback",
+        "enUS": "Spire Swordback"
+    },
+    {
+        "id": 375271,
+        "Key": "Bite Naga",
+        "enUS": "Bite Naga"
+    },
+    {
+        "id": 375272,
+        "Key": "Chromatic Whichwild",
+        "enUS": "Chromatic Whichwild"
+    },
+    {
+        "id": 375273,
+        "Key": "Cliffkiller Armor",
+        "enUS": "Cliffkiller Armor"
+    },
+    {
+        "id": 375274,
+        "Key": "Atma's Stone",
+        "enUS": "Atma's Stone"
+    },
+    {
+        "id": 375275,
+        "Key": "Bite Rakescar",
+        "enUS": "Bite Rakescar"
+    },
+    {
+        "id": 375276,
+        "Key": "Ichorsting Fetid",
+        "enUS": "Ichorsting Fetid"
+    },
+    {
+        "id": 375277,
+        "Key": "Basher Bonesob",
+        "enUS": "Basher Bonesob"
+    },
+    {
+        "id": 375278,
+        "Key": "Arreat's Shadowkiller",
+        "enUS": "Arreat's Shadowkiller"
+    },
+    {
+        "id": 375279,
+        "Key": "Kerke's Sz",
+        "enUS": "Kerke's Sz"
+    },
+    {
+        "id": 375280,
+        "Key": "Stormlash Annihilus",
+        "enUS": "Stormlash Annihilus"
+    },
+    {
+        "id": 375281,
+        "Key": "Umes Class",
+        "enUS": "Umes Class"
+    },
+    {
+        "id": 375282,
+        "Key": "Arch Riphook",
+        "enUS": "Arch Riphook"
+    },
+    {
+        "id": 375283,
+        "Key": "Ichorsting Sun",
+        "enUS": "Ichorsting Sun"
+    },
+    {
+        "id": 375284,
+        "Key": "Visage One",
+        "enUS": "Visage One"
+    },
+    {
+        "id": 375285,
+        "Key": "Awl Hand",
+        "enUS": "Awl Hand"
+    },
+    {
+        "id": 375286,
+        "Key": "Visage Horror",
+        "enUS": "Visage Horror"
+    },
+    {
+        "id": 375287,
+        "Key": "Awl Hone",
+        "enUS": "Awl Hone"
+    },
+    {
+        "id": 375288,
+        "Key": "Crow Waterwalk",
+        "enUS": "Crow Waterwalk"
+    },
+    {
+        "id": 375289,
+        "Key": "Awl Talons",
+        "enUS": "Awl Talons"
+    },
+    {
+        "id": 375290,
+        "Key": "Cranium Stealskull",
+        "enUS": "Cranium Stealskull"
+    }
+]
