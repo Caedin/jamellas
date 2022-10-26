@@ -97,7 +97,7 @@ thorns	3	normal	1	armo, weap, ring, amul		linear	x	2x
 gold%	3	all	1	armo, weap, ring, amul		linear	25 + x	50 + 1.5 * x
 mag%	3	all	1	armo, weap, ring, amul		linear	25 + x / 2	25 + x
 regen-mana	3	magic	1	armo, weap, ring, amul			25	25
-ease	3	all	1	armo, weap, ring, amul			50	50
+ease	3	all	1	armo, weap, ring, amul			-50	-50
 balance1	3	normal	1	armo, weap, ring, amul			15	25
 block1	3	normal	1	shie			15	25
 res-pois-len	3	poison	1	armo, weap, ring, amul			50	50

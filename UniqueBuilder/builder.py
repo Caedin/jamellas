@@ -250,6 +250,14 @@ while q:
         item[f'min{c+1}'] = int(minval)
         item[f'max{c+1}'] = int(maxval)
 
+        # Make ethereal a group property that includes indestruct. No support for group properties yet, so hard coding this one in for now. If ethereal is the last property on 12 property item, it might end up without indestruct. This is ok.
+        if prop['Property'].values[0] == 'ethereal' and c+1 <= 12:
+            c += 1
+            item[f'prop{c+1}'] = 'indestruct'
+            item[f'par{c+1}'] = ''
+            item[f'min{c+1}'] = 1
+            item[f'max{c+1}'] = 1
+
         c += 1
 
     idx += 1
