@@ -5864,5 +5864,22 @@
     "id": 27373,
     "Key" : "PotionOfSkillPoints",
     "enUS" : "+1 to Available Skills"
-  }
+  },
+  {
+    "id": 27374,
+    "Key": "LevelDisplay",
+    "enUS": "Level %d",
+    "zhTW": "%+d 力量",
+    "deDE": "%+d zu Stärke",
+    "esES": "%+d de fuerza",
+    "frFR": "%+d à la Force",
+    "itIT": "%+d Forza",
+    "koKR": "힘 %+d",
+    "plPL": "%+d do siły",
+    "esMX": "%+d de fuerza",
+    "jaJP": "筋力（%+d）",
+    "ptBR": "%+d de força",
+    "ruRU": "%+d к силе",
+    "zhCN": "%+d 力量"
+  },
 ]

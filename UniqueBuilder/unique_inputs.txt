@@ -67,24 +67,24 @@ cast1	2	magic	1	armo, weap, ring, amul			15	25
 manasteal	2	normal	1	weap			4	8
 att%	2	normal	1	weap		linear	x + 100	(3 * x) + 200
 dmg-ac	2	normal	1	weap		linear	50	50+10x
-dmg-demon	2	normal	1	weap		linear	(3 * x) + 200	(5*x) + 500
-dmg-undead	2	normal	1	weap		linear	(3 * x) + 200	(5*x) + 500
-att-demon	2	normal	1	weap		linear	x + 100	(3 * x) + 200
-att-undead	2	normal	1	weap		linear	x + 100	(3 * x) + 200
+dmg-demon	3	normal	1	weap		linear	(3 * x) + 200	(5*x) + 500
+dmg-undead	3	normal	1	weap		linear	(3 * x) + 200	(5*x) + 500
+att-demon	3	normal	1	weap		linear	x + 100	(3 * x) + 200
+att-undead	3	normal	1	weap		linear	x + 100	(3 * x) + 200
 fireskill	2	fire	1	armo, weap, ring, amul		linear	1	1 + x/20
 openwounds	2	normal	1	weap			35	70
 deadly	2	normal	1	weap			35	70
-slow	2	normal	1	weap			25	40
+slow	2	normal	1	weap			25	25
 nofreeze	2	cold	1	armo			1	1
 dmg-fire	2	fire	1	weap		linear	5 * x	10 * x
 dmg-ltng	2	lightning	1	weap		linear	5 * x	10 * x
 dmg-cold	2	cold	1	weap	150	linear	5 * x	10 * x
 dmg-pois	2	poison	1	weap	75	linear	5 * x	10 * x
 dmg-norm	2	normal	1	weap		linear	5 * x	10 * x
-extra-fire	2	fire	1	armo, weap, ring, amul		linear	x + 50	(2 * x) + 100
-extra-ltng	2	lightning	1	armo, weap, ring, amul		linear	x + 50	(2 * x) + 100
-extra-cold	2	cold	1	armo, weap, ring, amul		linear	x + 50	(2 * x) + 100
-extra-pois	2	poison	1	armo, weap, ring, amul		linear	x + 50	(2 * x) + 100
+extra-fire	2	fire	1	armo, weap, ring, amul		linear	x	(2 * x)
+extra-ltng	2	lightning	1	armo, weap, ring, amul		linear	x	(2 * x)
+extra-cold	2	cold	1	armo, weap, ring, amul		linear	x	(2 * x)
+extra-pois	2	poison	1	armo, weap, ring, amul		linear	x	(2 * x)
 all-stats	2	all	1	armo, weap, ring, amul		linear	x/4 + 5	x/2 + 5
 ac	3	normal	1	armo		linear	(5 * x) + 25	(10 * x) + 25
 ac-miss	3	normal	1	armo		linear	(5 * x) + 25	(10 * x) + 25

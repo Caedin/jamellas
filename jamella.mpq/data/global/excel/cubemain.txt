@@ -171,3 +171,20 @@ upgrade exc armor	1			100					3	"armo,exc,any"	si2	dhr					"useitem,mod,eli"				
 upgrade base weap	1			100					3	"weap,bas,any"	si1	dhr					"useitem,mod,exc"																																																																																							0
 upgrade exc weap	1			100					3	"weap,exc,any"	si2	dhr					"useitem,mod,eli"																																																																																							0
 1 Of Each PGem -> Token of Absolution	1			100					6	gpw	gpr	gpg	gpb	gpy	gpv		toa																																																																																							0
+Extract Quality	1			100					2	"any,rar"	gzh						qmt																													gzh																																																										0
+Extract Magic	1			100					2	"armo,uni"	gzh						mmt																													gzh																																																										0
+Extract Magic	1			100					2	"weap,uni"	gzh						mmt																													gzh																																																										0
+Extract Magic	1			100					2	"ring,uni"	gzh						mmt																													gzh																																																										0
+Extract Magic	1			100					2	"amul,uni"	gzh						mmt																													gzh																																																										0
+Extract Magic	1			100					2	"armo,set"	gzh						mmt																													gzh																																																										0
+Extract Magic	1			100					2	"weap,set"	gzh						mmt																													gzh																																																										0
+Extract Magic	1			100					2	"ring,set"	gzh						mmt																													gzh																																																										0
+Extract Magic	1			100					2	"amul,set"	gzh						mmt																													gzh																																																										0
+Craft Superior Armor 3x	1			100					4	"armo,nor"	"qmt,qty=3"						"usetype,hiq"		50	75																																																																																				0
+Craft Rare	1			100					2	"armo,hiq"	mmt						"usetype,rar"		50	50																																																																																				0
+Craft Superior Weapon 3x	1			100					4	"weap,nor"	"qmt,qty=3"						"usetype,hiq"		50	75																																																																																				0
+Craft Rare	1			100					2	"weap,hiq"	mmt						"usetype,rar"		50	50																																																																																				0
+Craft Superior	1			100					2	"ring,mag"	mmt						"usetype,rar"		50	50																																																																																				0
+Craft Rare	1			100					2	"amul,mag"	mmt						"usetype,rar"		50	50																																																																																				0
+Upgrade Essences	1			100					4	"qmt,qty=3"	pe1						mmt																																																																																							0
+Upgrade Essences 2	1			100					5	"mmt,qty=3"	pe2	dhr					tsc																																																																																							0

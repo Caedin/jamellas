@@ -1,70 +1,70 @@
 name	letter	transform	code	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
-Chipped Amethyst		18	gcv	att	0	40	40						0	0	0	str	0	3	3		0	0	0		0	0	0	ac	0	8	8		0	0	0		0	0	0
-Flawed Amethyst		18	gfv	att	0	80	80						0	0	0	str	0	6	6		0	0	0		0	0	0	ac	0	16	16		0	0	0		0	0	0
-Amethyst		18	gsv	att	0	160	160						0	0	0	str	0	12	12		0	0	0		0	0	0	ac	0	32	32		0	0	0		0	0	0
-Flawless Amethyst		18	gzv	att	0	320	320						0	0	0	str	0	24	24		0	0	0		0	0	0	ac	0	64	64		0	0	0		0	0	0
-Perfect Amethyst		17	gpv	att	0	640	640						0	0	0	str	0	48	48		0	0	0		0	0	0	ac	0	128	128		0	0	0		0	0	0
-Chipped Sapphire		5	gcb	cold-min	0	1	1	cold-max	0	3	3	cold-len	0	25	25	enr	0	3	3		0	0	0		0	0	0	res-cold	0	12	12		0	0	0		0	0	0
-Flawed Sapphire		5	gfb	cold-min	0	2	2	cold-max	0	6	6	cold-len	0	35	35	enr	0	6	6		0	0	0		0	0	0	res-cold	0	18	18		0	0	0		0	0	0
-Sapphire		5	gsb	cold-min	0	4	4	cold-max	0	12	12	cold-len	0	50	50	enr	0	12	12		0	0	0		0	0	0	res-cold	0	24	24		0	0	0		0	0	0
-Flawless Sapphire		5	glb	cold-min	0	8	8	cold-max	0	24	24	cold-len	0	60	60	enr	0	24	24		0	0	0		0	0	0	res-cold	0	36	36		0	0	0		0	0	0
-Perfect Sapphire		6	gpb	cold-min	0	16	16	cold-max	0	48	48	cold-len	0	75	75	enr	0	48	48		0	0	0		0	0	0	res-cold	0	48	48		0	0	0		0	0	0
-Chipped Emerald		11	gcg	pois-min	0	34	34	pois-max	0	34	34	pois-len	0	75	75	dex	0	3	3		0	0	0		0	0	0	res-pois	0	12	12		0	0	0		0	0	0
-Flawed Emerald		11	gfg	pois-min	0	68	68	pois-max	0	68	68	pois-len	0	100	100	dex	0	6	6		0	0	0		0	0	0	res-pois	0	18	18		0	0	0		0	0	0
-Emerald		11	gsg	pois-min	0	136	136	pois-max	0	136	136	pois-len	0	125	125	dex	0	12	12		0	0	0		0	0	0	res-pois	0	24	24		0	0	0		0	0	0
-Flawless Emerald		11	glg	pois-min	0	272	272	pois-max	0	272	272	pois-len	0	152	152	dex	0	24	24		0	0	0		0	0	0	res-pois	0	36	36		0	0	0		0	0	0
-Perfect Emerald		12	gpg	pois-min	0	544	544	pois-max	0	544	544	pois-len	0	179	179	dex	0	48	48		0	0	0		0	0	0	res-pois	0	48	48		0	0	0		0	0	0
-Chipped Ruby		8	gcr	fire-min	0	3	3	fire-max	0	4	4		0	0	0	hp	0	10	10		0	0	0		0	0	0	res-fire	0	12	12		0	0	0		0	0	0
-Flawed Ruby		8	gfr	fire-min	0	6	6	fire-max	0	8	8		0	0	0	hp	0	20	20		0	0	0		0	0	0	res-fire	0	18	18		0	0	0		0	0	0
-Ruby		8	gsr	fire-min	0	12	12	fire-max	0	16	16		0	0	0	hp	0	40	40		0	0	0		0	0	0	res-fire	0	24	24		0	0	0		0	0	0
-Flawless Ruby		8	glr	fire-min	0	24	24	fire-max	0	32	32		0	0	0	hp	0	80	80		0	0	0		0	0	0	res-fire	0	36	36		0	0	0		0	0	0
-Perfect Ruby		9	gpr	fire-min	0	48	48	fire-max	0	64	64		0	0	0	hp	0	160	160		0	0	0		0	0	0	res-fire	0	48	48		0	0	0		0	0	0
-Chipped Diamond		1	gcw	dmg-undead	0	28	28						0	0	0	att	0	20	20		0	0	0		0	0	0	res-all	0	6	6		0	0	0		0	0	0
-Flawed Diamond		1	gfw	dmg-undead	0	56	56						0	0	0	att	0	40	40		0	0	0		0	0	0	res-all	0	12	12		0	0	0		0	0	0
-Diamond		1	gsw	dmg-undead	0	112	112						0	0	0	att	0	80	80		0	0	0		0	0	0	res-all	0	18	18		0	0	0		0	0	0
-Flawless Diamond		1	glw	dmg-undead	0	224	224						0	0	0	att	0	160	160		0	0	0		0	0	0	res-all	0	24	24		0	0	0		0	0	0
-Perfect Diamond		0	gpw	dmg-undead	0	448	448						0	0	0	att	0	320	320		0	0	0		0	0	0	res-all	0	30	30		0	0	0		0	0	0
-Chipped Topaz		14	gcy	ltng-min	0	1	1	ltng-max	0	8	8		0	0	0	mag%	0	9	9		0	0	0		0	0	0	res-ltng	0	12	12		0	0	0		0	0	0
-Flawed Topaz		14	gfy	ltng-min	0	1	1	ltng-max	0	16	16		0	0	0	mag%	0	18	18		0	0	0		0	0	0	res-ltng	0	18	18		0	0	0		0	0	0
-Topaz		14	gsy	ltng-min	0	1	1	ltng-max	0	32	32		0	0	0	mag%	0	36	36		0	0	0		0	0	0	res-ltng	0	24	24		0	0	0		0	0	0
-Flawless Topaz		14	gly	ltng-min	0	1	1	ltng-max	0	64	64		0	0	0	mag%	0	72	72		0	0	0		0	0	0	res-ltng	0	36	36		0	0	0		0	0	0
-Perfect Topaz		13	gpy	ltng-min	0	1	1	ltng-max	0	128	128		0	0	0	mag%	0	144	144		0	0	0		0	0	0	res-ltng	0	48	48		0	0	0		0	0	0
-Chipped Skull		2	skc	mana%	0	1	1	hp%	0	1	1					mana%	0	1	1	hp%	0	1	1		0	0	0	mana%	0	1	1	hp%	0	1	1		0	0	0
-Flawed Skull		2	skf	mana%	0	2	2	hp%	0	2	2					mana%	0	2	2	hp%	0	2	2		0	0	0	mana%	0	2	2	hp%	0	2	2		0	0	0
-Skull		2	sku	mana%	0	4	4	hp%	0	4	4					mana%	0	4	4	hp%	0	4	4		0	0	0	mana%	0	4	4	hp%	0	4	4		0	0	0
-Flawless Skull		2	skl	mana%	0	8	8	hp%	0	8	8					mana%	0	8	8	hp%	0	8	8		0	0	0	mana%	0	8	8	hp%	0	8	8		0	0	0
-Perfect Skull		3	skz	mana%	0	16	16	hp%	0	16	16					mana%	0	16	16	hp%	0	16	16		0	0	0	mana%	0	16	16	hp%	0	16	16		0	0	0
+Chipped Amethyst		18	gcv	dmg-demon		32	32									str		3	3									ac		8	8								
+Flawed Amethyst		18	gfv	dmg-demon		96	96									str		6	6									ac		16	16								
+Amethyst		18	gsv	dmg-demon		160	160									str		12	12									ac		32	32								
+Flawless Amethyst		18	gzv	dmg-demon		256	256									str		24	24									ac		64	64								
+Perfect Amethyst		17	gpv	dmg-demon		512	512									str		48	48									ac		128	128								
+Chipped Sapphire		5	gcb	extra-cold		4	4									enr		3	3									res-cold		12	12								
+Flawed Sapphire		5	gfb	extra-cold		8	8									enr		6	6									res-cold		18	18								
+Sapphire		5	gsb	extra-cold		12	12									enr		12	12									res-cold		24	24								
+Flawless Sapphire		5	glb	extra-cold		16	16									enr		24	24									res-cold		36	36								
+Perfect Sapphire		6	gpb	extra-cold		20	20									enr		48	48									res-cold		48	48								
+Chipped Emerald		11	gcg	extra-pois		4	4									dex		3	3									res-pois		12	12								
+Flawed Emerald		11	gfg	extra-pois		8	8									dex		6	6									res-pois		18	18								
+Emerald		11	gsg	extra-pois		12	12									dex		12	12									res-pois		24	24								
+Flawless Emerald		11	glg	extra-pois		16	16									dex		24	24									res-pois		36	36								
+Perfect Emerald		12	gpg	extra-pois		20	20									dex		48	48									res-pois		48	48								
+Chipped Ruby		8	gcr	extra-fire		4	4									hp		10	10									res-fire		12	12								
+Flawed Ruby		8	gfr	extra-fire		8	8									hp		20	20									res-fire		18	18								
+Ruby		8	gsr	extra-fire		12	12									hp		40	40									res-fire		24	24								
+Flawless Ruby		8	glr	extra-fire		16	16									hp		80	80	hp%		5	5					res-fire		36	36								
+Perfect Ruby		9	gpr	extra-fire		20	20									hp		160	160	hp%		10	10					res-fire		48	48								
+Chipped Diamond		1	gcw	dmg-undead		32	32									gold%		20	20									gethit-skill	235	10	5								
+Flawed Diamond		1	gfw	dmg-undead		96	96									gold%		40	40									gethit-skill	235	10	10								
+Diamond		1	gsw	dmg-undead		160	160									gold%		60	60									gethit-skill	235	10	20								
+Flawless Diamond		1	glw	dmg-undead		256	256									gold%		80	80									gethit-skill	235	10	30								
+Perfect Diamond		0	gpw	dmg-undead		512	512									gold%		100	100									gethit-skill	235	10	40								
+Chipped Topaz		14	gcy	extra-ltng		4	4									mag%		10	10									res-ltng		12	12								
+Flawed Topaz		14	gfy	extra-ltng		8	8									mag%		20	20									res-ltng		18	18								
+Topaz		14	gsy	extra-ltng		12	12									mag%		30	30									res-ltng		24	24								
+Flawless Topaz		14	gly	extra-ltng		16	16									mag%		40	40									res-ltng		36	36								
+Perfect Topaz		13	gpy	extra-ltng		20	20									mag%		50	50									res-ltng		48	48								
+Chipped Skull		2	skc	dmg%		8	8									regen		10	10									gethit-skill	68	10	5								
+Flawed Skull		2	skf	dmg%		16	16									regen		20	20									gethit-skill	68	10	10								
+Skull		2	sku	dmg%		24	24									regen		30	30									gethit-skill	68	10	20								
+Flawless Skull		2	skl	dmg%		32	32	deadly		5	5	crush		5	5	regen		40	40									gethit-skill	68	10	30								
+Perfect Skull		3	skz	dmg%		40	40	deadly		10	10	crush		10	10	regen		50	50									gethit-skill	68	10	40								
 Expansion																																							
-El Rune	r01L	18	r01	light		1	1	att		50	50					light		1	1	ac		15	15					light		1	1	ac		15	15				0
-Eld Rune	r02L	18	r02	att-undead		50	50	dmg-undead		75	75					stamdrain		15	15									block		7	7								0
-Tir Rune	r03L	18	r03	mana-kill		2	2									mana-kill		2	2									mana-kill		2	2								0
-Nef Rune	r04L	18	r04	knock		1	1									ac-miss		30	30									ac-miss		30	30								0
-Eth Rune	r05L	18	r05	reduce-ac		25	25									regen-mana		15	15									regen-mana		15	15								0
-Ith Rune	r06L	18	r06	dmg-max		9	9									dmg-to-mana		15	15									dmg-to-mana		15	15								0
-Tal Rune	r07L	18	r07	dmg-pois	125	154	154									res-pois		30	30									res-pois		35	35								0
-Ral Rune	r08L	18	r08	dmg-fire		5	30									res-fire		30	30									res-fire		35	35								0
-Ort Rune	r09L	18	r09	dmg-ltng		1	50									res-ltng		30	30									res-ltng		35	35								0
-Thul Rune	r10L	18	r10	dmg-cold	75	3	14									res-cold		30	30									res-cold		35	35								0
-Amn Rune	r11L	18	r11	hp%		7	7									thorns		14	14									thorns		14	14								0
-Sol Rune	r12L	18	r12	dmg-min		9	9									red-dmg		7	7									red-dmg		7	7								0
-Shael Rune	r13L	18	r13	swing2		20	20									balance2		20	20									block2		20	20								0
-Dol Rune	r14L	18	r14	howl		32	32									hp%		7	7									hp%		7	7								0
-Hel Rune	r15L	18	r15	ease		-20	-20									ease		-15	-15									ease		-15	-15								0
-Io Rune	r16L	18	r16	vit		10	10									vit		10	10									vit		10	10								0
-Lum Rune	r17L	18	r17	enr		10	10									enr		10	10									enr		10	10								0
-Ko Rune	r18L	18	r18	dex		10	10									dex		10	10									dex		10	10								0
-Fal Rune	r19L	18	r19	str		10	10									str		10	10									str		10	10								0
-Lem Rune	r20L	18	r20	gold%		75	75									gold%		50	50									gold%		50	50								0
-Pul Rune	r21L	18	r21	att-demon		100	100	dmg-demon		75	75					ac%		30	30									ac%		30	30								0
-Um Rune	r22L	18	r22	openwounds		25	25									res-all		15	15									res-all		22	22								0
-Mal Rune	r23L	18	r23	noheal		1	1									red-mag		7	7									red-mag		7	7								0
-Ist Rune	r24L	18	r24	mag%		30	30									mag%		25	25									mag%		25	25								0
-Gul Rune	r25L	18	r25	att%		20	20									res-pois-max		5	5									res-pois-max		5	5								0
-Vex Rune	r26L	18	r26	regen-mana		7	7									res-fire-max		5	5									res-fire-max		5	5								0
-Ohm Rune	r27L	18	r27	dmg%		50	50									res-cold-max		5	5									res-cold-max		5	5								0
-Lo Rune	r28L	18	r28	deadly		20	20									res-ltng-max		5	5									res-ltng-max		5	5								0
-Sur Rune	r29L	18	r29	stupidity		1	1									mana%		5	5									mana		50	50								0
-Ber Rune	r30L	18	r30	crush		20	20									red-dmg%		8	8									red-dmg%		8	8								0
-Jah Rune	r31L	18	r31	ignore-ac		1	1									hp%		5	5									hp		50	50								0
-Cham Rune	r32L	18	r32	freeze		3	3									nofreeze		1	1									nofreeze		1	1								0
-Zod Rune	r33L	18	r33	indestruct		1	1									indestruct		1	1									indestruct		1	1								0
+El Rune	r01L	18	r01	addxp		10	10									addxp		10	10									addxp		10	10								
+Eld Rune	r02L	18	r02	heal-kill		10	10									heal-kill		10	10									heal-kill		10	10								
+Tir Rune	r03L	18	r03	move1		20	20									move1		20	20									move1		20	20								
+Nef Rune	r04L	18	r04	swing1		10	10									swing1		10	10									swing1		10	10								
+Eth Rune	r05L	18	r05	cast1		10	10									cast1		10	10									cast1		10	10								
+Ith Rune	r06L	18	r06	ac%		10	10	ac		25	25					ac%		10	10	ac		25	25					ac%		10	10	ac		25	25				
+Tal Rune	r07L	18	r07	att%		20	20	att		100	100					att%		20	20	att		100	100					att%		20	20	att		100	100				
+Ral Rune	r08L	18	r08	dmg-norm		10	10									dmg-norm		10	10									dmg-norm		10	10								
+Ort Rune	r09L	18	r09	dmg-pois	125	300	300									dmg-pois	125	300	300									dmg-pois	125	300	300								
+Thul Rune	r10L	18	r10	dmg-fire		10	60									dmg-fire		10	60									dmg-fire		10	60								
+Amn Rune	r11L	18	r11	dmg-ltng		1	100									dmg-ltng		1	100									dmg-ltng		1	100								
+Sol Rune	r12L	18	r12	dmg-cold	75	6	30									dmg-cold	75	6	30									dmg-cold	75	6	30								
+Shael Rune	r13L	18	r13	hp%		20	20									hp%		20	20									hp%		20	20								
+Dol Rune	r14L	18	r14	openwounds		50	50									openwounds		50	50									openwounds		50	50								
+Hel Rune	r15L	18	r15	extra-fire		25	25									extra-fire		25	25									extra-fire		25	25								
+Io Rune	r16L	18	r16	deadly		50	50									deadly		50	50									deadly		50	50								
+Lum Rune	r17L	18	r17	extra-ltng		25	25									extra-ltng		25	25									extra-ltng		25	25								
+Ko Rune	r18L	18	r18	crush		50	50									crush		50	50									crush		50	50								
+Fal Rune	r19L	18	r19	extra-cold		25	25									extra-cold		25	25									extra-cold		25	25								
+Lem Rune	r20L	18	r20	dmg%		50	50									dmg%		50	50									dmg%		50	50								
+Pul Rune	r21L	18	r21	enr		50	50									enr		50	50									enr		50	50								
+Um Rune	r22L	18	r22	str		50	50									str		50	50									str		50	50								
+Mal Rune	r23L	18	r23	red-dmg		50	50									red-dmg		50	50									red-dmg		50	50								
+Ist Rune	r24L	18	r24	red-dmg%		10	10									red-dmg%		10	10									red-dmg%		10	10								
+Gul Rune	r25L	18	r25	res-all		20	20									res-all		20	20									res-all		20	20								
+Vex Rune	r26L	18	r26	res-all-max		5	5									res-all-max		5	5									res-all-max		5	5								
+Ohm Rune	r27L	18	r27	mag%		100	100									mag%		100	100									mag%		100	100								
+Lo Rune	r28L	18	r28	gold%		200	200									gold%		200	200									gold%		200	200								
+Sur Rune	r29L	18	r29	extra-pois		50	50									extra-pois		50	50									extra-pois		50	50								
+Ber Rune	r30L	18	r30	cheap		10	10									cheap		10	10									cheap		10	10								
+Jah Rune	r31L	18	r31	allskills		1	1									allskills		1	1									allskills		1	1								
+Cham Rune	r32L	18	r32	dmg%		100	100	dmg-norm		30	60					dmg%		100	100	dmg-norm		30	60					dmg%		100	100	dmg-norm		30	60				
+Zod Rune	r33L	18	r33	extra-ltng		50	50	extra-fire		50	50	extra-cold		50	50	extra-ltng		50	50	extra-fire		50	50	extra-cold		50	50	extra-ltng		50	50	extra-fire		50	50	extra-cold		50	50

@@ -665,5 +665,8 @@
   { "si1": { "asset": "scroll/town_portal_scroll" } },
   { "si2": { "asset": "scroll/town_portal_scroll" } },
   { "pe1": { "asset": "potion/elixir" } },
-  { "pe2": { "asset": "potion/elixir" } }
+  { "pe2": { "asset": "potion/elixir" } },  
+  { "gzh": { "asset": "quest/token_of_absolution" } },
+  { "qmt": { "asset": "quest/burning_essence_of_terror" } },
+  { "mmt": { "asset": "quest/festering_essence_of_destruction" } }
 ]

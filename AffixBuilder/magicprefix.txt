@@ -668,142 +668,142 @@ emptyString	100	1	1	98	99					1	48	att%		203	245										armo	ring	amul								
 emptyString	100	1	1	98	99					1	48	att%		505	610										weap												0	0
 emptyString	100	1	1	99	99					1	48	att%		224	270										armo	ring	amul										0	0
 emptyString	100	1	1	99	99					1	48	att%		558	674										weap												0	0
-emptyString	100	1	1	1	25					1	51	att-demon		5	7										armo	ring	amul										0	0
-emptyString	100	1	1	1	25					1	51	att-demon		6	14										weap												0	0
-emptyString	100	1	1	5	30					1	51	att-demon		6	8										armo	ring	amul										0	0
-emptyString	100	1	1	5	30					1	51	att-demon		10	19										weap												0	0
-emptyString	100	1	1	10	35					1	51	att-demon		7	9										armo	ring	amul										0	0
-emptyString	100	1	1	10	35					1	51	att-demon		14	25										weap												0	0
-emptyString	100	1	1	15	40					1	51	att-demon		8	11										armo	ring	amul										0	0
-emptyString	100	1	1	15	40					1	51	att-demon		19	32										weap												0	0
-emptyString	100	1	1	20	45					1	51	att-demon		9	13										armo	ring	amul										0	0
-emptyString	100	1	1	20	45					1	51	att-demon		25	39										weap												0	0
-emptyString	100	1	1	25	50					1	51	att-demon		11	15										armo	ring	amul										0	0
-emptyString	100	1	1	25	50					1	51	att-demon		32	49										weap												0	0
-emptyString	100	1	1	30	55					1	51	att-demon		13	18										armo	ring	amul										0	0
-emptyString	100	1	1	30	55					1	51	att-demon		41	59										weap												0	0
-emptyString	100	1	1	35	60					1	51	att-demon		16	21										armo	ring	amul										0	0
-emptyString	100	1	1	35	60					1	51	att-demon		50	71										weap												0	0
-emptyString	100	1	1	40	65					1	51	att-demon		18	24										armo	ring	amul										0	0
-emptyString	100	1	1	40	65					1	51	att-demon		60	85										weap												0	0
-emptyString	100	1	1	45	70					1	51	att-demon		21	28										armo	ring	amul										0	0
-emptyString	100	1	1	45	70					1	51	att-demon		73	101										weap												0	0
-emptyString	100	1	1	50	72					1	51	att-demon		25	33										armo	ring	amul										0	0
-emptyString	100	1	1	50	72					1	51	att-demon		87	119										weap												0	0
-emptyString	100	1	1	55	74					1	51	att-demon		29	38										armo	ring	amul										0	0
-emptyString	100	1	1	55	74					1	51	att-demon		103	140										weap												0	0
-emptyString	100	1	1	60	76					1	51	att-demon		34	44										armo	ring	amul										0	0
-emptyString	100	1	1	60	76					1	51	att-demon		122	164										weap												0	0
-emptyString	100	1	1	65	78					1	51	att-demon		39	51										armo	ring	amul										0	0
-emptyString	100	1	1	65	78					1	51	att-demon		143	192										weap												0	0
-emptyString	100	1	1	70	80					1	51	att-demon		45	59										armo	ring	amul										0	0
-emptyString	100	1	1	70	80					1	51	att-demon		168	224										weap												0	0
-emptyString	100	1	1	72	82					1	51	att-demon		52	68										armo	ring	amul										0	0
-emptyString	100	1	1	72	82					1	51	att-demon		196	261										weap												0	0
-emptyString	100	1	1	74	84					1	51	att-demon		60	79										armo	ring	amul										0	0
-emptyString	100	1	1	74	84					1	51	att-demon		228	303										weap												0	0
-emptyString	100	1	1	76	86					1	51	att-demon		70	91										armo	ring	amul										0	0
-emptyString	100	1	1	76	86					1	51	att-demon		266	352										weap												0	0
-emptyString	100	1	1	78	88					1	51	att-demon		80	105										armo	ring	amul										0	0
-emptyString	100	1	1	78	88					1	51	att-demon		309	408										weap												0	0
-emptyString	100	1	1	80	90					1	51	att-demon		93	121										armo	ring	amul										0	0
-emptyString	100	1	1	80	90					1	51	att-demon		358	472										weap												0	0
-emptyString	100	1	1	82	91					1	51	att-demon		107	140										armo	ring	amul										0	0
-emptyString	100	1	1	82	91					1	51	att-demon		415	546										weap												0	0
-emptyString	100	1	1	84	92					1	51	att-demon		123	161										armo	ring	amul										0	0
-emptyString	100	1	1	84	92					1	51	att-demon		481	631										weap												0	0
-emptyString	100	1	1	86	93					1	51	att-demon		142	185										armo	ring	amul										0	0
-emptyString	100	1	1	86	93					1	51	att-demon		556	729										weap												0	0
-emptyString	100	1	1	88	94					1	51	att-demon		164	214										armo	ring	amul										0	0
-emptyString	100	1	1	88	94					1	51	att-demon		643	842										weap												0	0
-emptyString	100	1	1	90	95					1	51	att-demon		189	246										armo	ring	amul										0	0
-emptyString	100	1	1	90	95					1	51	att-demon		742	971										weap												0	0
-emptyString	100	1	1	91	96					1	51	att-demon		217	283										armo	ring	amul										0	0
-emptyString	100	1	1	91	96					1	51	att-demon		857	1120										weap												0	0
-emptyString	100	1	1	92	97					1	51	att-demon		250	326										armo	ring	amul										0	0
-emptyString	100	1	1	92	97					1	51	att-demon		988	1291										weap												0	0
-emptyString	100	1	1	93	98					1	51	att-demon		288	375										armo	ring	amul										0	0
-emptyString	100	1	1	93	98					1	51	att-demon		1140	1488										weap												0	0
-emptyString	100	1	1	94	99					1	51	att-demon		332	432										armo	ring	amul										0	0
-emptyString	100	1	1	94	99					1	51	att-demon		1314	1714										weap												0	0
-emptyString	100	1	1	95	99					1	51	att-demon		382	497										armo	ring	amul										0	0
-emptyString	100	1	1	95	99					1	51	att-demon		1514	1975										weap												0	0
-emptyString	100	1	1	96	99					1	51	att-demon		439	572										armo	ring	amul										0	0
-emptyString	100	1	1	96	99					1	51	att-demon		1744	2274										weap												0	0
-emptyString	100	1	1	97	99					1	51	att-demon		505	658										armo	ring	amul										0	0
-emptyString	100	1	1	97	99					1	51	att-demon		2009	2618										weap												0	0
-emptyString	100	1	1	98	99					1	51	att-demon		582	757										armo	ring	amul										0	0
-emptyString	100	1	1	98	99					1	51	att-demon		2314	3014										weap												0	0
-emptyString	100	1	1	99	99					1	51	att-demon		669	871										armo	ring	amul										0	0
-emptyString	100	1	1	99	99					1	51	att-demon		2664	3470										weap												0	0
-emptyString	100	1	1	1	25					1	52	att-undead		5	7										armo	ring	amul										0	0
-emptyString	100	1	1	1	25					1	52	att-undead		6	14										weap												0	0
-emptyString	100	1	1	5	30					1	52	att-undead		6	8										armo	ring	amul										0	0
-emptyString	100	1	1	5	30					1	52	att-undead		10	19										weap												0	0
-emptyString	100	1	1	10	35					1	52	att-undead		7	9										armo	ring	amul										0	0
-emptyString	100	1	1	10	35					1	52	att-undead		14	25										weap												0	0
-emptyString	100	1	1	15	40					1	52	att-undead		8	11										armo	ring	amul										0	0
-emptyString	100	1	1	15	40					1	52	att-undead		19	32										weap												0	0
-emptyString	100	1	1	20	45					1	52	att-undead		9	13										armo	ring	amul										0	0
-emptyString	100	1	1	20	45					1	52	att-undead		25	39										weap												0	0
-emptyString	100	1	1	25	50					1	52	att-undead		11	15										armo	ring	amul										0	0
-emptyString	100	1	1	25	50					1	52	att-undead		32	49										weap												0	0
-emptyString	100	1	1	30	55					1	52	att-undead		13	18										armo	ring	amul										0	0
-emptyString	100	1	1	30	55					1	52	att-undead		41	59										weap												0	0
-emptyString	100	1	1	35	60					1	52	att-undead		16	21										armo	ring	amul										0	0
-emptyString	100	1	1	35	60					1	52	att-undead		50	71										weap												0	0
-emptyString	100	1	1	40	65					1	52	att-undead		18	24										armo	ring	amul										0	0
-emptyString	100	1	1	40	65					1	52	att-undead		60	85										weap												0	0
-emptyString	100	1	1	45	70					1	52	att-undead		21	28										armo	ring	amul										0	0
-emptyString	100	1	1	45	70					1	52	att-undead		73	101										weap												0	0
-emptyString	100	1	1	50	72					1	52	att-undead		25	33										armo	ring	amul										0	0
-emptyString	100	1	1	50	72					1	52	att-undead		87	119										weap												0	0
-emptyString	100	1	1	55	74					1	52	att-undead		29	38										armo	ring	amul										0	0
-emptyString	100	1	1	55	74					1	52	att-undead		103	140										weap												0	0
-emptyString	100	1	1	60	76					1	52	att-undead		34	44										armo	ring	amul										0	0
-emptyString	100	1	1	60	76					1	52	att-undead		122	164										weap												0	0
-emptyString	100	1	1	65	78					1	52	att-undead		39	51										armo	ring	amul										0	0
-emptyString	100	1	1	65	78					1	52	att-undead		143	192										weap												0	0
-emptyString	100	1	1	70	80					1	52	att-undead		45	59										armo	ring	amul										0	0
-emptyString	100	1	1	70	80					1	52	att-undead		168	224										weap												0	0
-emptyString	100	1	1	72	82					1	52	att-undead		52	68										armo	ring	amul										0	0
-emptyString	100	1	1	72	82					1	52	att-undead		196	261										weap												0	0
-emptyString	100	1	1	74	84					1	52	att-undead		60	79										armo	ring	amul										0	0
-emptyString	100	1	1	74	84					1	52	att-undead		228	303										weap												0	0
-emptyString	100	1	1	76	86					1	52	att-undead		70	91										armo	ring	amul										0	0
-emptyString	100	1	1	76	86					1	52	att-undead		266	352										weap												0	0
-emptyString	100	1	1	78	88					1	52	att-undead		80	105										armo	ring	amul										0	0
-emptyString	100	1	1	78	88					1	52	att-undead		309	408										weap												0	0
-emptyString	100	1	1	80	90					1	52	att-undead		93	121										armo	ring	amul										0	0
-emptyString	100	1	1	80	90					1	52	att-undead		358	472										weap												0	0
-emptyString	100	1	1	82	91					1	52	att-undead		107	140										armo	ring	amul										0	0
-emptyString	100	1	1	82	91					1	52	att-undead		415	546										weap												0	0
-emptyString	100	1	1	84	92					1	52	att-undead		123	161										armo	ring	amul										0	0
-emptyString	100	1	1	84	92					1	52	att-undead		481	631										weap												0	0
-emptyString	100	1	1	86	93					1	52	att-undead		142	185										armo	ring	amul										0	0
-emptyString	100	1	1	86	93					1	52	att-undead		556	729										weap												0	0
-emptyString	100	1	1	88	94					1	52	att-undead		164	214										armo	ring	amul										0	0
-emptyString	100	1	1	88	94					1	52	att-undead		643	842										weap												0	0
-emptyString	100	1	1	90	95					1	52	att-undead		189	246										armo	ring	amul										0	0
-emptyString	100	1	1	90	95					1	52	att-undead		742	971										weap												0	0
-emptyString	100	1	1	91	96					1	52	att-undead		217	283										armo	ring	amul										0	0
-emptyString	100	1	1	91	96					1	52	att-undead		857	1120										weap												0	0
-emptyString	100	1	1	92	97					1	52	att-undead		250	326										armo	ring	amul										0	0
-emptyString	100	1	1	92	97					1	52	att-undead		988	1291										weap												0	0
-emptyString	100	1	1	93	98					1	52	att-undead		288	375										armo	ring	amul										0	0
-emptyString	100	1	1	93	98					1	52	att-undead		1140	1488										weap												0	0
-emptyString	100	1	1	94	99					1	52	att-undead		332	432										armo	ring	amul										0	0
-emptyString	100	1	1	94	99					1	52	att-undead		1314	1714										weap												0	0
-emptyString	100	1	1	95	99					1	52	att-undead		382	497										armo	ring	amul										0	0
-emptyString	100	1	1	95	99					1	52	att-undead		1514	1975										weap												0	0
-emptyString	100	1	1	96	99					1	52	att-undead		439	572										armo	ring	amul										0	0
-emptyString	100	1	1	96	99					1	52	att-undead		1744	2274										weap												0	0
-emptyString	100	1	1	97	99					1	52	att-undead		505	658										armo	ring	amul										0	0
-emptyString	100	1	1	97	99					1	52	att-undead		2009	2618										weap												0	0
-emptyString	100	1	1	98	99					1	52	att-undead		582	757										armo	ring	amul										0	0
-emptyString	100	1	1	98	99					1	52	att-undead		2314	3014										weap												0	0
-emptyString	100	1	1	99	99					1	52	att-undead		669	871										armo	ring	amul										0	0
-emptyString	100	1	1	99	99					1	52	att-undead		2664	3470										weap												0	0
+emptyString	100	1	1	1	25					1	51	att-demon		20	30										armo	ring	amul										0	0
+emptyString	100	1	1	1	25					1	51	att-demon		50	150										weap												0	0
+emptyString	100	1	1	5	30					1	51	att-demon		25	35										armo	ring	amul										0	0
+emptyString	100	1	1	5	30					1	51	att-demon		100	200										weap												0	0
+emptyString	100	1	1	10	35					1	51	att-demon		30	40										armo	ring	amul										0	0
+emptyString	100	1	1	10	35					1	51	att-demon		150	250										weap												0	0
+emptyString	100	1	1	15	40					1	51	att-demon		35	45										armo	ring	amul										0	0
+emptyString	100	1	1	15	40					1	51	att-demon		200	300										weap												0	0
+emptyString	100	1	1	20	45					1	51	att-demon		40	50										armo	ring	amul										0	0
+emptyString	100	1	1	20	45					1	51	att-demon		250	350										weap												0	0
+emptyString	100	1	1	25	50					1	51	att-demon		45	55										armo	ring	amul										0	0
+emptyString	100	1	1	25	50					1	51	att-demon		300	400										weap												0	0
+emptyString	100	1	1	30	55					1	51	att-demon		50	60										armo	ring	amul										0	0
+emptyString	100	1	1	30	55					1	51	att-demon		350	450										weap												0	0
+emptyString	100	1	1	35	60					1	51	att-demon		55	65										armo	ring	amul										0	0
+emptyString	100	1	1	35	60					1	51	att-demon		400	500										weap												0	0
+emptyString	100	1	1	40	65					1	51	att-demon		60	70										armo	ring	amul										0	0
+emptyString	100	1	1	40	65					1	51	att-demon		450	550										weap												0	0
+emptyString	100	1	1	45	70					1	51	att-demon		65	75										armo	ring	amul										0	0
+emptyString	100	1	1	45	70					1	51	att-demon		500	600										weap												0	0
+emptyString	100	1	1	50	72					1	51	att-demon		70	80										armo	ring	amul										0	0
+emptyString	100	1	1	50	72					1	51	att-demon		550	650										weap												0	0
+emptyString	100	1	1	55	74					1	51	att-demon		75	85										armo	ring	amul										0	0
+emptyString	100	1	1	55	74					1	51	att-demon		600	700										weap												0	0
+emptyString	100	1	1	60	76					1	51	att-demon		80	90										armo	ring	amul										0	0
+emptyString	100	1	1	60	76					1	51	att-demon		650	750										weap												0	0
+emptyString	100	1	1	65	78					1	51	att-demon		85	95										armo	ring	amul										0	0
+emptyString	100	1	1	65	78					1	51	att-demon		700	800										weap												0	0
+emptyString	100	1	1	70	80					1	51	att-demon		90	100										armo	ring	amul										0	0
+emptyString	100	1	1	70	80					1	51	att-demon		750	850										weap												0	0
+emptyString	100	1	1	72	82					1	51	att-demon		95	105										armo	ring	amul										0	0
+emptyString	100	1	1	72	82					1	51	att-demon		800	900										weap												0	0
+emptyString	100	1	1	74	84					1	51	att-demon		100	110										armo	ring	amul										0	0
+emptyString	100	1	1	74	84					1	51	att-demon		850	950										weap												0	0
+emptyString	100	1	1	76	86					1	51	att-demon		105	115										armo	ring	amul										0	0
+emptyString	100	1	1	76	86					1	51	att-demon		900	1000										weap												0	0
+emptyString	100	1	1	78	88					1	51	att-demon		110	120										armo	ring	amul										0	0
+emptyString	100	1	1	78	88					1	51	att-demon		950	1050										weap												0	0
+emptyString	100	1	1	80	90					1	51	att-demon		115	125										armo	ring	amul										0	0
+emptyString	100	1	1	80	90					1	51	att-demon		1000	1100										weap												0	0
+emptyString	100	1	1	82	91					1	51	att-demon		120	130										armo	ring	amul										0	0
+emptyString	100	1	1	82	91					1	51	att-demon		1050	1150										weap												0	0
+emptyString	100	1	1	84	92					1	51	att-demon		125	135										armo	ring	amul										0	0
+emptyString	100	1	1	84	92					1	51	att-demon		1100	1200										weap												0	0
+emptyString	100	1	1	86	93					1	51	att-demon		130	140										armo	ring	amul										0	0
+emptyString	100	1	1	86	93					1	51	att-demon		1150	1250										weap												0	0
+emptyString	100	1	1	88	94					1	51	att-demon		135	145										armo	ring	amul										0	0
+emptyString	100	1	1	88	94					1	51	att-demon		1200	1300										weap												0	0
+emptyString	100	1	1	90	95					1	51	att-demon		140	150										armo	ring	amul										0	0
+emptyString	100	1	1	90	95					1	51	att-demon		1250	1350										weap												0	0
+emptyString	100	1	1	91	96					1	51	att-demon		145	155										armo	ring	amul										0	0
+emptyString	100	1	1	91	96					1	51	att-demon		1300	1400										weap												0	0
+emptyString	100	1	1	92	97					1	51	att-demon		150	160										armo	ring	amul										0	0
+emptyString	100	1	1	92	97					1	51	att-demon		1350	1450										weap												0	0
+emptyString	100	1	1	93	98					1	51	att-demon		155	165										armo	ring	amul										0	0
+emptyString	100	1	1	93	98					1	51	att-demon		1400	1500										weap												0	0
+emptyString	100	1	1	94	99					1	51	att-demon		160	170										armo	ring	amul										0	0
+emptyString	100	1	1	94	99					1	51	att-demon		1450	1550										weap												0	0
+emptyString	100	1	1	95	99					1	51	att-demon		165	175										armo	ring	amul										0	0
+emptyString	100	1	1	95	99					1	51	att-demon		1500	1600										weap												0	0
+emptyString	100	1	1	96	99					1	51	att-demon		170	180										armo	ring	amul										0	0
+emptyString	100	1	1	96	99					1	51	att-demon		1550	1650										weap												0	0
+emptyString	100	1	1	97	99					1	51	att-demon		175	185										armo	ring	amul										0	0
+emptyString	100	1	1	97	99					1	51	att-demon		1600	1700										weap												0	0
+emptyString	100	1	1	98	99					1	51	att-demon		180	190										armo	ring	amul										0	0
+emptyString	100	1	1	98	99					1	51	att-demon		1650	1750										weap												0	0
+emptyString	100	1	1	99	99					1	51	att-demon		185	195										armo	ring	amul										0	0
+emptyString	100	1	1	99	99					1	51	att-demon		1700	1800										weap												0	0
+emptyString	100	1	1	1	25					1	52	att-undead		20	30										armo	ring	amul										0	0
+emptyString	100	1	1	1	25					1	52	att-undead		50	150										weap												0	0
+emptyString	100	1	1	5	30					1	52	att-undead		25	35										armo	ring	amul										0	0
+emptyString	100	1	1	5	30					1	52	att-undead		100	200										weap												0	0
+emptyString	100	1	1	10	35					1	52	att-undead		30	40										armo	ring	amul										0	0
+emptyString	100	1	1	10	35					1	52	att-undead		150	250										weap												0	0
+emptyString	100	1	1	15	40					1	52	att-undead		35	45										armo	ring	amul										0	0
+emptyString	100	1	1	15	40					1	52	att-undead		200	300										weap												0	0
+emptyString	100	1	1	20	45					1	52	att-undead		40	50										armo	ring	amul										0	0
+emptyString	100	1	1	20	45					1	52	att-undead		250	350										weap												0	0
+emptyString	100	1	1	25	50					1	52	att-undead		45	55										armo	ring	amul										0	0
+emptyString	100	1	1	25	50					1	52	att-undead		300	400										weap												0	0
+emptyString	100	1	1	30	55					1	52	att-undead		50	60										armo	ring	amul										0	0
+emptyString	100	1	1	30	55					1	52	att-undead		350	450										weap												0	0
+emptyString	100	1	1	35	60					1	52	att-undead		55	65										armo	ring	amul										0	0
+emptyString	100	1	1	35	60					1	52	att-undead		400	500										weap												0	0
+emptyString	100	1	1	40	65					1	52	att-undead		60	70										armo	ring	amul										0	0
+emptyString	100	1	1	40	65					1	52	att-undead		450	550										weap												0	0
+emptyString	100	1	1	45	70					1	52	att-undead		65	75										armo	ring	amul										0	0
+emptyString	100	1	1	45	70					1	52	att-undead		500	600										weap												0	0
+emptyString	100	1	1	50	72					1	52	att-undead		70	80										armo	ring	amul										0	0
+emptyString	100	1	1	50	72					1	52	att-undead		550	650										weap												0	0
+emptyString	100	1	1	55	74					1	52	att-undead		75	85										armo	ring	amul										0	0
+emptyString	100	1	1	55	74					1	52	att-undead		600	700										weap												0	0
+emptyString	100	1	1	60	76					1	52	att-undead		80	90										armo	ring	amul										0	0
+emptyString	100	1	1	60	76					1	52	att-undead		650	750										weap												0	0
+emptyString	100	1	1	65	78					1	52	att-undead		85	95										armo	ring	amul										0	0
+emptyString	100	1	1	65	78					1	52	att-undead		700	800										weap												0	0
+emptyString	100	1	1	70	80					1	52	att-undead		90	100										armo	ring	amul										0	0
+emptyString	100	1	1	70	80					1	52	att-undead		750	850										weap												0	0
+emptyString	100	1	1	72	82					1	52	att-undead		95	105										armo	ring	amul										0	0
+emptyString	100	1	1	72	82					1	52	att-undead		800	900										weap												0	0
+emptyString	100	1	1	74	84					1	52	att-undead		100	110										armo	ring	amul										0	0
+emptyString	100	1	1	74	84					1	52	att-undead		850	950										weap												0	0
+emptyString	100	1	1	76	86					1	52	att-undead		105	115										armo	ring	amul										0	0
+emptyString	100	1	1	76	86					1	52	att-undead		900	1000										weap												0	0
+emptyString	100	1	1	78	88					1	52	att-undead		110	120										armo	ring	amul										0	0
+emptyString	100	1	1	78	88					1	52	att-undead		950	1050										weap												0	0
+emptyString	100	1	1	80	90					1	52	att-undead		115	125										armo	ring	amul										0	0
+emptyString	100	1	1	80	90					1	52	att-undead		1000	1100										weap												0	0
+emptyString	100	1	1	82	91					1	52	att-undead		120	130										armo	ring	amul										0	0
+emptyString	100	1	1	82	91					1	52	att-undead		1050	1150										weap												0	0
+emptyString	100	1	1	84	92					1	52	att-undead		125	135										armo	ring	amul										0	0
+emptyString	100	1	1	84	92					1	52	att-undead		1100	1200										weap												0	0
+emptyString	100	1	1	86	93					1	52	att-undead		130	140										armo	ring	amul										0	0
+emptyString	100	1	1	86	93					1	52	att-undead		1150	1250										weap												0	0
+emptyString	100	1	1	88	94					1	52	att-undead		135	145										armo	ring	amul										0	0
+emptyString	100	1	1	88	94					1	52	att-undead		1200	1300										weap												0	0
+emptyString	100	1	1	90	95					1	52	att-undead		140	150										armo	ring	amul										0	0
+emptyString	100	1	1	90	95					1	52	att-undead		1250	1350										weap												0	0
+emptyString	100	1	1	91	96					1	52	att-undead		145	155										armo	ring	amul										0	0
+emptyString	100	1	1	91	96					1	52	att-undead		1300	1400										weap												0	0
+emptyString	100	1	1	92	97					1	52	att-undead		150	160										armo	ring	amul										0	0
+emptyString	100	1	1	92	97					1	52	att-undead		1350	1450										weap												0	0
+emptyString	100	1	1	93	98					1	52	att-undead		155	165										armo	ring	amul										0	0
+emptyString	100	1	1	93	98					1	52	att-undead		1400	1500										weap												0	0
+emptyString	100	1	1	94	99					1	52	att-undead		160	170										armo	ring	amul										0	0
+emptyString	100	1	1	94	99					1	52	att-undead		1450	1550										weap												0	0
+emptyString	100	1	1	95	99					1	52	att-undead		165	175										armo	ring	amul										0	0
+emptyString	100	1	1	95	99					1	52	att-undead		1500	1600										weap												0	0
+emptyString	100	1	1	96	99					1	52	att-undead		170	180										armo	ring	amul										0	0
+emptyString	100	1	1	96	99					1	52	att-undead		1550	1650										weap												0	0
+emptyString	100	1	1	97	99					1	52	att-undead		175	185										armo	ring	amul										0	0
+emptyString	100	1	1	97	99					1	52	att-undead		1600	1700										weap												0	0
+emptyString	100	1	1	98	99					1	52	att-undead		180	190										armo	ring	amul										0	0
+emptyString	100	1	1	98	99					1	52	att-undead		1650	1750										weap												0	0
+emptyString	100	1	1	99	99					1	52	att-undead		185	195										armo	ring	amul										0	0
+emptyString	100	1	1	99	99					1	52	att-undead		1700	1800										weap												0	0
 emptyString	100	1	1	1						1	44	balance1		10	10										weap	ring	amul										0	0
 emptyString	100	1	1	1						1	44	balance1		15	15										jewl												0	0
 emptyString	100	1	1	1						1	44	balance1		30	30										armo												0	0
@@ -985,108 +985,74 @@ emptyString	100	1	1	99	99					1	8	dex		17	18										jewl												0	0
 emptyString	100	1	1	99	99					1	8	dex		34	36										ring	amul											0	0
 emptyString	100	1	1	99	99					1	8	dex		51	54										weap												0	0
 emptyString	100	1	1	99	99					1	8	dex		85	90										armo												0	0
-emptyString	100	1	1	1	25					1	17	dmg%		1	3										jewl												0	0
-emptyString	100	1	1	1	25					1	17	dmg%		2	4										armo	ring	amul										0	0
-emptyString	100	1	1	1	25					1	17	dmg%		2	7										weap												0	0
-emptyString	100	1	1	5	30					1	17	dmg%		2	4										jewl												0	0
-emptyString	100	1	1	5	30					1	17	dmg%		3	5										armo	ring	amul										0	0
-emptyString	100	1	1	5	30					1	17	dmg%		5	10										weap												0	0
-emptyString	100	1	1	10	35					1	17	dmg%		3	5										jewl												0	0
-emptyString	100	1	1	10	35					1	17	dmg%		4	6										armo	ring	amul										0	0
-emptyString	100	1	1	10	35					1	17	dmg%		7	13										weap												0	0
-emptyString	100	1	1	15	40					1	17	dmg%		4	6										jewl												0	0
-emptyString	100	1	1	15	40					1	17	dmg%		5	7										armo	ring	amul										0	0
-emptyString	100	1	1	15	40					1	17	dmg%		10	17										weap												0	0
-emptyString	100	1	1	20	45					1	17	dmg%		5	8										jewl												0	0
-emptyString	100	1	1	20	45					1	17	dmg%		6	9										armo	ring	amul										0	0
-emptyString	100	1	1	20	45					1	17	dmg%		14	21										weap												0	0
-emptyString	100	1	1	25	50					1	17	dmg%		7	10										jewl												0	0
-emptyString	100	1	1	25	50					1	17	dmg%		8	11										armo	ring	amul										0	0
-emptyString	100	1	1	25	50					1	17	dmg%		17	25										weap												0	0
-emptyString	100	1	1	30	55					1	17	dmg%		8	12										jewl												0	0
-emptyString	100	1	1	30	55					1	17	dmg%		9	13										armo	ring	amul										0	0
-emptyString	100	1	1	30	55					1	17	dmg%		21	30										weap												0	0
-emptyString	100	1	1	35	60					1	17	dmg%		10	14										jewl												0	0
-emptyString	100	1	1	35	60					1	17	dmg%		11	15										armo	ring	amul										0	0
-emptyString	100	1	1	35	60					1	17	dmg%		26	35										weap												0	0
-emptyString	100	1	1	40	65					1	17	dmg%		12	16										jewl												0	0
-emptyString	100	1	1	40	65					1	17	dmg%		13	17										armo	ring	amul										0	0
-emptyString	100	1	1	40	65					1	17	dmg%		31	41										weap												0	0
-emptyString	100	1	1	45	70					1	17	dmg%		14	19										jewl												0	0
-emptyString	100	1	1	45	70					1	17	dmg%		15	20										armo	ring	amul										0	0
-emptyString	100	1	1	45	70					1	17	dmg%		36	48										weap												0	0
-emptyString	100	1	1	50	72					1	17	dmg%		16	22										jewl												0	0
-emptyString	100	1	1	50	72					1	17	dmg%		17	23										armo	ring	amul										0	0
-emptyString	100	1	1	50	72					1	17	dmg%		42	55										weap												0	0
-emptyString	100	1	1	55	74					1	17	dmg%		19	25										jewl												0	0
-emptyString	100	1	1	55	74					1	17	dmg%		20	26										armo	ring	amul										0	0
-emptyString	100	1	1	55	74					1	17	dmg%		48	63										weap												0	0
-emptyString	100	1	1	60	76					1	17	dmg%		22	28										jewl												0	0
-emptyString	100	1	1	60	76					1	17	dmg%		23	29										armo	ring	amul										0	0
-emptyString	100	1	1	60	76					1	17	dmg%		55	71										weap												0	0
-emptyString	100	1	1	65	78					1	17	dmg%		25	32										jewl												0	0
-emptyString	100	1	1	65	78					1	17	dmg%		26	33										armo	ring	amul										0	0
-emptyString	100	1	1	65	78					1	17	dmg%		63	81										weap												0	0
-emptyString	100	1	1	70	80					1	17	dmg%		28	36										jewl												0	0
-emptyString	100	1	1	70	80					1	17	dmg%		29	37										armo	ring	amul										0	0
-emptyString	100	1	1	70	80					1	17	dmg%		72	91										weap												0	0
-emptyString	100	1	1	72	82					1	17	dmg%		32	41										jewl												0	0
-emptyString	100	1	1	72	82					1	17	dmg%		33	42										armo	ring	amul										0	0
-emptyString	100	1	1	72	82					1	17	dmg%		81	102										weap												0	0
-emptyString	100	1	1	74	84					1	17	dmg%		36	46										jewl												0	0
-emptyString	100	1	1	74	84					1	17	dmg%		37	47										armo	ring	amul										0	0
-emptyString	100	1	1	74	84					1	17	dmg%		92	115										weap												0	0
-emptyString	100	1	1	76	86					1	17	dmg%		41	51										jewl												0	0
-emptyString	100	1	1	76	86					1	17	dmg%		42	52										armo	ring	amul										0	0
-emptyString	100	1	1	76	86					1	17	dmg%		103	129										weap												0	0
-emptyString	100	1	1	78	88					1	17	dmg%		46	57										jewl												0	0
-emptyString	100	1	1	78	88					1	17	dmg%		47	58										armo	ring	amul										0	0
-emptyString	100	1	1	78	88					1	17	dmg%		116	144										weap												0	0
-emptyString	100	1	1	80	90					1	17	dmg%		52	64										jewl												0	0
-emptyString	100	1	1	80	90					1	17	dmg%		53	65										armo	ring	amul										0	0
-emptyString	100	1	1	80	90					1	17	dmg%		130	160										weap												0	0
-emptyString	100	1	1	82	91					1	17	dmg%		58	71										jewl												0	0
-emptyString	100	1	1	82	91					1	17	dmg%		59	72										armo	ring	amul										0	0
-emptyString	100	1	1	82	91					1	17	dmg%		145	179										weap												0	0
-emptyString	100	1	1	84	92					1	17	dmg%		65	79										jewl												0	0
-emptyString	100	1	1	84	92					1	17	dmg%		66	80										armo	ring	amul										0	0
-emptyString	100	1	1	84	92					1	17	dmg%		162	199										weap												0	0
-emptyString	100	1	1	86	93					1	17	dmg%		72	88										jewl												0	0
-emptyString	100	1	1	86	93					1	17	dmg%		73	89										armo	ring	amul										0	0
-emptyString	100	1	1	86	93					1	17	dmg%		181	221										weap												0	0
-emptyString	100	1	1	88	94					1	17	dmg%		80	98										jewl												0	0
-emptyString	100	1	1	88	94					1	17	dmg%		81	99										armo	ring	amul										0	0
-emptyString	100	1	1	88	94					1	17	dmg%		201	246										weap												0	0
-emptyString	100	1	1	90	95					1	17	dmg%		89	109										jewl												0	0
-emptyString	100	1	1	90	95					1	17	dmg%		90	110										armo	ring	amul										0	0
-emptyString	100	1	1	90	95					1	17	dmg%		223	272										weap												0	0
-emptyString	100	1	1	91	96					1	17	dmg%		99	121										jewl												0	0
-emptyString	100	1	1	91	96					1	17	dmg%		100	122										armo	ring	amul										0	0
-emptyString	100	1	1	91	96					1	17	dmg%		248	302										weap												0	0
-emptyString	100	1	1	92	97					1	17	dmg%		110	134										jewl												0	0
-emptyString	100	1	1	92	97					1	17	dmg%		111	135										armo	ring	amul										0	0
-emptyString	100	1	1	92	97					1	17	dmg%		275	335										weap												0	0
-emptyString	100	1	1	93	98					1	17	dmg%		122	148										jewl												0	0
-emptyString	100	1	1	93	98					1	17	dmg%		123	149										armo	ring	amul										0	0
-emptyString	100	1	1	93	98					1	17	dmg%		305	370										weap												0	0
-emptyString	100	1	1	94	99					1	17	dmg%		135	164										jewl												0	0
-emptyString	100	1	1	94	99					1	17	dmg%		136	165										armo	ring	amul										0	0
-emptyString	100	1	1	94	99					1	17	dmg%		338	410										weap												0	0
-emptyString	100	1	1	95	99					1	17	dmg%		149	181										jewl												0	0
-emptyString	100	1	1	95	99					1	17	dmg%		150	182										armo	ring	amul										0	0
-emptyString	100	1	1	95	99					1	17	dmg%		374	453										weap												0	0
-emptyString	100	1	1	96	99					1	17	dmg%		165	200										jewl												0	0
-emptyString	100	1	1	96	99					1	17	dmg%		166	201										armo	ring	amul										0	0
-emptyString	100	1	1	96	99					1	17	dmg%		413	500										weap												0	0
-emptyString	100	1	1	97	99					1	17	dmg%		182	221										jewl												0	0
-emptyString	100	1	1	97	99					1	17	dmg%		183	222										armo	ring	amul										0	0
-emptyString	100	1	1	97	99					1	17	dmg%		457	553										weap												0	0
-emptyString	100	1	1	98	99					1	17	dmg%		202	244										jewl												0	0
-emptyString	100	1	1	98	99					1	17	dmg%		203	245										armo	ring	amul										0	0
-emptyString	100	1	1	98	99					1	17	dmg%		505	610										weap												0	0
-emptyString	100	1	1	99	99					1	17	dmg%		223	269										jewl												0	0
-emptyString	100	1	1	99	99					1	17	dmg%		224	270										armo	ring	amul										0	0
-emptyString	100	1	1	99	99					1	17	dmg%		558	674										weap												0	0
+emptyString	100	1	1	1	25					1	17	dmg%		20	30										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	1	25					1	17	dmg%		50	100										weap												0	0
+emptyString	100	1	1	5	30					1	17	dmg%		25	35										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	5	30					1	17	dmg%		75	125										weap												0	0
+emptyString	100	1	1	10	35					1	17	dmg%		30	40										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	10	35					1	17	dmg%		100	150										weap												0	0
+emptyString	100	1	1	15	40					1	17	dmg%		35	45										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	15	40					1	17	dmg%		125	175										weap												0	0
+emptyString	100	1	1	20	45					1	17	dmg%		40	50										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	20	45					1	17	dmg%		150	200										weap												0	0
+emptyString	100	1	1	25	50					1	17	dmg%		45	55										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	25	50					1	17	dmg%		175	225										weap												0	0
+emptyString	100	1	1	30	55					1	17	dmg%		50	60										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	30	55					1	17	dmg%		200	250										weap												0	0
+emptyString	100	1	1	35	60					1	17	dmg%		55	65										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	35	60					1	17	dmg%		225	275										weap												0	0
+emptyString	100	1	1	40	65					1	17	dmg%		60	70										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	40	65					1	17	dmg%		250	300										weap												0	0
+emptyString	100	1	1	45	70					1	17	dmg%		65	75										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	45	70					1	17	dmg%		275	325										weap												0	0
+emptyString	100	1	1	50	72					1	17	dmg%		70	80										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	50	72					1	17	dmg%		300	350										weap												0	0
+emptyString	100	1	1	55	74					1	17	dmg%		75	85										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	55	74					1	17	dmg%		325	375										weap												0	0
+emptyString	100	1	1	60	76					1	17	dmg%		80	90										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	60	76					1	17	dmg%		350	400										weap												0	0
+emptyString	100	1	1	65	78					1	17	dmg%		85	95										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	65	78					1	17	dmg%		375	425										weap												0	0
+emptyString	100	1	1	70	80					1	17	dmg%		90	100										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	70	80					1	17	dmg%		400	450										weap												0	0
+emptyString	100	1	1	72	82					1	17	dmg%		95	105										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	72	82					1	17	dmg%		425	475										weap												0	0
+emptyString	100	1	1	74	84					1	17	dmg%		100	110										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	74	84					1	17	dmg%		450	500										weap												0	0
+emptyString	100	1	1	76	86					1	17	dmg%		105	115										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	76	86					1	17	dmg%		475	525										weap												0	0
+emptyString	100	1	1	78	88					1	17	dmg%		110	120										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	78	88					1	17	dmg%		500	550										weap												0	0
+emptyString	100	1	1	80	90					1	17	dmg%		115	125										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	80	90					1	17	dmg%		525	575										weap												0	0
+emptyString	100	1	1	82	91					1	17	dmg%		120	130										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	82	91					1	17	dmg%		550	600										weap												0	0
+emptyString	100	1	1	84	92					1	17	dmg%		125	135										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	84	92					1	17	dmg%		575	625										weap												0	0
+emptyString	100	1	1	86	93					1	17	dmg%		130	140										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	86	93					1	17	dmg%		600	650										weap												0	0
+emptyString	100	1	1	88	94					1	17	dmg%		135	145										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	88	94					1	17	dmg%		625	675										weap												0	0
+emptyString	100	1	1	90	95					1	17	dmg%		140	150										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	90	95					1	17	dmg%		650	700										weap												0	0
+emptyString	100	1	1	91	96					1	17	dmg%		145	155										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	91	96					1	17	dmg%		675	725										weap												0	0
+emptyString	100	1	1	92	97					1	17	dmg%		150	160										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	92	97					1	17	dmg%		700	750										weap												0	0
+emptyString	100	1	1	93	98					1	17	dmg%		155	165										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	93	98					1	17	dmg%		725	775										weap												0	0
+emptyString	100	1	1	94	99					1	17	dmg%		160	170										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	94	99					1	17	dmg%		750	800										weap												0	0
+emptyString	100	1	1	95	99					1	17	dmg%		165	175										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	95	99					1	17	dmg%		775	825										weap												0	0
+emptyString	100	1	1	96	99					1	17	dmg%		170	180										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	96	99					1	17	dmg%		800	850										weap												0	0
+emptyString	100	1	1	97	99					1	17	dmg%		175	185										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	97	99					1	17	dmg%		825	875										weap												0	0
+emptyString	100	1	1	98	99					1	17	dmg%		180	190										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	98	99					1	17	dmg%		850	900										weap												0	0
+emptyString	100	1	1	99	99					1	17	dmg%		185	195										armo	ring	jewl	amul									0	0
+emptyString	100	1	1	99	99					1	17	dmg%		875	925										weap												0	0
 emptyString	100	1	1	1	25					1	49	dmg-demon		5	7										armo	ring	amul										0	0
 emptyString	100	1	1	1	25					1	49	dmg-demon		6	14										weap												0	0
 emptyString	100	1	1	5	30					1	49	dmg-demon		6	8										armo	ring	amul										0	0

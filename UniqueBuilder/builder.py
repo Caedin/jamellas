@@ -187,7 +187,7 @@ while q:
     if itype in magic_weapon_types:
         etype = random.sample(['cold', 'lightning', 'fire', 'poison'], 1)[0]
     else:
-        etype = random.sample(['cold', 'lightning', 'fire', 'poison', 'normal'], 1)[0]
+        etype = random.sample(['cold', 'lightning', 'fire', 'poison', 'normal', 'normal'], 1)[0]
     
 
     names.append(f'jamellasunique{idx+407}')
@@ -215,6 +215,7 @@ while q:
         param = prop['Param'].values[0]
         if type(param) == type('str') and param.isnumeric() == False:
             param = random.sample(param.split(','), 1)[0]
+            param = param.strip()
         
         func = prop['LvlFunc'].values[0]
         minval = prop['MinValue'].values[0]
@@ -287,9 +288,9 @@ id = 273740
 jsons = []
 for n in names:
     while True:
-        f, s, t = random.sample(first, 1)[0], random.sample(second, 1)[0], random.sample(second, 1)[0]
-        numparts = random.randint(1, 3)
-        newname = s if numparts == 1 else ' '.join([f, s]) if numparts == 2 else ' '.join([f, s, t])
+        f, s = random.sample(first, 1)[0], random.sample(second, 1)[0]
+        numparts = random.randint(1, 2)
+        newname = s if numparts == 1 else ' '.join([f, s])
         if newname not in newnames:
             newnames.add(newname)
             break

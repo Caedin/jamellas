@@ -41,7 +41,7 @@ Runes 14			1						r27	1	r28	1	r25	1	r26	1	r23	1	r24	1	r19	1	r20	1	r17	1	Runes 13
 Runes 15			1						r29	1	r30	1	r27	1	r28	1	r25	1	r26	1	r23	1	r24	1	r19	1	Runes 14	10					0
 Runes 16			1						r31	1	r32	1	r29	1	r30	1	r27	1	r28	1	r25	1	r26	1	r23	1	Runes 15	11					0
 Runes 17			1						r33	1	r31	1	r32	1	r29	1	r30	1	r27	1	r28	1	r25	1	r26	1	Runes 16	12					0
-Act 1 Junk			1						Act 5 (H) Equip C	4	Gold	388	Runes 17	1	dhr	2	pe1	5	pe2	1													0
+Act 1 Junk			1						Gold	388	dhr	2	pe1	5	pe2	1																	0
 Act 2 Junk			1						Act 1 Junk	1																							0
 Act 3 Junk			1						Act 1 Junk	1																							0
 Act 4 Junk			1						Act 1 Junk	1																							0
@@ -222,7 +222,7 @@ Act 4 (H) Magic B	4	80	1	200	400	600	800	80	Gold	2																							0
 Act 5 (H) Magic A	4	82	1	205	410	615	820	82	Gold	2																							0
 Act 5 (H) Magic B	4	83	1	208	415	623	830	83	Gold	2																							0
 Act 5 (H) Magic C	4	85	1	213	425	638	850	85	Gold	2																							0
-Act 1 Good	5	0	1						Jewelry A	5	Chipped Gem	5																					0
+Act 1 Good	5	0	1						Jewelry A	5	Chipped Gem	5	Runes 1	2																			0
 Act 2 Good	5	12	1	30	60	90	120	12	Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	3	Runes 2	3															0
 Act 3 Good	5	18	1	45	90	135	180	18	Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	3	Runes 4	3															0
 Act 4 Good	5	26	1	65	130	195	260	26	Jewelry C	50	Chipped Gem	14	Flawed Gem	28	Normal Gem	42	Runes 5	14	Runes 6	7													0
@@ -833,7 +833,8 @@ Council (H) Desecrated B	25	87	-2	218	435	653	870	87	Sunder Charms	1	Council Ite
 Council (H) Desecrated C	25	90	-2	225	450	675	900	90	Sunder Charms	1	Council Item (H) Desecrated C	1																					0
 Council (H) Desecrated D	25	93	-2	233	465	698	930	93	Sunder Charms	1	Council Item (H) Desecrated D	1																					0
 Council (H) Desecrated E	25	96	-2	240	480	720	960	96	Sunder Charms	1	Council Item (H) Desecrated E	1																					0
-Griswold			-4						Act 1 Uitem C	1	Act 1 Melee B	2	box	1																			0
+Corpsefire			-2						box	1	Act 1 Uitem C	1																					0
+Griswold			-4						gzh	1	Act 1 Uitem C	1	Act 1 Melee B	2																			0
 Griswold Desecrated A	26	8	-3	20	40	60	80	8	Act 1 Uitem C	1	Act 1 Melee B	2																					0
 Griswold Desecrated B	26	29	-3	73	145	218	290	29	Act 4 Uitem B	1	Act 4 Melee B	2																					0
 Griswold Desecrated C	26	48	-3	120	240	360	480	48	Act 3 (N) Uitem A	1	Act 3 (N) Melee C	2																					0
@@ -849,6 +850,9 @@ Griswold (H) Desecrated D	26	96	-4	240	480	720	960	96	Sunder Charms	1	Act 5 (H) 
 Cow			1					100	Gold	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3																	0
 Cow (N)			1					100	Gold	19	Act 5 (N) Equip A	19	Act 5 (N) Junk	19	Act 5 (N) Good	3																	0
 Cow (H)			1					100	Gold	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good	3																	0
+Minion of Destruction			4						Act 5 H2H C	5	Act 5 Good	1																					0
+Minion of Destruction (N)			4						Act 5 (N) H2H C	5	Act 5 (N) Good	1																					0
+Minion of Destruction (H)			4						Act 5 (H) H2H C	5	Act 5 (H) Good	1																					0
 Trapped Soul			1					100	Gold	19	Act 4 Equip A	8	Act 4 Junk	33																			0
 Trapped Soul (N)			1					100	Gold	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33																			0
 Trapped Soul (H)			1					100	Gold	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																			0

@@ -14,7 +14,7 @@ hp	5	5	5	5	10	10	3	3	1	10	armo	Healthful	of the Steward
 hp%	5	2	5	2	10	4	2	2	30	10	armo	Everlasting	of Eternity
 att	100	100	25	10	25	10	0	0	1	0	weap	Precise	of Alacrity
 block	30	40	0	0	0	0	15	0	1	static	shld	Bulwark	of Blocking
-dmg%	5	5	3	2	3	2	2	2	1	10	weap	Cruel	of Evisceration
+dmg%	75	50	25	10	25	10	25	10	1	0	weap	Cruel	of Evisceration
 res-fire	2	2	2	2	5	5	2	2	20	-5	armo	Fire Guard	of Cooling
 res-ltng	2	2	2	2	5	5	2	2	20	-5	armo	Shock Guard	of Grounding
 res-cold	2	2	2	2	5	5	2	2	20	-5	armo	Ice Guard	of Warmth
@@ -48,8 +48,8 @@ dmg-norm	3	4	2	1	2	1	2	1	1	5	weap	Cruel	of Cruelty
 att%	5	5	3	2	3	2	0	0	1	10	weap	Precise	of Precision
 dmg-demon	10	8	6	2	6	2	0	0	1	15	weap	Demon Slayer's	of Purging
 dmg-undead	10	8	6	2	6	2	0	0	1	15	weap	Undead Slayer's	of Purging
-att-demon	10	8	6	2	6	2	0	0	1	15	weap	Demon Slayer's	of Purging
-att-undead	10	8	6	2	6	2	0	0	1	15	weap	Undead Slayer's	of Purging
+att-demon	100	100	25	10	25	10	0	0	1	0	weap	Demon Slayer's	of Purging
+att-undead	100	100	25	10	25	10	0	0	1	0	weap	Undead Slayer's	of Purging
 fireskill	1	0	1	0	1	0	1	0	25	static	armo	Fire Lord's	of the Fire Lord
 allskills	1	0	1	0	1	0	0	0	55	static	armo	Great	of Greatness
 freeze	1	0	0	0	0	0	0	0	25	static	weap	Frozen	of Freezing
