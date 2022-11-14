@@ -1,40 +1,40 @@
 Stat	*ID	Send Other	Signed	Send Bits	Send Param Bits	UpdateAnimRate	Saved	CSvSigned	CSvBits	CSvParam	fCallback	fMin	MinAccr	Encode	Add	Multiply	ValShift	1.09-Save Bits	1.09-Save Add	Save Bits	Save Add	Save Param Bits	keepzero	op	op param	op base	op stat1	op stat2	op stat3	direct	maxstat	damagerelated	itemevent1	itemeventfunc1	itemevent2	itemeventfunc2	descpriority	descfunc	descval	descstrpos	descstrneg	descstr2	dgrp	dgrpfunc	dgrpval	dgrpstrpos	dgrpstrneg	dgrpstr2	stuff	advdisplay	*eol
-strength	0	1		11			1	0	10			1	1		125	55		7	32	8	32																67	19		ModStr1a	ModStr1a		1	19		Moditem2allattrib	Moditem2allattrib		6		0
-energy	1			11			1	0	10			1	1		100	55		7	32	7	32			8			maxmana										61	19		ModStr1d	ModStr1d		1	19		Moditem2allattrib	Moditem2allattrib				0
-dexterity	2	1		11			1	0	10			1	1		125	55		7	32	7	32																65	19		ModStr1b	ModStr1b		1	19		Moditem2allattrib	Moditem2allattrib				0
-vitality	3			11			1	0	10			1	1		100	55		7	32	7	32			9			maxhp	maxstamina									63	19		ModStr1c	ModStr1c		1	19		Moditem2allattrib	Moditem2allattrib				0
+strength	0	1		11			1	0	10			1	1		125	55		7	32	12	32																67	19		ModStr1a	ModStr1a		1	19		Moditem2allattrib	Moditem2allattrib		6		0
+energy	1			11			1	0	10			1	1		100	55		7	32	12	32			8			maxmana										61	19		ModStr1d	ModStr1d		1	19		Moditem2allattrib	Moditem2allattrib				0
+dexterity	2	1		11			1	0	10			1	1		125	55		7	32	12	32																65	19		ModStr1b	ModStr1b		1	19		Moditem2allattrib	Moditem2allattrib				0
+vitality	3			11			1	0	10			1	1		100	55		7	32	12	32			9			maxhp	maxstamina									63	19		ModStr1c	ModStr1c		1	19		Moditem2allattrib	Moditem2allattrib				0
 statpts	4			9			1	0	10																																										0
 newskills	5			9			1	0	8																																										0
 hitpoints	6			32			1	0	21								8													1	maxhp																				0
-maxhp	7			32			1	0	21		1	1	1		56	20	8	8	32	9	32																59	19		ModStr1u	ModStr1u										0
+maxhp	7			32			1	0	21		1	1	1		56	20	8	8	32	12	32																59	19		ModStr1u	ModStr1u										0
 mana	8			32			1	0	21								8						1							1	maxmana																				0
-maxmana	9			32			1	0	21		1	1	0		81	20	8	8	32	8	32																55	19		ModStr1e	ModStr1e										0
+maxmana	9			32			1	0	21		1	1	0		81	20	8	8	32	12	32																55	19		ModStr1e	ModStr1e										0
 stamina	10			32			1	0	21								8						1							1	maxstamina																				0
-maxstamina	11			32			1	0	21		1	1	0		75	20	8	8	32	8	32																51	19		ModStr5d	ModStr5d										0
+maxstamina	11			32			1	0	21		1	1	0		75	20	8	8	32	12	32																51	19		ModStr5d	ModStr5d										0
 level	12			9			1	0	7																																										0
 experience	13			32			1	0	32																																										0
 gold	14			32			1	0	25																																										0
 goldbank	15			32			1	0	25																																										0
-item_armor_percent	16		1	11											47	20		9	0	9	0			13			armorclass										74	19		Modstr2v	Modstr2v										0
-item_maxdamage_percent	17		1	11											45	20		9	0	9	0			13			maxdamage	secondary_maxdamage	item_throw_maxdamage			1					129	19		ModStr2j	ModStr2j										0
-item_mindamage_percent	18		1	11											45	20		9	0	9	0			13			mindamage	secondary_mindamage	item_throw_mindamage			1					130	19		ModStr2k	ModStr2k										0
-tohit	19		1	16											15	10		10		10												1					115	19		ModStr1h	ModStr1h										0
+item_armor_percent	16		1	11											47	20		9	0	12	0			13			armorclass										74	19		Modstr2v	Modstr2v										0
+item_maxdamage_percent	17		1	11											45	20		9	0	12	0			13			maxdamage	secondary_maxdamage	item_throw_maxdamage			1					129	19		ModStr2j	ModStr2j										0
+item_mindamage_percent	18		1	11											45	20		9	0	12	0			13			mindamage	secondary_mindamage	item_throw_mindamage			1					130	19		ModStr2k	ModStr2k										0
+tohit	19		1	16											15	10		10		12												1					115	19		ModStr1h	ModStr1h										0
 toblock	20		1	10											89	204		6	0	6	0																134	19		ModStr3g	ModStr3g										0
-mindamage	21		1	16											122	25		6	0	6	0											1					127	19		ModStr1g	ModStr1g										0
-maxdamage	22		1	16											94	16		7	0	7	0											1					126	19		ModStr1f	ModStr1f										0
-secondary_mindamage	23		1	16											97	15		6	0	6	0											1					124	19		ModStr1g	ModStr1g										0
-secondary_maxdamage	24		1	16											85	11		7	0	7	0											1					123	19		ModStr1f	ModStr1f										0
-damagepercent	25		1	12											45	40		8	0	8	0											1																			0
-manarecovery	26																	8	0	8	0																														0
-manarecoverybonus	27		1	16														8	0	8	0																52	19		ModStr4g	ModStr4g									2	0
-staminarecoverybonus	28		1	16														8	0	8	0																48	19		ModStr3v	ModStr3v									2	0
+mindamage	21		1	16											122	25		6	0	12	0											1					127	19		ModStr1g	ModStr1g										0
+maxdamage	22		1	16											94	16		7	0	12	0											1					126	19		ModStr1f	ModStr1f										0
+secondary_mindamage	23		1	16											97	15		6	0	12	0											1					124	19		ModStr1g	ModStr1g										0
+secondary_maxdamage	24		1	16											85	11		7	0	12	0											1					123	19		ModStr1f	ModStr1f										0
+damagepercent	25		1	12											45	40		8	0	12	0											1																			0
+manarecovery	26																	8	0	12	0																														0
+manarecoverybonus	27		1	16														8	0	12	0																52	19		ModStr4g	ModStr4g									2	0
+staminarecoverybonus	28		1	16														8	0	12	0																48	19		ModStr3v	ModStr3v									2	0
 lastexp	29			32																																															0
 nextexp	30			32																																															0
-armorclass	31		1	16											17	10		10	10	11	10																71	19		ModStr1i	ModStr1i										0
-armorclass_vs_missile	32		1	16											11	5		8	0	9	0																69	19		ModStr6a	ModStr6a										0
-armorclass_vs_hth	33		1	16											13	7		8	0	8	0																70	19		ModStr6b	ModStr6b										0
-normal_damage_reduction	34		1	10											188	200		6	0	6	0																22	19		ModStr2u	ModStr2u									2	0
-magic_damage_reduction	35		1	10											397	340		6	0	6	0																21	19		ModStr2t	ModStr2t									2	0
+armorclass	31		1	16											17	10		10	10	12	10																71	19		ModStr1i	ModStr1i										0
+armorclass_vs_missile	32		1	16											11	5		8	0	12	0																69	19		ModStr6a	ModStr6a										0
+armorclass_vs_hth	33		1	16											13	7		8	0	12	0																70	19		ModStr6b	ModStr6b										0
+normal_damage_reduction	34		1	10											188	200		6	0	7	0																22	19		ModStr2u	ModStr2u									2	0
+magic_damage_reduction	35		1	10											397	340		6	0	7	0																21	19		ModStr2t	ModStr2t									2	0
 damageresist	36		1	9											152	68		8	0	9	200																22	29		ModStr2uPercent	ModStr2uPercentNegative									2	0
 magicresist	37		1	9											164	68		8	0	9	200																41	19		ModStr1m	ModStr1m									2	0
 maxmagicresist	38		1	9											1091	409		5	0	5	0																46	19		ModStr5x	ModStr5x									2	0
@@ -47,17 +47,17 @@ maxcoldresist	44		1	9											584	256		5	0	5	0																44	19		ModStr5v	
 poisonresist	45		1	9											43	20		8	0	9	200																34	19		ModStr1n	ModStr1n		2	19		strModAllResistances	strModAllResistances				0
 maxpoisonresist	46		1	9											526	256		5	0	5	0																45	19		ModStr5y	ModStr5y										0
 damageaura	47		1	16																																															0
-firemindam	48		1	16											11	10		8	0	8	0											1					102	19		ModStr1p	ModStr1p										0
-firemaxdam	49		1	16											19	10		8	0	9	0											1					101	19		ModStr1o	ModStr1o										0
-lightmindam	50		1	16											12	10		6	0	6	0											1					99	19		ModStr1r	ModStr1r										0
-lightmaxdam	51		1	16											17	10		9	0	10	0											1					98	19		ModStr1q	ModStr1q										0
-magicmindam	52		1	16											196	20		6	0	8	0											1					104	19		strModMagicDamage	strModMagicDamage										0
-magicmaxdam	53		1	16											183	20		7	0	9	0											1					103	19		strModMagicDamage	strModMagicDamage										0
-coldmindam	54		1	16											451	512		6	0	8	0											1					96	19		ModStr1t	ModStr1t										0
-coldmaxdam	55		1	16											128	340		8	0	9	0											1					95	19		ModStr1s	ModStr1s										0
+firemindam	48		1	16											11	10		8	0	12	0											1					102	19		ModStr1p	ModStr1p										0
+firemaxdam	49		1	16											19	10		8	0	12	0											1					101	19		ModStr1o	ModStr1o										0
+lightmindam	50		1	16											12	10		6	0	12	0											1					99	19		ModStr1r	ModStr1r										0
+lightmaxdam	51		1	16											17	10		9	0	12	0											1					98	19		ModStr1q	ModStr1q										0
+magicmindam	52		1	16											196	20		6	0	12	0											1					104	19		strModMagicDamage	strModMagicDamage										0
+magicmaxdam	53		1	16											183	20		7	0	12	0											1					103	19		strModMagicDamage	strModMagicDamage										0
+coldmindam	54		1	16											451	512		6	0	12	0											1					96	19		ModStr1t	ModStr1t										0
+coldmaxdam	55		1	16											128	340		8	0	12	0											1					95	19		ModStr1s	ModStr1s										0
 coldlength	56		1	16											77	4		8	0	8	0											1																			0
-poisonmindam	57		1	19											12	28		9	0	10	0											1					92	19		ModStr4i	ModStr4i										0
-poisonmaxdam	58		1	19											11	34		9	0	10	0											1					91	19		ModStr4h	ModStr4h										0
+poisonmindam	57		1	19											12	28		9	0	12	0											1					92	19		ModStr4i	ModStr4i										0
+poisonmaxdam	58		1	19											11	34		9	0	12	0											1					91	19		ModStr4h	ModStr4h										0
 poisonlength	59		1	16											0	4		8	0	9	0											1																			0
 lifedrainmindam	60		1	16											1044	341		7	0	7	0											1					88	19		ModStr2z	ModStr2z									2	0
 lifedrainmaxdam	61		1	16																												1																			0
@@ -73,13 +73,13 @@ quantity	70		1	16																												1																			0
 value	71		1	9														8	100	8	100																														0
 durability	72		1	9														8	0	9	0									1	maxdurability																				0
 maxdurability	73		1	9											9	4		8	0	8	0																														0
-hpregen	74														451	410		6	30	6	30																56	19		ModStr2l	ModStr2w									2	0
+hpregen	74														451	410		6	30	12	30																56	19		ModStr2l	ModStr2w									2	0
 item_maxdurability_percent	75		1	7											117	10		7	20	7	20			13			maxdurability										3	19		ModStr2i	ModStr2i										0
-item_maxhp_percent	76		1	16											32093	204		6	10	6	10			11			maxhp										58	19		ModStr2g	ModStr2g										0
-item_maxmana_percent	77		1	16											56452	204		6	10	6	10			11			maxmana										54	19		ModStr2h	ModStr2h										0
-item_attackertakesdamage	78		1	16							1				112	128		7	0	7	0												attackedinmelee	6			13	19		ModStr1v	ModStr1v									2	0
-item_goldbonus	79		1	10											187	34		9	100	9	100																10	19		ModStr1w	ModStr1w									2	0
-item_magicbonus	80		1	9											577	102		8	100	8	100																8	19		ModStr1x	ModStr1x									2	0
+item_maxhp_percent	76		1	16											32093	204		6	10	10	10			11			maxhp										58	19		ModStr2g	ModStr2g										0
+item_maxmana_percent	77		1	16											56452	204		6	10	10	10			11			maxmana										54	19		ModStr2h	ModStr2h										0
+item_attackertakesdamage	78		1	16							1				112	128		7	0	10	0												attackedinmelee	6			13	19		ModStr1v	ModStr1v									2	0
+item_goldbonus	79		1	10											187	34		9	100	12	100																10	19		ModStr1w	ModStr1w									2	0
+item_magicbonus	80		1	9											577	102		8	100	12	100																8	19		ModStr1x	ModStr1x									2	0
 item_knockback	81		1	8							1				105	0		7	0	7	0											1	domeleedamage	7	domissiledamage	7	76	19		ModStr1y	ModStr1y									2	0
 item_timeduration	82		1	10														9	20	9	20																														0
 item_addclassskills	83		1	4	3						1				49523	1560		3	0	3	0	3															150	13		ModStr3a	ModStr3a										0
@@ -110,7 +110,7 @@ item_singleskill	107		1	15	9						1			1	181	256		14	0	3	0	9															81	27	
 item_restinpeace	108			1							1				1987	0		14	0	1	0											1	kill	29			81	19		ModitemSMRIP	ModitemSMRIP									2	0
 curse_resistance	109			9											159	33		14	0	9	0																														0
 item_poisonlengthresist	110		1	9											27	10		8	20	8	20																18	19		ModStr3r	ModStr3r									2	0
-item_normaldamage	111		1	8											94	100		7	20	9	20											1					122	19		ModStr5b	ModStr5b										0
+item_normaldamage	111		1	8											94	100		7	20	12	20											1					122	19		ModStr5b	ModStr5b										0
 item_howl	112		1	8							1				55	10		7	-1	7	-1											1	domeleedamage	8	domissiledamage	8	79	5		ModStr3u	ModStr3u									2	0
 item_stupidity	113		1	8							1				332	1024		7	0	7	0											1	domeleedamage	9	domissiledamage	9	80	12	2	ModStr6d	ModStr6d									2	0
 item_damagetomana	114		1	7							1				43	20		6	0	6	0												damagedinmelee	13	damagedbymissile	13	11	19		ModStr3w	ModStr3w									2	0
@@ -120,10 +120,10 @@ item_preventheal	117		1	8											48	50		7	0	7	0											1					81	19		ModStr
 item_halffreezeduration	118		1	2											5096	988		1	0	1	0																19	19		ModStr4b	ModStr4b									2	0
 item_tohit_percent	119		1	12											981	40		9	20	9	20											1					117	19		ModStr4c	ModStr4c										0
 item_damagetargetac	120		1	8											24	-20		7	128	7	128											1					75	19		ModStr4d	ModStr4d									2	0
-item_demondamage_percent	121		1	12											19	12		9	20	9	20											1					112	19		ModStr4e	ModStr4e									2	0
-item_undeaddamage_percent	122		1	12											13	12		9	20	9	20											1					108	19		ModStr4f	ModStr4f									2	0
-item_demon_tohit	123		1	13											15	7		10	128	10	128											1					110	19		ModStr4j	ModStr4j										0
-item_undead_tohit	124		1	13											11	7		10	128	10	128											1					106	19		ModStr4k	ModStr4k										0
+item_demondamage_percent	121		1	12											19	12		9	20	12	20											1					112	19		ModStr4e	ModStr4e									2	0
+item_undeaddamage_percent	122		1	12											13	12		9	20	12	20											1					108	19		ModStr4f	ModStr4f									2	0
+item_demon_tohit	123		1	13											15	7		10	128	12	128											1					110	19		ModStr4j	ModStr4j										0
+item_undead_tohit	124		1	13											11	7		10	128	12	128											1					106	19		ModStr4k	ModStr4k										0
 item_throwable	125		1	2											82	1024		1	0	1	0																5	19		ModStr5a	ModStr5a										0
 item_elemskill	126		1	3	3						1				76	1024		4	0	3	0	3															157	19		ModStr3i	ModStr3i										0
 item_allskills	127		1	8							1				15123	4096		3	0	3	0																158	19		ModStr3k	ModStr3k										0
@@ -178,13 +178,13 @@ goldlost	175			24																																															0
 conversion_level	176			8																																															0
 conversion_maxhp	177			16																																															0
 unit_dooverlay	178			16																																															0
-attack_vs_montype	179			9	10										19	14		3	0	9		10										1					108	22		ModitemAttratvsM	ModitemAttratvsM										0
-damage_vs_montype	180			9	10										27	17		3	0	9		10										1					106	22		Moditemdamvsm	Moditemdamvsm										0
+attack_vs_montype	179			9	10										19	14		3	0	12		10										1					108	22		ModitemAttratvsM	ModitemAttratvsM										0
+damage_vs_montype	180			9	10										27	17		3	0	12		10										1					106	22		Moditemdamvsm	Moditemdamvsm										0
 fade	181	1		7														14	0	3																															0
 armor_override_percent	182	1	1	8														14	0																																0
 lasthitreactframe	183																	14	0																																0
 create_season	184																	14	0																																0
-bonus_mindamage	185		1	12																8	0											1																			0
+bonus_mindamage	185		1	12																12	0											1																			0
 bonus_maxdamage	186		1	12																8	0											1																			0
 item_pierce_cold_immunity	187			10											1432	513				10																	100	19		ModItemMonColdSunder	ModItemMonColdSunder									2	0
 item_addskill_tab	188		1	3	6						1				11042	768		10	0	3	0	16															151	14		StrSklTabItem1	StrSklTabItem1										0

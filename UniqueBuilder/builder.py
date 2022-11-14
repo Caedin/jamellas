@@ -90,7 +90,7 @@ def search_property(root, lvl, iclass, itype, etype, hlevel, used_prop_codes):
             break
     mlvl = m
 
-    def query(root, iclass, itype, etype, hlevel):
+    def query(root, iclass, itype, etype, hlevel, strict = True):
         try:
             r1 = root[itype]
         except KeyError:
@@ -106,50 +106,33 @@ def search_property(root, lvl, iclass, itype, etype, hlevel, used_prop_codes):
             else:
                 raise
 
-        # select
-        skills = set(['bar', 'ama', 'nec', 'sor', 'allskills', 'ass', 'dru', 'pal'])
-        used_prop_set = set(used_prop_codes)
-        skillFound = len(skills.intersection(used_prop_set)) > 0
-        prop_codes = []
-        for propertyCode in r3['propCodes']:
-            if skillFound:
-                if propertyCode in skills:
-                    continue
+        with pd.option_context('display.max_rows', None,
+                       'display.max_columns', None,
+                       'display.precision', 3,
+                       ):
+            # select
+            used_prop_set = set(used_prop_codes)
+            if strict == True:
+                options = r3['prop']
+                # Filter out invalid etypes
+                options = options[~options["eTypeExclusions"].str.contains(etype).fillna(False)]
+
+                # Filter out invalid itypes
+                options = options[~options["iTypeExclusions"].str.contains(itype).fillna(False)]
+
+                # Filter out unavailable props
+                for p in used_prop_set:
+                    options = options[~options["PropertyExclusions"].str.contains(p).fillna(False)]
+                prop_codes = set(options['Property'].values) - used_prop_set
             else:
-                # Don't add class non assassin class skills to assassin weapons
-                if itype in ['h2h', 'h2h2'] and propertyCode in skills and propertyCode != 'ass':
-                    continue
+                prop_codes = set(r3['propCodes']) - used_prop_set
 
-                # Don't add class non amazon class skills to amazon weapons
-                if itype in ['abow', 'ajav', 'aspe'] and propertyCode in skills and propertyCode != 'ama':
-                    continue
+            if len(prop_codes) == 0:
+                return query(root, iclass, itype, etype, ((hlevel+1) % 3) + 1)
 
-                # Don't add class non druid class skills to druid pelts
-                if itype in ['pelt'] and propertyCode in skills and propertyCode != 'dru':
-                    continue
-                
-                # Don't add class non barb class skills to barb helms
-                if itype in ['phlm'] and propertyCode in skills and propertyCode != 'bar':
-                    continue
-                
-                # Don't add class non pally class skills to pally shields
-                if itype in ['ashd'] and propertyCode in skills and propertyCode != 'pal':
-                    continue
-
-                # Don't add class non necro class skills to necro heads
-                if itype in ['head'] and propertyCode in skills and propertyCode != 'nec':
-                    continue
-
-
-            if propertyCode not in used_prop_set:
-                prop_codes.append(propertyCode)
-
-        if len(prop_codes) == 0:
-            return query(root, iclass, itype, etype, ((hlevel+1) % 3) + 1)
-
-        pc = random.sample(prop_codes, 1)[0]
-        p = r3['prop'].query(f'Property == "{pc}"').sample()
-        return p
+            pc = random.sample(list(prop_codes), 1)[0]
+            p = r3['prop'].query(f'Property == "{pc}"').sample()
+            return p
 
     return query(root[mlvl], iclass, itype, etype, hlevel)
 
@@ -169,8 +152,6 @@ while q:
     # Sanitize level > 100 -> level 99
     level = min(level, 99)
 
-    print(code, level, iclass, itype)
-
     # Extra chance to generate another unique of this type (carries forward upleveling)
     if random.randint(0, 2) == 0:
         q.append([code, level, iclass, itype])
@@ -189,6 +170,7 @@ while q:
     else:
         etype = random.sample(['cold', 'lightning', 'fire', 'poison', 'normal', 'normal'], 1)[0]
     
+    print(code, level, iclass, itype, f'etype = {etype}')
 
     names.append(f'jamellasunique{idx+407}')
     item = copy(template)
@@ -260,11 +242,13 @@ while q:
             item[f'max{c+1}'] = 1
 
         c += 1
-
+        
     idx += 1
     items.append(item)
     
+original_uniques = pd.read_csv('original_uniques.txt', delimiter='\t', dtype = str)
 df = pd.DataFrame(items)
+df = pd.concat([original_uniques, df])
 df.to_csv('uniqueitems.txt', index=False, sep='\t')
 
 newnames = pd.read_csv('names.txt', delimiter = '\t', header=None)

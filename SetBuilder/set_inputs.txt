@@ -48,7 +48,7 @@ Holy Shock	118	pal	lightning	18
 Holy Freeze	114	pal	cold	12	
 Holy Fire	102	pal	fire	6	
 Zeal	106	pal	normal	18	
-Fist of the Heavens	121	pal	normal	30	
+Fist of the Heavens	121	pal	lightning	30	
 Blizzard	59	sor	cold	24	
 Frozen Orb	64	sor	cold	30	
 Thunder Storm	57	sor	lightning	24	

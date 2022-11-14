@@ -74,10 +74,11 @@ q = deque(sets)
 
 idx = 1250
 
+
 type_exclusions_by_class = {
     'ama' : ['wand', 'scep', 'knif', 'swor', 'axe', 'mace', 'club', 'hamm', 'tkni', 'taxe', 'staf', 'h2h', 'h2h2', 'orb', 'pelt', 'phlm', 'ashd', 'head'],
     'bar' : ['wand', 'scep', 'knif', 'staf', 'h2h', 'h2h2', 'orb', 'pelt', 'ashd', 'ajav', 'aspe', 'abow', 'head', 'bow', 'xbow'],
-    'sor' : ['h2h', 'h2h2', 'pelt', 'ashd', 'ajav', 'aspe', 'abow', 'tkni', 'taxe', 'head','bow', 'xbow', 'jave'],
+    'sor' : ['h2h', 'h2h2', 'pelt', 'ashd', 'ajav', 'aspe', 'abow', 'tkni', 'taxe', 'head','bow', 'xbow', 'jave', 'phlm'],
     'dru' : ['wand', 'scep', 'knif', 'tkni', 'taxe', 'staf', 'h2h', 'h2h2', 'orb', 'phlm', 'ashd', 'ajav', 'aspe', 'abow', 'head','bow', 'xbow', 'jave'],
     'ass' : ['wand', 'scep', 'knif', 'swor', 'axe', 'club', 'hamm', 'tkni', 'taxe', 'staf', 'orb', 'pelt', 'phlm', 'ashd', 'ajav', 'aspe', 'abow', 'head','bow', 'xbow', 'jave'],
     'nec' : ['scep', 'tkni', 'taxe', 'staf', 'h2h', 'h2h2', 'orb', 'pelt', 'phlm', 'ashd', 'ajav', 'aspe', 'abow','bow', 'xbow', 'jave'],
@@ -190,6 +191,7 @@ def generateItemName(first, second):
         itemcache.add(newname)
         return newname
 
+setNames = set()
 def create_items(firstNames, secondNames):
     global idx
     setItems = []
@@ -207,8 +209,8 @@ def create_items(firstNames, secondNames):
         # Get Set Name
         setName = generateItemName(firstNames, secondNames)
         firstName = setName.split(' ')[0:1]
-
-        print(skill, id, charclass, element, minilvl, level, numitems)
+        firstNames.remove(firstName[0])
+        print(skill, id, charclass, element, minilvl, level, numitems, firstName[0])
 
         setObject = copy(settemplate)
         setObject['index'] = setName
@@ -304,6 +306,7 @@ def create_items(firstNames, secondNames):
                 param = prop['Param'].values[0]
                 if type(param) == type('str') and param.isnumeric() == False:
                     param = random.sample(param.split(','), 1)[0]
+                    param = param.strip()
                 
                 func = prop['LvlFunc'].values[0]
                 minval = prop['MinValue'].values[0]

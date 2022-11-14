@@ -847,9 +847,9 @@ Griswold (H) Desecrated A	26	87	-4	218	435	653	870	87	Sunder Charms	1	Act 4 (H) 
 Griswold (H) Desecrated B	26	90	-4	225	450	675	900	90	Sunder Charms	1	Act 5 (H) Uitem A	1	Act 5 (H) Melee A	2																			0
 Griswold (H) Desecrated C	26	93	-4	233	465	698	930	93	Sunder Charms	1	Act 5 (H) Uitem B	1	Act 5 (H) Melee B	2																			0
 Griswold (H) Desecrated D	26	96	-4	240	480	720	960	96	Sunder Charms	1	Act 5 (H) Uitem C	1	Act 5 (H) Melee C	2																			0
-Cow			1					100	Gold	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3																	0
-Cow (N)			1					100	Gold	19	Act 5 (N) Equip A	19	Act 5 (N) Junk	19	Act 5 (N) Good	3																	0
-Cow (H)			1					100	Gold	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good	3																	0
+Cow			1					1000	gld,mul=1280	5	Act 1 (N) Equip A	52	Act 1 (N) Good	3	Flawless Gem	5	Runes 10	1	Runes 8	1	Runes 6	1											0
+Cow (N)			1					1000	gld,mul=1536	5	Act 1 (H) Equip A	52	Act 1 (H) Good	3	Flawless Gem	5	Runes 15	1	Runes 13	1	Runes 10	1											0
+Cow (H)			1					1000	gld,mul=2048	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	Flawless Gem	5	Runes 17	1	Runes 15	1	Runes 13	1											0
 Minion of Destruction			4						Act 5 H2H C	5	Act 5 Good	1																					0
 Minion of Destruction (N)			4						Act 5 (N) H2H C	5	Act 5 (N) Good	1																					0
 Minion of Destruction (H)			4						Act 5 (H) H2H C	5	Act 5 (H) Good	1																					0
@@ -1030,14 +1030,14 @@ Act 4 (H) Super Cx	19	87	-4	512	512	654	972	87	Act 4 (H) Uitem B	2	Act 4 (H) Cpo
 Act 5 (H) Super Ax	19	90	-4	512	512	675	972	90	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																					0
 Act 5 (H) Super Bx	19	93	-4	512	512	698	972	93	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																					0
 Act 5 (H) Super Cx	19	96	-4	512	512	720	972	96	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																					0
-Cow King			5	850	850	983	983		Act 1 Uitem C	1	Act 1 Melee B	2																					0
+Cow King			6	850	850	983	983		Act 5 (H) Uitem C	1	Runes 13	1	Perfect Gem	1																			0
 Cow King Desecrated A	33	31	5	850	850	983	983	31	Act 4 Uitem B	1	Act 4 Melee B	2																					0
 Cow King Desecrated B	33	40	5	850	850	983	983	40	Act 1 (N) Uitem A	1	Act 1 (N) Melee A	2																					0
 Cow King Desecrated C	33	48	5	850	850	983	983	48	Act 3 (N) Uitem A	1	Act 3 (N) Melee A	2																					0
-Cow King (N)			5	850	850	983	983		Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																					0
+Cow King (N)			6	850	850	983	983		Act 5 (H) Uitem C	1	Runes 17	1	Perfect Gem	1																			0
 Cow King (N) Desecrated A	33	67	5	850	850	983	983	67	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																					0
 Cow King (N) Desecrated C	33	73	5	850	850	983	983	73	Act 3 (H) Uitem C	1	Act 3 (H) Melee B	2																					0
-Cow King (H)			5	850	850	983	983		Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																					0
+Cow King (H)			6	850	850	983	983		Act 5 (H) Uitem C	1	Runes 17	1																					0
 Cow King Item (H) Desecrated A			5	850	850	983	983		Act 4 (H) Uitem B	1	Act 4 (H) Melee B	2																					0
 Cow King Item (H) Desecrated B			5	850	850	983	983		Act 5 (H) Uitem A	1	Act 5 (H) Melee A	2																					0
 Cow King Item (H) Desecrated C			5	850	850	983	983		Act 5 (H) Uitem B	1	Act 5 (H) Melee B	2																					0

@@ -188,3 +188,6 @@ Craft Superior	1			100					2	"ring,mag"	mmt						"usetype,rar"		50	50											
 Craft Rare	1			100					2	"amul,mag"	mmt						"usetype,rar"		50	50																																																																																				0
 Upgrade Essences	1			100					4	"qmt,qty=3"	pe1						mmt																																																																																							0
 Upgrade Essences 2	1			100					5	"mmt,qty=3"	pe2	dhr					tsc																																																																																							0
+Reapir	1			100					3	"weap"	pe1	mmt					"useitem,rep,qty=255"																																																																																							0
+Reapir	1			100					3	"armo"	pe1	mmt					"useitem,rep,qty=255"																																																																																							0
+																																																																																																								0

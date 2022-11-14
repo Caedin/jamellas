@@ -127,223 +127,403 @@ McAuley's Paragon	123	McAuley's Folly	cap	Cap	3	20	25	lpur	lpur						5	5000		mag
 McAuley's Riprap	124	McAuley's Folly	vbt	Heavy Boots	7	20	20	lpur	lpur						5	5000		move3		40	40	att		100	100	str		5	5	dex		10	10																																																														0
 McAuley's Taboo	125	McAuley's Folly	vgl	Heavy Gloves	7	20	28	lpur	lpur						5	5000		ac		20	25	swing2		20	20	hp		40	40	dmg-pois	75	30	36																																																														0
 McAuley's Superstition	126	McAuley's Folly	bwn	Bone Wand	7	20	25	lpur	lpur						5	5000		dmg%	2	75	75	mana		25	25	regen-mana		8	8	cast3		20	20	dmg-cold	50	25	75																																																										0
-Zakarum Nokozan	1657	Zakarum Dragonscale	xap	War Hat	7	34									5	5000	2	aura	110	3	6	res-ltng		14	23	addxp		5	10	gold%		59	101	heal-kill		9	14																	thorns		102	102																																						0
-Zakarum Class	1658	Zakarum Dragonscale	9sr	War Spear	7	34									5	5000	2	oskill	276	6	9	hp%		11	34	vit		17	34	abs-ltng		5	9	abs-ltng%		15	30																	extra-ltng		84	84																																						0
-Titan's Pierre	1659	Titan's Carrion	uhm	Spired Helm	7	75									5	5000	2	aura	110	3	13	res-all-max		5	15	light-thorns		37	75	ease		50	50																					extra-ltng		125	125					light-thorns		225	225					skilltab	0	3	3																						0
-Titan's Eaglehorn	1660	Titan's Carrion	umb	Boneweave Boots	7	75									5	5000	2	allskills		1	1	res-all		15	22	light-thorns		37	75	regen		15	15	oskill	58	6	19	move1		20	63													extra-ltng		125	125					skill	35	3	3																														0
-Titan's Herald	1661	Titan's Carrion	urs	Great Hauberk	7	75									5	5000	2	ama		1	2	res-ltng-max		5	15	cast1		10	20	red-mag		37	75																					ama		1	1					all-stats		14	15					extra-ltng		125	125																						0
-Titan's Metalgrid	1662	Titan's Carrion	umc	Mithril Coil	7	75									5	5000	2	ama		1	2	enr		37	75	extra-ltng		62	125	ease		50	50	heal-kill		14	24	hp%		25	75													skilltab	0	3	3					extra-ltng		125	125					thorns		225	225																						0
-Shaftstop Gloomstrap	1663	Shaftstop Crest	xvg	Sharkskin Gloves	7	33									5	5000	2	ama		1	2	res-pois		14	22	extra-pois		41	83	res-pois-len		50	50																					allskills		1	1																																						0
-Shaftstop Snare	1664	Shaftstop Crest	gth	Gothic Plate	7	33									5	5000	2	oskill	58	6	9	all-stats		9	14	res-pois-max		5	15	heal-kill		9	14																					extra-pois		83	83																																						0
-Shaftstop Scarab	1665	Shaftstop Crest	rin		7	33									5	5000	2	mana%		11	33	res-all-max		5	15	ease		50	50																									dmg-pois	75	198	396																																						0
-Bloodletter Stoutnail	1666	Bloodletter Bul	rin		7	21									5	5000	2	vit		10	21	allskills		1	1	res-all-max		5	15																									extra-pois		71	71																																						0
-Bloodletter Mesh	1667	Bloodletter Bul	amu		7	21									5	5000	2	oskill	153	6	6	hp%		7	21	mana%		7	21	allskills		1	1																					dmg-pois	75	126	252																																						0
-Carver Bloodfist	1668	Carver Lenyms	xrn	Grand Crown	7	56									5	5000	2	ama		1	2	enr		28	56	oskill	58	6	14	aura	110	3	10	mana		56	112	abs-ltng%		15	30													thorns		168	168					allskills		1	1																														0
-Carver Clan	1669	Carver Lenyms	xhb	War Boots	7	56									5	5000	2	mana%		18	56	res-ltng-max		5	15	res-ltng		16	26	abs-ltng%		15	30	extra-ltng		53	106																	thorns		168	168					ama		1	1																														0
-Carver Warpspear	1670	Carver Lenyms	amd	Matriarchal Spear	7	56									5	5000	2	hp%		18	56	dmg-ltng		280	560	extra-ltng		53	106	regen-mana		25	25																					extra-ltng		106	106					demon-heal		28	28																														0
-Constricting Dimoaks	1671	Constricting Kelpie	ulm	Armet	7	64									5	5000	2	allskills		1	1	res-ltng		17	26	cast1		10	20	abs-ltng%		15	30	cheap		5	10																	thorns		192	192					light-thorns		192	192																														0
-Constricting Vampiregaze	1672	Constricting Kelpie	rin		7	64									5	5000	2	enr		32	64	res-ltng		17	26	all-stats		13	21	res-ltng-max		5	15	abs-ltng%		15	30	mana-kill		13	13													ama		1	1					thorns		192	192					dmg-ltng		192	384					skilltab	1	3	3														0
-Constricting Magefist	1673	Constricting Kelpie	ula	Scarab Husk	7	64									5	5000	2	vit		32	64	res-ltng		17	26	cast1		10	20	addxp		5	10	aura	110	3	11																	ama		1	1					skill	32	3	3					light-thorns		192	192																						0
-Constricting Coldsteel	1674	Constricting Kelpie	rin		7	64									5	5000	2	vit		32	64	res-ltng		17	26	light-thorns		32	64	heal-kill		13	21	mana-kill		13	13																	ama		1	1					dmg-ltng		192	384					all-stats		13	13																						0
-Constricting Lament	1675	Constricting Kelpie	uvg	Vampirebone Gloves	7	64									5	5000	2	mana%		21	64	res-ltng		17	26	res-ltng-max		5	15	cast1		10	20	abs-ltng%		15	30																	skilltab	1	3	3					allskills		1	1					skill	32	3	3																						0
-Steelpillar Bong	1676	Steelpillar Hellplague	zmb	Mesh Belt	7	47									5	5000	2	oskill	32	3	16	res-cold		16	25	half-freeze		1	1																									thorns		141	141					extra-cold		97	97					all-stats		10	11					allskills		1	1					skilltab	2	3	3						0
-Steelpillar Darksight	1677	Steelpillar Hellplague	xlm	Casque	7	47									5	5000	2	aura	105	3	8	abs-cold%		15	30	gold%		72	121	half-freeze		1	1																					skill	31	3	3					allskills		1	1					extra-cold		97	97					skilltab	2	3	3														0
-Steelpillar Talons	1678	Steelpillar Hellplague	8l8	Long Siege Bow	7	47									5	5000	2	mana%		15	47	allskills		1	1	res-all-max		5	15	res-cold-max		5	15																					dmg-cold	150	141	282					ama		1	1					all-stats		10	11																						0
-Steelpillar Stoneraven	1679	Steelpillar Hellplague	xtb	Battle Boots	7	47									5	5000	2	vit		23	47	hp%		15	47	res-cold		16	25	res-cold-max		5	15																					skill	31	3	3					ama		1	1					extra-cold		97	97					thorns		141	141														0
-Steelpillar Headstriker	1680	Steelpillar Hellplague	xcl	Tigulated Mail	7	47									5	5000	2	vit		23	47	enr		23	47	hp%		15	47	ama		1	2	move1		20	49																	skill	31	3	3					ama		1	1					all-stats		10	11					thorns		141	141														0
-Steelpillar Rakescar	1681	Steelpillar Hellplague	rin		7	47									5	5000	2	mana%		15	47	hp%		15	47	allskills		1	1	cast1		10	20	ease		50	50																	dmg-cold	150	141	282					extra-cold		97	97					freeze		1	1																						0
-Ears Kinemils	1682	Ears Thorn	xth	Embossed Plate	7	53									5	5000	2	oskill	32	3	18	abs-cold		5	14	extra-cold		51	103	res-cold		16	25	nofreeze		1	1																	all-stats		11	12																																						0
-Ears Metalgrid	1683	Ears Thorn	ci1	Coronet	7	53									5	5000	2	aura	105	3	9	mana%		17	53	red-mag		26	53																									thorns		159	159																																						0
-Ears Rockfleece	1684	Ears Thorn	amu		7	53									5	5000	2	hp%		17	53	cast1		10	20	res-cold		16	25																									skill	21	3	3																																						0
-Atlantian Shroud	1685	Atlantian Guard	crn	Crown	7	34									5	5000	2	mana%		11	34	abs-cold		5	9	regen		15	15	gold%		59	101	heal-kill		9	14																	allskills		1	1					skill	11	3	3					extra-cold		84	84																						0
-Atlantian Chance	1686	Atlantian Guard	ltp	Light Plate	7	34									5	5000	2	oskill	 50	6	9	cast1		10	20	all-stats		9	14	abs-cold		5	9																					allskills		1	1					skill	11	3	3					all-stats		9	10																						0
-Atlantian Steel	1687	Atlantian Guard	xvg	Sharkskin Gloves	7	34									5	5000	2	aura	105	3	6	allskills		1	1	red-mag		17	34	regen		15	15																					all-stats		9	10					thorns		102	102					ama		1	1																						0
-Atlantian Cleft	1688	Atlantian Guard	amu		7	34									5	5000	2	vit		17	34	mana%		11	34	extra-cold		42	84																									freeze		1	1					all-stats		9	10					demon-heal		17	17																						0
-Constricting Rattlecage	1689	Constricting Krintizs	bhm	Bone Helm	7	20									5	5000	2	aura	 103	3	4	red-dmg		10	20	move1		20	35	swing1		20	35																					mana		20	20					thorns		60	60																														0
-Constricting Peace	1690	Constricting Krintizs	plt	Plate Mail	7	20									5	5000	2	str		10	20	hp%		6	20																													str		9	9					enr		9	9																														0
-Constricting Awl	1691	Constricting Krintizs	tbl	Heavy Belt	7	20									5	5000	2	oskill	145	6	6	swing1		20	35																													allskills		1	1					all-stats		7	8																														0
-Harlequin Lazarus	1692	Harlequin Wail	tbt	Light Plated Boots	7	20									5	5000	2	red-dmg%		9	13	res-all		10	15																													enr		9	9					allskills		1	1																														0
-Harlequin Stormchaser	1693	Harlequin Wail	msk	Mask	7	20									5	5000	2	vit		10	20	str		10	20																													dex		9	9					skill	22	3	3																														0
-Harlequin Flank	1694	Harlequin Wail	spl	Splint Mail	7	20									5	5000	2	red-dmg%		9	13	dex		10	20	vit		10	20																									mana%		25	25					ac%		60	60					all-stats		7	8																						0
-Harlequin Yaggai	1695	Harlequin Wail	tbl	Heavy Belt	7	20									5	5000	2	hp%		6	20	str		10	20																													red-mag		20	20					all-stats		7	8					skilltab	2	3	3																						0
-Steel Deathcleaver	1696	Steel Tannr	ltp	Light Plate	7	33									5	5000	2	str		16	33	hp		33	66	ac-hth		190	355	demon-heal		9	10	levelreq		1	1																	dex		11	12																																						0
-Steel Bverrit	1697	Steel Tannr	rin		7	33									5	5000	2	str		16	33	swing1		20	42	demon-heal		9	10																									ac%		99	99																																						0
-Steel Sureshrill	1698	Steel Tannr	xlb	Demonhide Boots	7	33									5	5000	2	allskills		1	1	red-dmg		16	33	res-all		12	18	move1		20	42	all-stats		9	14																	mana%		25	25					enr		11	12																														0
-Rotting Swordguard	1699	Rotting Kaleidoscope	xkp	Sallet	7	35									5	5000	2	oskill	58	6	9	extra-fire		42	85	cheap		5	10	mana-kill		9	10																					fireskill		1	1																																						0
-Rotting Harvest	1700	Rotting Kaleidoscope	xui	Ghost Armor	7	35									5	5000	2	allskills		1	1	abs-fire%		15	30	res-all		12	18	fireskill		1	2																					ama		1	1																																						0
-Rebuke Gorefoot	1701	Rebuke Pelta	xla	Demonhide Armor	7	40									5	5000	2	enr		20	40	mana%		13	40	fireskill		1	2																									all-stats		10	10																																						0
-Rebuke Hexfire	1702	Rebuke Pelta	xmb	Mesh Boots	7	40									5	5000	2	mana%		13	40	oskill	58	6	10	move1		20	45	res-fire		15	24																					skill	16	3	3																																						0
-Lacerator Glory	1703	Lacerator Maelstromwrath	ulb	Wyrmhide Boots	7	62									5	5000	2	oskill	32	3	21	hp%		20	62	aura	100	3	11	extra-fire		56	112	res-fire		17	26																	thorns		186	186					extra-fire		112	112					ama		1	1																						0
-Lacerator Pullspite	1704	Lacerator Maelstromwrath	uui	Dusk Shroud	7	62									5	5000	2	vit		31	62	cast1		10	20	cheap		5	10	addxp		5	10	hp%		20	62	mana%		20	62													all-stats		12	13					fireskill		1	1					thorns		186	186																						0
-Lacerator Aim	1705	Lacerator Maelstromwrath	uvc	Vampirefang Belt	7	62									5	5000	2	vit		31	62	extra-fire		56	112	res-fire-max		5	15	dmg-to-mana		10	25	allskills		1	1	red-mag		31	62													skilltab	2	3	3					extra-fire		112	112					skill	27	3	3																						0
-Lacerator Clan	1706	Lacerator Maelstromwrath	rin		7	62									5	5000	2	enr		31	62	allskills		1	1	res-all		14	21	abs-fire		5	16	res-fire-max		5	15	cheap		5	10													demon-heal		31	31					all-stats		12	13																														0
-Steelclash Earthshaker	1707	Steelclash Guards	9b7	Lochaber Axe	7	33									5	5000	2	mana%		11	33	aura	114	3	6	oskill	81	6	9	vit		16	33																					skilltab	18	3	3					freeze		1	1					skill	274	3	3																						0
-Steelclash Garb	1708	Steelclash Guards	ful	Full Plate Mail	7	33									5	5000	2	mana%		11	33	enr		16	33	mana		33	66	abs-cold		5	9																					skilltab	18	3	3					allskills		1	1					skill	274	3	3					thorns		99	99					extra-cold		83	83						0
-Steelclash Leviathan	1709	Steelclash Guards	rin		7	33									5	5000	2	hp%		11	33	mana%		11	33	ass		1	2																									extra-cold		83	83					freeze		1	1					skilltab	18	3	3																						0
-Steelclash Wolfhowl	1710	Steelclash Guards	xlg	Demonhide Gloves	7	33									5	5000	2	vit		16	33	mana%		11	33	res-all-max		5	15	hp		33	66																					allskills		1	1					extra-cold		83	83					skill	274	3	3					skilltab	18	3	3					thorns		99	99						0
-Steelclash Pierre	1711	Steelclash Guards	amu		7	33									5	5000	2	enr		16	33	ass		1	2	vit		16	33	hp%		11	33																					thorns		99	99					demon-heal		16	17					extra-cold		83	83																						0
-Steelclash Staunch	1712	Steelclash Guards	zvb	Sharkskin Belt	7	33									5	5000	2	mana%		11	33	enr		16	33	ass		1	2	abs-cold%		15	30																					thorns		99	99					ass		1	1					all-stats		9	10					skill	274	3	3														0
-Gorefoot Deathspade	1713	Gorefoot Lavagout	7o7	Ogre Axe	7	62									5	5000	2	lifesteal		4	8	att-demon		162	386	res-all		14	21	dmg-demon		386	810																					enr		17	18					ass		1	1					crush		97	97																						0
-Gorefoot Blacktongue	1714	Gorefoot Lavagout	xth	Embossed Plate	7	62									5	5000	2	str		31	62	red-dmg%		12	18	oskill	145	6	16	red-dmg		31	62	hp		62	124																	allskills		1	1					red-dmg%		29	30																														0
-Gorefoot Bonnet	1715	Gorefoot Lavagout	ulm	Armet	7	62									5	5000	2	dex		31	62	red-dmg		31	62	ac%		162	274	swing1		20	56	move1		20	56	all-stats		12	21													ac-miss		620	620					vit		17	18					skilltab	18	3	3																						0
-Gorefoot Centurion	1716	Gorefoot Lavagout	uvc	Vampirefang Belt	7	62									5	5000	2	aura	 109	3	11	dex		31	62	red-dmg%		12	18	swing1		20	56																					ac		620	620					hp%		25	25					ac-miss		620	620																						0
-Stormlash Harvest	1717	Stormlash Stoneraven	9lw	Greater Claws	7	43									5	5000	2	mana%		14	43	oskill	58	6	11	ass		1	2	hp%		14	43	res-all-max		5	15																	extra-pois		93	93																																						0
-Stormlash Boneflesh	1718	Stormlash Stoneraven	xvg	Sharkskin Gloves	7	43									5	5000	2	mana%		14	43	ass		1	2	res-pois-max		5	15																									thorns		129	129																																						0
-Maelstromwrath Riphook	1719	Maelstromwrath Shell	ci2	Tiara	7	72									5	5000	2	str		36	72	red-dmg		36	72	swing1		20	61	balance1		15	25																					str		19	20					mana		72	72					vit		19	20					ac%		216	216														0
-Maelstromwrath Etlich	1720	Maelstromwrath Shell	ula	Scarab Husk	7	72									5	5000	2	allskills		1	1	oskill	32	3	24	red-dmg%		13	18	move1		20	61																					str		19	20					all-stats		14	14					ac-miss		720	720					red-mag		72	72					red-dmg%		30	31						0
-Maelstromwrath Reign	1721	Maelstromwrath Shell	umc	Mithril Coil	7	72									5	5000	2	ass		1	2	hp		72	144	swing1		20	61	ac-hth		385	745																					skill	279	3	3					mana%		25	25					ac%		216	216					str		19	20					all-stats		14	14						0
-Maelstromwrath Coldsteel	1722	Maelstromwrath Shell	umg	Vambraces	7	72									5	5000	2	dex		36	72	swing1		20	61	res-all		15	22	ac%		172	294	red-dmg		36	72																	ac%		216	216					str		19	20					vit		19	20																						0
-Maelstromwrath Branch	1723	Maelstromwrath Shell	7mt	Devil Star	7	72									5	5000	2	crush		25	36	str		36	72	lifesteal		4	8	dmg-demon		416	860	res-all		15	22																	hp		72	72					str		19	20					swing1		20	20					dmg-demon		54	54					mana%		25	25						0
-Maelstromwrath Blackhand	1724	Maelstromwrath Shell	rin		7	72									5	5000	2	hp%		24	72	allskills		1	1	swing1		20	61	all-stats		14	23	gold%		97	158																	red-dmg		72	72					dex		19	20					dmg-undead		54	54					hp%		25	25														0
-Torch Bverrit	1725	Torch Pierre	upl	Balrog Skin	7	72									5	5000	2	aura	110	3	12	hp%		24	72	enr		36	72	oskill	276	6	18	allskills		1	1																	light-thorns		216	216																																						0
-Torch Garb	1726	Torch Pierre	7cs	Battle Cestus	7	72									5	5000	2	hp%		24	72	abs-ltng%		15	30	dmg-ltng		360	720	mana		72	144	regen		15	15																	all-stats		14	14																																						0
-Hellslayer Thieves	1727	Hellslayer Cloudcrack	zhb	War Belt	7	58									5	5000	2	aura	 104	3	10	move1		20	54	swing1		20	54	ease		50	50																					skilltab	20	3	3					ac-miss		580	580					hp		58	58																						0
-Hellslayer Vipermagi	1728	Hellslayer Cloudcrack	ukp	Hydraskull	7	58									5	5000	2	ass		1	2	oskill	145	6	15	hp		58	116	ac%		158	266	all-stats		12	20																	ac-hth		580	580					allskills		1	1					skilltab	20	3	3					red-dmg%		29	30					ac%		174	174						0
-Hellslayer Disk	1729	Hellslayer Cloudcrack	xld	Sharktooth Armor	7	58									5	5000	2	hp%		19	58	res-all		14	21	ac-miss		315	605	ac		315	605	vit		29	58	red-dmg%		12	17													red-dmg%		29	30					skill	277	3	3					ass		1	1					thorns		174	174														0
-Hellslayer Mail	1730	Hellslayer Cloudcrack	ulb	Wyrmhide Boots	7	58									5	5000	2	str		29	58	res-all		14	21	ac-hth		315	605	ease		50	50																					ac-hth		580	580					move1		20	20					ac%		174	174																						0
-Hellslayer Oculus	1731	Hellslayer Cloudcrack	7wb	Wrist Sword	7	58									5	5000	2	dmg%		216	474	dmg-ac		50	1108	att-demon		158	374	reduce-ac		25	50	cheap		5	10	pierce		50	50													swing1		20	20					att-demon		43	44					hp%		25	25					ass		1	1					enr		16	17						0
-Hellslayer Angel	1732	Hellslayer Cloudcrack	xts	Ancient Shield	7	58									5	5000	2	str		29	58	red-dmg%		12	17	ass		1	2	vit		29	58	hp%		19	58	dex		29	58													dex		16	17					red-dmg%		29	30					red-mag		58	58					vit		16	17					hp		58	58						0
-Stormlash Lance	1733	Stormlash Staunch	7fb	Colossal Sword	7	74									5	5000	2	crush		25	37	dex		37	74	move1		20	62	att%		174	422																					str		19	20																																						0
-Stormlash Spiritkeeper	1734	Stormlash Staunch	7s7	Balrog Spear	7	74									5	5000	2	dmg%		248	522	dmg-ac		50	1124	att%		174	422	att-undead		174	422	att-demon		174	422																	vit		19	20																																						0
-Briser Coil	1735	Briser Awl	xth	Embossed Plate	7	57									5	5000	2	dex		28	57	ac%		157	264	thorns		57	257	addxp		5	10	red-dmg%		12	17																	skill	145	3	3					skilltab	13	3	3																														0
-Briser Champion	1736	Briser Awl	7sp	Tyrant Club	7	57									5	5000	2	allskills		1	1	str		28	57	lifesteal		4	8	move1		20	54																					all-stats		12	13					deadly		92	92																														0
-Briser Jang	1737	Briser Awl	72h	Legend Sword	7	57									5	5000	2	dex		28	57	dmg%		214	471	res-all		14	21	ignore-ac		1	1																					att-demon		42	43					skill	145	3	3					crush		92	92																						0
-Briser Hold	1738	Briser Awl	ci1	Coronet	7	57									5	5000	2	aura	 103	3	10	vit		28	57	str		28	57	red-dmg%		12	17	ac%		157	264	ac-hth		310	595													enr		16	17					all-stats		12	13					ac-miss		570	570																						0
-Steelshade Circle	1739	Steelshade Cerebus	uea	Wyrmhide	7	72									5	5000	2	str		36	72	aura	 104	3	12	red-dmg%		13	18	move1		20	61	all-stats		14	23																	ac%		216	216					red-mag		72	72					red-dmg%		30	31					bar		1	1					all-stats		14	14						0
-Steelshade Darkglow	1740	Steelshade Cerebus	7bk	Winged Knife	7	72									5	5000	2	dex		36	72	crush		25	36	bar		1	2	res-all-max		5	15	openwounds		25	50																	crush		100	100					hp%		25	25					bar		1	1					att-demon		54	54														0
-Steelshade Cord	1741	Steelshade Cerebus	7cr	Phase Blade	7	72									5	5000	2	lifesteal		4	8	dmg%		244	516	oskill	149	6	18	allskills		1	1	crush		25	36																	dmg-undead		54	54					hp%		25	25					bar		1	1																						0
-Steelshade Bloodmoon	1742	Steelshade Cerebus	bad	Destroyer Helm	7	72									5	5000	2	dex		36	72	red-dmg		36	72	balance1		15	25	levelreq		1	1																					vit		19	20					hp%		25	25					red-mag		72	72					ac-hth		720	720					bar		1	1						0
-Steelshade Sprinkler	1743	Steelshade Cerebus	amu		7	72									5	5000	2	allskills		1	1	dex		36	72	hp		72	144	mag%		61	97	thorns		72	272																	deadly		100	100					att-undead		54	54					dmg%		54	54					red-mag		72	72														0
-Steelshade Wormskull	1744	Steelshade Cerebus	uvc	Vampirefang Belt	7	72									5	5000	2	dex		36	72	vit		36	72	str		36	72	hp%		24	72	all-stats		14	23																	hp%		25	25					mana%		25	25					all-stats		14	14																						0
-Widowmaker SuperKhalimFlail	1745	Widowmaker Cleft	9wh	Battle Hammer	7	44									5	5000	2	crush		25	25	lifesteal		4	8	att-undead		144	332	ignore-ac		1	1																					dmg-norm		132	264																																						0
-Widowmaker Facet	1746	Widowmaker Cleft	9fb	Zweihander	7	44									5	5000	2	lifesteal		4	8	oskill	121	6	11	att-undead		144	332	slow		25	25																					att-undead		33	33																																						0
-Gavel Blastbark	1747	Gavel Cranium	uea	Wyrmhide	7	65									5	5000	2	allskills		1	1	oskill	32	3	22	aura	99	3	11	red-dmg%		13	18	vit		32	65																	thorns		195	195																																						0
-Gavel Lament	1748	Gavel Cranium	uvg	Vampirebone Gloves	7	65									5	5000	2	str		32	65	allskills		1	1	vit		32	65	red-dmg%		13	18																					red-dmg%		29	30																																						0
-Soul Dead	1749	Soul Rusthandle	xlb	Demonhide Boots	7	33									5	5000	2	allskills		1	1	res-cold-max		5	15	demon-heal		9	10	half-freeze		1	1	aura	105	3	6																	skilltab	15	3	3					thorns		99	99					allskills		1	1																						0
-Soul Rockfleece	1750	Soul Rusthandle	9sp	Barbed Club	7	33									5	5000	2	hp%		11	33	res-cold-max		5	15	dmg-cold	150	165	330	extra-cold		41	83																					dmg-cold	150	99	198					demon-heal		16	17					freeze		1	1					skilltab	15	3	3														0
-Soul Spiritkeeper	1751	Soul Rusthandle	amu		7	33									5	5000	2	oskill	32	3	11	res-all-max		5	15	cast1		10	20	all-stats		9	14	abs-cold		5	9																	demon-heal		16	17					freeze		1	1					skilltab	15	3	3					skill	250	3	3					dmg-cold	150	99	198						0
-Soul Wormskull	1752	Soul Rusthandle	xuc	Defender	7	33									5	5000	2	dru		1	2	all-stats		9	14	extra-cold		41	83	res-cold-max		5	15																					skill	250	3	3					skilltab	15	3	3					dru		1	1					thorns		99	99														0
-Soul Band	1753	Soul Rusthandle	xla	Demonhide Armor	7	33									5	5000	2	hp%		11	33	mana%		11	33	res-all		12	18	half-freeze		1	1																					extra-cold		83	83					dru		1	1					skill	250	3	3					skilltab	15	3	3					thorns		99	99						0
-Soul Snakecord	1754	Soul Rusthandle	xap	War Hat	7	33									5	5000	2	mana%		11	33	all-stats		9	14	res-cold		14	22	mana-kill		9	10																					dru		1	1					skill	250	3	3					thorns		99	99					skilltab	15	3	3					all-stats		9	10						0
-Ghostflame Wolfhowl	1755	Ghostflame Moonfall	dr4	Falcon Mask	7	14									5	5000	2	enr		7	14	res-fire		10	17																													thorns		42	42																																						0
-Ghostflame Needle	1756	Ghostflame Moonfall	bax	Broad Axe 	7	14									5	5000	2	aura	102	3	3	allskills		1	1	vit		7	14																									dmg-fire		42	84																																						0
-Buriza-Do Rockstopper	1757	Buriza-Do Brainhew	usk	Demonhead	7	68									5	5000	2	aura	100	3	12	res-all-max		5	15	red-mag		34	68	extra-fire		59	118	fireskill		1	3																	allskills		1	1					fireskill		1	1																														0
-Buriza-Do Annihilus	1758	Buriza-Do Brainhew	7fc	Hydra Edge	7	68									5	5000	2	enr		34	68	res-fire-max		5	15	res-all-max		5	15	addxp		5	10																					demon-heal		34	34					extra-fire		118	118					all-stats		13	14																						0
-Buriza-Do Spellsteel	1759	Buriza-Do Brainhew	ula	Scarab Husk	7	68									5	5000	2	mana%		22	68	vit		34	68	res-fire-max		5	15	res-fire		17	27	abs-fire		5	17																	dru		1	1					extra-fire		118	118					skilltab	15	3	3																						0
-Buriza-Do Reaver	1760	Buriza-Do Brainhew	upk	Blade Barrier	7	68									5	5000	2	dru		1	2	oskill	58	6	17	hp%		22	68	all-stats		13	22	regen-mana		25	25	dmg-to-mana		10	25													skill	229	3	3					all-stats		13	14																														0
-Buriza-Do Nightsmoke	1761	Buriza-Do Brainhew	amu		7	68									5	5000	2	enr		34	68	res-all		15	22	cheap		5	10	demon-heal		13	14	dmg-to-mana		10	25																	extra-fire		118	118					skill	229	3	3					fireskill		1	1																						0
-Tornado Spire	1762	Tornado Hotspur	ltp	Light Plate	7	31									5	5000	2	mana%		10	31	res-all		12	18	extra-fire		40	81	abs-fire		5	8																					skill	249	3	3					extra-fire		81	81					skilltab	15	3	3																						0
-Tornado Lacerator	1763	Tornado Hotspur	9cl	Cudgel	7	31									5	5000	2	aura	102	3	6	oskill	121	6	8	hp		31	62																									extra-fire		81	81					demon-heal		15	16					dmg-fire		93	186																						0
-Tornado Guard	1764	Tornado Hotspur	hbt	Greaves	7	31									5	5000	2	mana%		10	31	red-mag		15	31	fireskill		1	2	cast1		10	20	res-fire-max		5	15																	thorns		93	93					dru		1	1					extra-fire		81	81																						0
-Tornado Pluckeye	1765	Tornado Hotspur	zlb	Demonhide Sash	7	31									5	5000	2	dru		1	2	enr		15	31	extra-fire		40	81	mana-kill		8	9	dmg-to-mana		10	25																	skill	249	3	3					allskills		1	1					extra-fire		81	81																						0
-Nethercrow Skin	1766	Nethercrow Blastbark	xth	Embossed Plate	7	62									5	5000	2	oskill	145	6	16	res-all		14	21	regen		15	15	indestruct		1	1																					red-dmg		62	62					vit		17	18																														0
-Nethercrow Blinkbats	1767	Nethercrow Blastbark	uvg	Vampirebone Gloves	7	62									5	5000	2	str		31	62	ac%		162	274	move1		20	56	all-stats		12	21																					mana		62	62					dru		1	1					red-mag		62	62																						0
-Nethercrow Toe	1768	Nethercrow Blastbark	ulm	Armet	7	62									5	5000	2	aura	 103	3	11	vit		31	62	red-dmg		31	62	ac		335	645	levelreq		1	1																	red-dmg%		29	30					move1		20	20					dru		1	1																						0
-Nethercrow Irices	1769	Nethercrow Blastbark	drb	Blood Spirit	7	62									5	5000	2	str		31	62	red-dmg		31	62	swing1		20	56	gold%		87	143	indestruct		1	1	ethereal		1	1													move1		20	20					hp%		25	25																														0
-Razortail Cliffkiller	1770	Razortail Forge	uvg	Vampirebone Gloves	7	64									5	5000	2	allskills		1	1	mana%		21	64	red-mag		32	64	res-pois		17	26	all-stats		13	21	res-all-max		5	15													all-stats		13	13					skill	238	3	3					extra-pois		114	114																						0
-Razortail Venom	1771	Razortail Forge	xul	Chaos Armor	7	64									5	5000	2	mana%		21	64	enr		32	64	vit		32	64	hp%		21	64	res-all		14	21																	dru		1	1					thorns		192	192					skill	238	3	3					all-stats		13	13					skilltab	16	3	3						0
-Razortail Iceblink	1772	Razortail Forge	drb	Blood Spirit	7	64									5	5000	2	vit		32	64	mana%		21	64	cast1		10	20	res-pois-max		5	15	regen-mana		25	25																	skill	238	3	3					extra-pois		114	114					dru		1	1																						0
-Razortail Blacktongue	1773	Razortail Forge	7sm	Ataghan	7	64									5	5000	2	enr		32	64	hp		64	128	res-pois-len		50	50	ease		50	50																					demon-heal		32	32					skill	238	3	3					dmg-pois	75	384	768																						0
-Razortail Tenderizer	1774	Razortail Forge	uvb	Scarabshell Boots	7	64									5	5000	2	mana%		21	64	hp		64	128	res-pois-max		5	15	res-pois		17	26	res-pois-len		50	50	gold%		89	146													skilltab	16	3	3					skill	238	3	3					dru		1	1					all-stats		13	13					thorns		192	192						0
-Razortail Steelgoad	1775	Razortail Forge	uml	Luna	7	64									5	5000	2	dru		1	2	res-pois-max		5	15	mag%		57	89	cheap		5	10	regen		15	15	oskill	117	6	16													extra-pois		114	114					skill	238	3	3					allskills		1	1					thorns		192	192														0
-Rakescar Guardian	1776	Rakescar Riphook	92a	Twin Axe	7	37									5	5000	2	dru		1	2	str		18	37	att-demon		137	311	manasteal		4	8																					all-stats		9	10					att-undead		27	28					skill	233	3	3					deadly		72	72					allskills		1	1						0
-Rakescar Hotspur	1777	Rakescar Riphook	ltp	Light Plate	7	37									5	5000	2	allskills		1	1	swing1		20	44	gold%		62	106																									ac%		111	111					str		12	13					move1		20	20					all-stats		9	10					vit		12	13						0
-Rakescar Rupture	1778	Rakescar Riphook	dr6	Alpha Helm	7	37									5	5000	2	str		18	37	swing1		20	44	ac-hth		210	395	ac		210	395																					red-mag		37	37					hp		37	37					skill	233	3	3																						0
-Rakescar Gloomstrap	1779	Rakescar Riphook	rin		7	37									5	5000	2	hp%		12	37	res-all-max		5	15	swing1		20	44																									move1		20	20					hp%		25	25					mana%		25	25					vit		12	13					ac-miss		370	370						0
-Rakescar Shadowdancer	1780	Rakescar Riphook	xrg	Scutum	7	37									5	5000	2	str		18	37	oskill	32	3	13	aura	 103	3	7																									all-stats		9	10					red-dmg		37	37					mana		37	37					red-dmg%		25	26														0
-Rakescar Frost	1781	Rakescar Riphook	amu		7	37									5	5000	2	str		18	37	move1		20	44	hp		37	74																									mana		37	37					dmg-demon		27	28					vit		12	13																						0
-Zakarum's Silkweave	1782	Zakarum's Woestave	xh9	Grim Helm	7	49									5	5000	2	str		24	49	oskill	145	6	13	dex		24	49																									mana%		25	25					dex		14	15																														0
-Zakarum's Facet	1783	Zakarum's Woestave	9wh	Battle Hammer	7	49									5	5000	2	dru		1	2	deadly		25	50	att-demon		149	347	pierce		50	50																					mana%		25	25					str		14	15																														0
-Zakarum's Buriza-Do	1784	Zakarum's Woestave	xhg	War Gauntlets	7	49									5	5000	2	vit		24	49	hp%		16	49	str		24	49	allskills		1	1	res-all-max		5	15																	ac-hth		490	490					red-dmg%		27	28																														0
-Zakarum's Blackhand	1785	Zakarum's Woestave	xlt	Templar Coat	7	49									5	5000	2	aura	99	3	9	dex		24	49	red-dmg%		12	17	ac%		149	248	ac-hth		270	515																	thorns		147	147					dex		14	15					mana		49	49																						0
-Deathspade Battlebranch	1786	Deathspade Scraper	urs	Great Hauberk	7	70									5	5000	2	str		35	70	res-all-max		5	15	move1		20	60	ethereal		1	1																					ac-miss		700	700																																						0
-Deathspade Bong	1787	Deathspade Scraper	ulm	Armet	7	70									5	5000	2	hp%		23	70	swing1		20	60	mag%		60	95	ethereal		1	1																					ac-miss		700	700																																						0
-Toothrow Stormguild	1788	Toothrow Patriarch	ne7	Fetish Trophy	7	33									5	5000	2	str		16	33	aura	99	3	6	oskill	145	6	9	all-stats		9	14	ac-hth		190	355																	skilltab	6	3	3					vit		11	12					hp%		25	25					allskills		1	1					ac%		99	99						0
-Toothrow Harvest	1789	Toothrow Patriarch	92a	Twin Axe	7	33									5	5000	2	nec		1	2	att%		133	299	dmg-norm		165	330	ignore-ac		1	1	dex		16	33																	att-demon		24	25					allskills		1	1					dmg-norm		99	198																						0
-Toothrow Thieves	1790	Toothrow Patriarch	xuc	Defender	7	33									5	5000	2	nec		1	2	move1		20	42	red-dmg		16	33																									red-dmg		33	33					str		11	12					nec		1	1					all-stats		9	10														0
-Toothrow Warpspear	1791	Toothrow Patriarch	crn	Crown	7	33									5	5000	2	vit		16	33	ac%		133	216	ac-miss		190	355	ethereal		1	1	thorns		33	233																	hp		33	33					enr		11	12					ac%		99	99					mana%		25	25					vit		11	12						0
-Toothrow Rixots	1792	Toothrow Patriarch	xlb	Demonhide Boots	7	33									5	5000	2	allskills		1	1	red-dmg		16	33	thorns		33	233	ac-hth		190	355	vit		16	33																	hp%		25	25					skill	85	3	3					red-dmg%		24	25					red-dmg		33	33					ac%		99	99						0
-Toothrow Windhammer	1793	Toothrow Patriarch	xea	Serpentskin Armor	7	33									5	5000	2	hp%		11	33	str		16	33	allskills		1	1	dex		16	33	ac%		133	216																	ac-hth		330	330					enr		11	12					skilltab	6	3	3					hp%		25	25														0
-Curio Rift	1794	Curio Ward	9gi	Ancient Axe	7	53									5	5000	2	vit		26	53	dmg-fire		265	530	abs-fire%		15	30																									allskills		1	1																																						0
-Curio Djinnslayer	1795	Curio Ward	xhg	War Gauntlets	7	53									5	5000	2	allskills		1	1	hp		53	106	red-mag		26	53																									thorns		159	159																																						0
-Stormspire Marrowwalk	1796	Stormspire Metalgrid	xcl	Tigulated Mail	7	43									5	5000	2	oskill	145	6	11	red-dmg		21	43	ac-miss		240	455																									ac%		129	129																																						0
-Stormspire Cranebeak	1797	Stormspire Metalgrid	9bs	Battle Sword	7	43									5	5000	2	str		21	43	allskills		1	1	slow		25	25	att-demon		143	329	hp		43	86																	swing1		20	20																																						0
-Point Wisp	1798	Point Wisdon	amu		7	16									5	5000	2	vit		8	16	swing1		20	33																													dmg-demon		12	12																																						0
-Point Expansion	1799	Point Wisdon	ne3	Unraveller Head	7	16									5	5000	2	str		8	16	aura	 104	3	3																													dex		8	9																																						0
-Bloodraven's Kyanon	1800	Bloodraven's Bloodrise	uth	Lacquered Plate	7	78									5	5000	2	aura	99	3	13	res-all		15	22	ac%		178	306	balance1		15	25	ethereal		1	1	ac-miss		415	805													thorns		234	234																																						0
-Bloodraven's Thunderstroke	1801	Bloodraven's Bloodrise	nee	Succubus Skull	7	78									5	5000	2	dex		39	78	all-stats		14	25	swing1		20	64	move1		20	64	regen		15	15	heal-kill		14	25													ac-miss		780	780																																						0
-Bloodraven's Peasent	1802	Bloodraven's Bloodrise	uh9	Bone Visage	7	78									5	5000	2	red-dmg%		13	19	red-dmg		39	78	ac%		178	306	swing1		20	64																					thorns		234	234					dex		20	21																														0
-Kaleidoscope Shield	1803	Kaleidoscope Annihilus	7sp	Tyrant Club	7	52									5	5000	2	oskill	32	3	18	hp%		17	52	dmg-pois	75	260	520	cheap		5	10	vit		26	52																	skilltab	7	3	3																																						0
-Kaleidoscope Lance	1804	Kaleidoscope Annihilus	nea	Heirophant Trophy	7	52									5	5000	2	nec		1	2	res-pois-max		5	15	res-all		14	20	mag%		51	77	demon-heal		11	12																	extra-pois		102	102																																						0
-Justice Rusthandle	1805	Justice Hellclap	rng	Ring Mail	7	13									5	5000	2	nec		1	2	hp%		4	13	res-all		9	13																									skill	73	3	3					all-stats		6	7																														0
-Justice Grip	1806	Justice Hellclap	msk	Mask	7	13									5	5000	2	nec		1	2	res-all-max		5	15	res-pois-max		5	15																									thorns		39	39					extra-pois		63	63					nec		1	1					skill	73	3	3														0
-Justice Widowmaker	1807	Justice Hellclap	mbt	Chain Boots	7	13									5	5000	2	allskills		1	1	res-pois-max		5	15																													allskills		1	1					skill	73	3	3																														0
-Justice Salamander	1808	Justice Hellclap	ne2	Zombie Head	7	13									5	5000	2	vit		6	13	nec		1	2	res-pois		10	17																									skilltab	7	3	3					all-stats		6	7					allskills		1	1																						0
-Justice Leoric	1809	Justice Hellclap	mbl	Belt	7	13									5	5000	2	vit		6	13	extra-pois		31	63																													all-stats		6	7					skilltab	7	3	3																														0
-The Flank	1810	The Guardian	9cm	Dacian Falx	7	40									5	5000	2	crush		25	25	manasteal		4	8	dmg-demon		320	700	demon-heal		10	10																					pal		1	1					mana%		25	25					dex		13	13																						0
-The Silk	1811	The Guardian	xhl	Basinet	7	40									5	5000	2	pal		1	2	aura	 109	3	7	ac%		140	230	res-all		13	19																					mana%		25	25					vit		13	13					red-mag		40	40																						0
-The Kinemils	1812	The Guardian	zvb	Sharkskin Belt	7	40									5	5000	2	dex		20	40	swing1		20	45	ac-miss		225	425																									pal		1	1					move1		20	20					vit		13	13																						0
-The Scalper	1813	The Guardian	xla	Demonhide Armor	7	40									5	5000	2	vit		20	40	red-dmg%		11	16	oskill	32	3	14																									red-mag		40	40					allskills		1	1					ac		400	400					enr		13	13														0
-The Shakaku	1814	The Guardian	rin		7	40									5	5000	2	allskills		1	1	swing1		20	45	ethereal		1	1	heal-kill		10	15																					thorns		120	120					mana		40	40					red-dmg		40	40					cast1		20	20														0
-The Goreshovel	1815	The Guardian	pa8	Protector Shield	7	40									5	5000	2	red-dmg%		11	16	hp		40	80	balance1		15	25	hp%		13	40																					mana		40	40					all-stats		10	10					vit		13	13					hp%		25	25					red-dmg%		26	27						0
-Goblin Gorefoot	1816	Goblin Cord	7sr	Hyperion Spear	7	63									5	5000	2	allskills		1	1	att-demon		163	389	dmg-norm		315	630	openwounds		25	50	slow		25	25																	swing1		20	20					mana		63	63																														0
-Goblin Shield	1817	Goblin Cord	uhn	Boneweave	7	63									5	5000	2	str		31	63	dex		31	63	ac%		163	276	swing1		20	57																					ac%		189	189					hp		63	63																														0
-Goblin Dragon	1818	Goblin Cord	ulb	Wyrmhide Boots	7	63									5	5000	2	red-dmg%		12	18	vit		31	63	red-dmg		31	63	hp		63	126	ac-hth		340	655	ac		340	655													ac-miss		630	630					allskills		1	1																														0
-Deathbit Rusthandle	1819	Deathbit Coif	wsd	War Sword	7	28									5	5000	2	lifesteal		4	8	dmg-undead		284	640	dmg-ac		50	1078	openwounds		25	50																					pal		1	1																																						0
-Deathbit Bloodthief	1820	Deathbit Coif	crn	Crown	7	28									5	5000	2	hp%		9	28	res-all-max		5	15	addxp		5	10	ac		165	305																					str		10	11																																						0
-Cloudcrack Razoredge	1821	Cloudcrack Briser	7gm	Thunder Maul	7	79									5	5000	2	aura	118	3	14	res-ltng		18	28	res-ltng-max		5	15	mag%		64	104	allskills		1	1																	demon-heal		39	40					skilltab	10	3	3					all-stats		14	15																						0
-Cloudcrack Eye	1822	Cloudcrack Briser	utb	Mirrored Boots	7	79									5	5000	2	enr		39	79	vit		39	79	red-mag		39	79	ease		50	50	allskills		1	1																	extra-ltng		129	129					skill	118	3	3					light-thorns		237	237																						0
-Cloudcrack Sphere	1823	Cloudcrack Briser	uh9	Bone Visage	7	79									5	5000	2	oskill	276	6	20	pal		1	2	abs-ltng%		15	30	res-ltng		18	28																					skill	118	3	3					extra-ltng		129	129					skilltab	10	3	3					all-stats		14	15														0
-Cloudcrack Herald	1824	Cloudcrack Briser	ult	Hellforge Plate	7	79									5	5000	2	vit		39	79	allskills		1	1	res-all		15	22	mana		79	158	heal-kill		14	25																	thorns		237	237					skill	118	3	3					allskills		1	1					light-thorns		237	237														0
-Cloudcrack Skin	1825	Cloudcrack Briser	rin		7	79									5	5000	2	allskills		1	1	mana%		26	79	extra-ltng		64	129	res-ltng-max		5	15	res-all-max		5	15																	demon-heal		39	40					thorns		237	237					dmg-ltng		237	474					pal		1	1					all-stats		14	15						0
-Cloudcrack Sandstorm	1826	Cloudcrack Briser	paf	Vortex Shield	7	79									5	5000	2	enr		39	79	mana%		26	79	pal		1	2	vit		39	79																					extra-ltng		129	129					all-stats		14	15					thorns		237	237																						0
-Song's Shell	1827	Song's Reaver	pa5	Crown Shield	7	23									5	5000	2	aura	105	3	4	red-mag		11	23	abs-cold%		15	30	res-cold		13	20																					extra-cold		73	73					thorns		69	69					allskills		1	1																						0
-Song's Gleamscythe	1828	Song's Reaver	spl	Splint Mail	7	23									5	5000	2	hp%		7	23	res-cold		13	20	demon-heal		7	8	mana-kill		7	8																					all-stats		7	8					extra-cold		73	73					thorns		69	69																						0
-Song's Piercerib	1829	Song's Reaver	bsw	Bastard Sword	7	23									5	5000	2	oskill	81	6	6	vit		11	23	mana%		7	23																									skill	114	3	3					pal		1	1					all-stats		7	8					extra-cold		73	73														0
-Song's Revenge	1830	Song's Reaver	hbt	Greaves	7	23									5	5000	2	mana%		7	23	pal		1	2	res-cold		13	20																									all-stats		7	8					pal		1	1					skilltab	10	3	3																						0
-Song's Glory	1831	Song's Reaver	tbl	Heavy Belt	7	23									5	5000	2	enr		11	23	nofreeze		1	1	abs-cold%		15	30	gold%		48	85																					extra-cold		73	73					allskills		1	1					skill	114	3	3					thorns		69	69														0
-Song's Circle	1832	Song's Reaver	hgl	Gauntlets	7	23									5	5000	2	mana%		7	23	allskills		1	1	abs-cold%		15	30	extra-cold		36	73																					pal		1	1					skilltab	10	3	3					extra-cold		73	73																						0
-Ages Wraithflight	1833	Ages Web	ucl	Loricated Mail	7	69									5	5000	2	aura	100	3	12	oskill	32	3	23	extra-fire		59	119	mana-kill		13	14	heal-kill		13	23																	all-stats		13	14					extra-fire		119	119																														0
-Ages Infernostride	1834	Ages Web	amu		7	69									5	5000	2	enr		34	69	vit		34	69	extra-fire		59	119	all-stats		13	23																					skilltab	10	3	3					skill	102	3	3					thorns		207	207																						0
-Ages Howltusk	1835	Ages Web	7fc	Hydra Edge	7	69									5	5000	2	enr		34	69	vit		34	69	move1		20	60	mag%		59	94	demon-heal		13	14	hp%		23	69													allskills		1	1					dmg-fire		207	414																														0
-Ages Rattlecage	1836	Ages Web	pac	Sacred Rondache	7	69									5	5000	2	pal		1	2	hp%		23	69	vit		34	69	mana%		23	69																					skilltab	10	3	3					fireskill		1	1					thorns		207	207																						0
-Stormspire Lazarus	1837	Stormspire Deathcleaver	wsd	War Sword	7	29									5	5000	2	dex		14	29	manasteal		4	8	move1		20	40																									hp		29	29					skilltab	11	3	3					allskills		1	1					vit		10	11														0
-Stormspire Angel	1838	Stormspire Deathcleaver	gth	Gothic Plate	7	29									5	5000	2	hp%		9	29	red-dmg		14	29	res-all-max		5	15	hp		29	58																					mana		29	29					str		10	11					red-dmg%		24	25					skill	106	3	3														0
-Stormspire Heart	1839	Stormspire Deathcleaver	pa6	Akaran Targe	7	29									5	5000	2	dex		14	29	red-dmg		14	29	move1		20	40																									enr		10	11					mana		29	29					skill	106	3	3																						0
-Stormspire Rattlecage	1840	Stormspire Deathcleaver	xap	War Hat	7	29									5	5000	2	red-dmg%		10	15	aura	99	3	5	swing1		20	40																									all-stats		8	9					skill	106	3	3					red-mag		29	29					move1		20	20														0
-Stormspire Bonnet	1841	Stormspire Deathcleaver	xlg	Demonhide Gloves	7	29									5	5000	2	dex		14	29	ac%		129	208	levelreq		1	1	vit		14	29																					thorns		87	87					red-mag		29	29					mana		29	29					hp%		25	25														0
-Stormspire Mail	1842	Stormspire Deathcleaver	xuc	Defender	7	29									5	5000	2	pal		1	2	red-dmg		14	29	ac-hth		170	315																									hp%		25	25					move1		20	20					mana%		25	25					mana		29	29					red-dmg%		24	25						0
-Riphook Ga	1843	Riphook Justice	7bt	Decapitator	7	72									5	5000	2	str		36	72	dmg-ac		50	1122	dmg-demon		416	860	thorns		72	272	aura	 122	3	12																	dmg-demon		54	54																																						0
-Riphook Gore	1844	Riphook Justice	amu		7	72									5	5000	2	dex		36	72	str		36	72	swing1		20	61	all-stats		14	23	res-all		15	22	thorns		72	272													move1		20	20																																						0
-Pupil Darksight	1845	Pupil Tearhaunch	7m7	Ogre Maul	7	70									5	5000	2	aura	114	3	12	extra-cold		60	120	heal-kill		13	23	addxp		5	10	regen		15	15																	allskills		1	1																																						0
-Pupil Trust	1846	Pupil Tearhaunch	umc	Mithril Coil	7	70									5	5000	2	sor		1	2	res-all		15	22	abs-cold		5	18	hp		70	140																					allskills		1	1																																						0
-Wrath Break	1847	Wrath Hone	xlt	Templar Coat	7	47									5	5000	2	mana%		15	47	all-stats		10	17	ease		50	50																									sor		1	1					thorns		141	141																														0
-Wrath Pupil	1848	Wrath Hone	7cl	Truncheon	7	47									5	5000	2	oskill	58	6	12	allskills		1	1	aura	114	3	8	abs-cold		5	12																					allskills		1	1					skill	64	3	3																														0
-Wrath Toe	1849	Wrath Hone	ztb	Battle Belt	7	47									5	5000	2	vit		23	47	hp%		15	47	enr		23	47	allskills		1	1																					thorns		141	141					sor		1	1					skill	64	3	3																						0
-Wrath Culwens	1850	Wrath Hone	ba8	Rage Mask	7	47									5	5000	2	hp%		15	47	nofreeze		1	1	cheap		5	10																									skilltab	3	3	3					skill	64	3	3																														0
-Wrath Flank	1851	Wrath Hone	xow	Pavise	7	47									5	5000	2	hp%		15	47	mana%		15	47	res-all-max		5	15	half-freeze		1	1	vit		23	47																	sor		1	1					thorns		141	141					all-stats		10	11					skill	64	3	3														0
-Ironward Vomir	1852	Ironward Steelclash	7br	Mancatcher	7	75									5	5000	2	aura	118	3	13	extra-ltng		62	125	cast1		10	20	res-all		15	22	hp		75	150	light-thorns		37	75													dmg-ltng		225	450																																						0
-Ironward Stormeye	1853	Ironward Steelclash	urs	Great Hauberk	7	75									5	5000	2	enr		37	75	hp%		25	75	oskill	276	6	19	abs-ltng%		15	30	ease		50	50	allskills		1	1													skill	57	3	3																																						0
-Wing Hew	1854	Wing Stoutnail	ob5	Jared's Stone	7	28									5	5000	2	hp%		9	28	res-all		11	17	abs-ltng		5	7	res-all-max		5	15																					dmg-ltng		84	168					all-stats		8	9					extra-ltng		78	78																						0
-Wing Umbral	1855	Wing Stoutnail	rin		7	28									5	5000	2	vit		14	28	oskill	57	6	7	res-ltng-max		5	15	abs-ltng%		15	30																					extra-ltng		78	78					skill	48	3	3					thorns		84	84					demon-heal		14	14					light-thorns		84	84						0
-Wing Swordback	1856	Wing Stoutnail	xap	War Hat	7	28									5	5000	2	hp%		9	28	aura	110	3	5	red-mag		14	28																									all-stats		8	9					thorns		84	84					extra-ltng		78	78																						0
-Wing Felloak	1857	Wing Stoutnail	gts	Gothic Shield	7	28									5	5000	2	enr		14	28	hp%		9	28	move1		20	39																									allskills		1	1					thorns		84	84					skill	48	3	3					skilltab	4	3	3														0
-Wing Rebuke	1858	Wing Stoutnail	plt	Plate Mail	7	28									5	5000	2	sor		1	2	enr		14	28	abs-ltng%		15	30	light-thorns		14	28																					allskills		1	1					light-thorns		84	84					extra-ltng		78	78					all-stats		8	9														0
-Wing Blinkbats	1859	Wing Stoutnail	ba5	Avenger Guard	7	28									5	5000	2	hp%		9	28	vit		14	28	mana		28	56	res-ltng-max		5	15																					light-thorns		84	84					allskills		1	1					skill	48	3	3																						0
-Tine Tan	1860	Tine Blood	ci0	Circlet	7	28									5	5000	2	enr		14	28	aura	110	3	5	extra-ltng		39	78																									allskills		1	1					all-stats		8	9					skilltab	4	3	3																						0
-Tine Pluckeye	1861	Tine Blood	xlg	Demonhide Gloves	7	28									5	5000	2	oskill	276	6	7	res-ltng		13	21	res-all-max		5	15	gold%		53	92																					skilltab	4	3	3					light-thorns		84	84																														0
-Tine Vile	1862	Tine Blood	plt	Plate Mail	7	28									5	5000	2	enr		14	28	allskills		1	1	hp%		9	28																									allskills		1	1					skill	53	3	3																														0
-Tine Rimeraven	1863	Tine Blood	9ha	Hatchet	7	28									5	5000	2	allskills		1	1	vit		14	28	hp%		9	28	res-all		11	17																					allskills		1	1					extra-ltng		78	78																														0
-Tombale Pupil	1864	Tombale Arch	ucl	Loricated Mail	7	74									5	5000	2	allskills		1	1	enr		37	74	aura	100	3	13	red-mag		37	74	demon-heal		14	15																	skilltab	5	3	3					fireskill		1	1					extra-fire		124	124																						0
-Tombale Mindrend	1865	Tombale Arch	rin		7	74									5	5000	2	hp%		24	74	fireskill		1	3	res-fire-max		5	15	hp		74	148	abs-fire%		15	30	extra-fire		62	124													extra-fire		124	124					all-stats		14	15					dmg-fire		222	444																						0
-Tombale Swordback	1866	Tombale Arch	amu		7	74									5	5000	2	mana%		24	74	abs-fire		5	19	addxp		5	10	demon-heal		14	15	oskill	153	6	19	allskills		1	1													skilltab	5	3	3					all-stats		14	15					demon-heal		37	37																						0
-Tombale Skin	1867	Tombale Arch	7bw	Lich Wand	7	74									5	5000	2	vit		37	74	res-fire		17	27	extra-fire		62	124	abs-fire		5	19	res-fire-max		5	15	dmg-fire		370	740													demon-heal		37	37					dmg-fire		222	444																														0
-Tombale Needle	1868	Tombale Arch	uow	Aegis	7	74									5	5000	2	enr		37	74	red-mag		37	74	regen-mana		25	25	mag%		62	99																					extra-fire		124	124					skilltab	5	3	3					fireskill		1	1					allskills		1	1														0
-Twitchthroe Azurewrath	1869	Twitchthroe Couant	9fc	Tulwar	7	37									5	5000	2	oskill	58	6	10	dmg-fire		185	370	abs-fire		5	10	hp		37	74	extra-fire		43	87																	extra-fire		87	87					fireskill		1	1																														0
-Twitchthroe Tenderizer	1870	Twitchthroe Couant	xvb	Sharkskin Boots	7	37									5	5000	2	allskills		1	1	aura	100	3	7	vit		18	37	enr		18	37																					skill	51	3	3					allskills		1	1					thorns		111	111																						0
-Twitchthroe Blade	1871	Twitchthroe Couant	amu		7	37									5	5000	2	enr		18	37	move1		20	44	mana-kill		9	10	regen-mana		25	25	sor		1	2																	extra-fire		87	87					sor		1	1																														0
-Twitchthroe Bonehew	1872	Twitchthroe Couant	xml	Round Shield	7	37									5	5000	2	vit		18	37	abs-fire		5	10	heal-kill		9	15	regen		15	15																					skilltab	5	3	3					extra-fire		87	87					fireskill		1	1																						0
-Steeldriver Blackhand	1873	Steeldriver Angel	7qs	Seraph Rod	7	71									5	5000	2	oskill	32	3	24	vit		35	71	res-fire		17	27	mana		71	142																					all-stats		13	14																																						0
-Steeldriver Glory	1874	Steeldriver Angel	bac	Fury Visor	7	71									5	5000	2	vit		35	71	extra-fire		60	121	res-fire		17	27	res-fire-max		5	15	all-stats		13	23	abs-fire%		15	30													sor		1	1																																						0
-Moon Caw	1875	Moon Reaver	7qs	Seraph Rod	7	79									5	5000	2	sor		1	2	mana%		26	79	abs-fire%		15	30	dmg-fire		395	790	gold%		104	169																	extra-fire		129	129					sor		1	1																														0
-Moon Hammer	1876	Moon Reaver	uts	Ward	7	79									5	5000	2	hp%		26	79	oskill	94	6	20	res-fire-max		5	15	abs-fire%		15	30																					thorns		237	237					extra-fire		129	129																														0
+Nightwing's Toothrow	1657	Nightwing's Bladebuckle	ukp	Hydraskull	7	66									5	5000	2	ama		1	2	abs-ltng		5	17	cast1		10	20	mana		66	132	res-ltng		17	27																	allskills		1	1																																						0
+Nightwing's Cleft	1658	Nightwing's Bladebuckle	ula	Scarab Husk	7	66									5	5000	2	allskills		1	1	mana-kill		13	14	red-mag		33	66	vit		33	66	extra-ltng		58	116																	allskills		1	1																																						0
+Vortex Maelstromwrath	1659	Vortex Hell	ulg	Bramble Mitts	7	62									5	5000	2	allskills		1	1	heal-kill		12	21	red-mag		31	62	res-all		14	21	move1		20	56																	all-stats		12	13																																						0
+Vortex Hellplague	1660	Vortex Hell	uhn	Boneweave	7	62									5	5000	2	allskills		1	1	enr		31	62	gold%		87	143	regen-mana		25	25	oskill	58	6	16																	allskills		1	1					light-thorns		186	186																														0
+Vortex Ward	1661	Vortex Hell	amu		7	62									5	5000	2	allskills		1	1	res-ltng		17	26	regen		15	15	cheap		5	10																					ama		1	1					thorns		186	186																														0
+Gloomstrap Gutsiphon	1662	Gloomstrap Scalper	xlg	Demonhide Gloves	7	33									5	5000	2	ama		1	2	ease		-50	-50	cheap		5	10																									thorns		99	99					all-stats		9	10																														0
+Gloomstrap Ironpelt	1663	Gloomstrap Scalper	xea	Serpentskin Armor	7	33									5	5000	2	ama		1	2	red-mag		16	33	res-pois-max		5	15																									all-stats		9	10					allskills		1	1					skill	25	3	3																						0
+Gloomstrap Key	1664	Gloomstrap Scalper	9ja	War Javelin	7	33									5	5000	2	ama		1	2	res-pois-max		5	15	hp		33	66	all-stats		9	14																					skill	25	3	3					extra-pois		83	83																														0
+Gloomstrap Boneshade	1665	Gloomstrap Scalper	xvb	Sharkskin Boots	7	33									5	5000	2	allskills		1	1	hp%		11	33	enr		16	33																									thorns		99	99					skill	25	3	3																														0
+Deathcleaver Vipermagi	1666	Deathcleaver Langer	uhm	Spired Helm	7	78									5	5000	2	allskills		1	1	ease		-50	-50	regen		15	15	regen-mana		25	25																					ama		1	1					extra-pois		128	128					skill	15	3	3																						0
+Deathcleaver Bloodfist	1667	Deathcleaver Langer	uul	Shadow Plate	7	78									5	5000	2	ama		1	2	all-stats		14	25	hp%		26	78	res-all		15	22																					allskills		1	1					thorns		234	234					all-stats		14	15					skill	15	3	3														0
+Deathcleaver Scraper	1668	Deathcleaver Langer	7gl	Ghost Glaive	7	78									5	5000	2	allskills		1	1	gold%		103	167	hp		78	156	mana		78	156	res-pois-len		50	50	cheap		5	10													skill	15	3	3					demon-heal		39	39					allskills		1	1					skilltab	0	3	3					extra-pois		128	128						0
+Deathcleaver Mindrend	1669	Deathcleaver Langer	uts	Ward	7	78									5	5000	2	allskills		1	1	extra-pois		64	128	res-pois-max		5	15	mag%		64	103																					thorns		234	234					extra-pois		128	128					ama		1	1																						0
+Deathcleaver Blinkbats	1670	Deathcleaver Langer	utb	Mirrored Boots	7	78									5	5000	2	ama		1	2	res-pois-max		5	15	vit		39	78	res-all-max		5	15																					ama		1	1					all-stats		14	15					thorns		234	234					skill	15	3	3														0
+Deathcleaver Bul	1671	Deathcleaver Langer	utg	Crusader Gauntlets	7	78									5	5000	2	allskills		1	1	dmg-to-mana		10	25	res-pois		18	28	res-pois-max		5	15	heal-kill		14	25																	thorns		234	234					skilltab	0	3	3					all-stats		14	15																						0
+Boneflame Rakescar	1672	Boneflame Chang	hbl	Plated Belt	7	27									5	5000	2	ama		1	2	oskill	276	6	7	red-mag		13	27																									light-thorns		81	81					skill	24	3	3					skilltab	0	3	3																						0
+Boneflame Doomspittle	1673	Boneflame Chang	tsp	Throwing Spear	7	27									5	5000	2	allskills		1	1	extra-ltng		38	77	abs-ltng		5	7																									extra-ltng		77	77					allskills		1	1					all-stats		8	9					skilltab	0	3	3														0
+Boneflame Oculus	1674	Boneflame Chang	rin		7	27									5	5000	2	ama		1	2	abs-ltng%		15	30	res-ltng-max		5	15																									skilltab	0	3	3					demon-heal		13	14					dmg-ltng		81	162																						0
+Boneflame Fechmars	1675	Boneflame Chang	crn	Crown	7	27									5	5000	2	allskills		1	1	extra-ltng		38	77	move1		20	39	cast1		10	20																					light-thorns		81	81					all-stats		8	9					extra-ltng		77	77																						0
+Boneflame Blacktongue	1676	Boneflame Chang	hgl	Gauntlets	7	27									5	5000	2	allskills		1	1	cheap		5	10	addxp		5	10																									skilltab	0	3	3					skill	24	3	3																														0
+Stealskull Pluckeye	1677	Stealskull Justice	8hb	Razor Bow	7	30									5	5000	2	ama		1	2	heal-kill		8	13	gold%		55	95																									ama		1	1																																						0
+Stealskull Bloodletter	1678	Stealskull Justice	hbt	Greaves	7	30									5	5000	2	ama		1	2	light-thorns		15	30	gold%		55	95	regen		15	15	red-mag		15	30																	allskills		1	1																																						0
+Rockstopper Sureshrill	1679	Rockstopper Ali	usk	Demonhead	7	73									5	5000	2	allskills		1	1	oskill	58	6	19	demon-heal		14	15	heal-kill		14	24																					extra-cold		123	123																																						0
+Rockstopper Lord	1680	Rockstopper Ali	amu		7	73									5	5000	2	allskills		1	1	demon-heal		14	15	mag%		61	98	abs-cold		5	19	half-freeze		1	1	addxp		5	10													skilltab	2	3	3																																						0
+Raven Sundan	1681	Raven Expansion	xmb	Mesh Boots	7	38									5	5000	2	allskills		1	1	aura	105	3	7	extra-cold		44	88																									all-stats		9	10					allskills		1	1					extra-cold		88	88					thorns		114	114														0
+Raven Pelta	1682	Raven Expansion	aar	Ancient Armor	7	38									5	5000	2	allskills		1	1	res-cold-max		5	15	cast1		10	20	abs-cold		5	10	mana		38	76																	skill	21	3	3					ama		1	1					extra-cold		88	88					skilltab	2	3	3					thorns		114	114						0
+Raven Broc	1683	Raven Expansion	8s8	Short Siege Bow	7	38									5	5000	2	ama		1	2	abs-cold%		15	30	half-freeze		1	1	freeze		1	1																					extra-cold		88	88					freeze		1	1					skill	21	3	3					dmg-cold	150	114	228														0
+Raven Cleft	1684	Raven Expansion	xap	War Hat	7	38									5	5000	2	ama		1	2	heal-kill		9	15	mana%		12	38																									skilltab	2	3	3					skill	21	3	3					thorns		114	114					extra-cold		88	88					ama		1	1						0
+Raven Fissure	1685	Raven Expansion	xmg	Heavy Bracers	7	38									5	5000	2	ama		1	2	regen-mana		25	25	res-cold-max		5	15	abs-cold		5	10	cast1		10	20																	ama		1	1					thorns		114	114					skilltab	2	3	3					skill	21	3	3														0
+Raven Gorerider	1686	Raven Expansion	amu		7	38									5	5000	2	ama		1	2	mana-kill		9	10	abs-cold		5	10	cast1		10	20	extra-cold		44	88																	skilltab	2	3	3					freeze		1	1					ama		1	1					demon-heal		19	19					all-stats		9	10						0
+Centurion Leoric	1687	Centurion Snakecord	ulb	Wyrmhide Boots	7	54									5	5000	2	allskills		1	1	extra-cold		52	104	res-all		14	20	gold%		79	131	aura	105	3	9																	thorns		162	162					skilltab	2	3	3					extra-cold		104	104																						0
+Centurion Gavel	1688	Centurion Snakecord	ci1	Coronet	7	54									5	5000	2	ama		1	2	nofreeze		1	1	all-stats		11	19	extra-cold		52	104	red-mag		27	54																	skilltab	2	3	3					thorns		162	162																														0
+Centurion Stormspire	1689	Centurion Snakecord	xpl	Russet Armor	7	54									5	5000	2	allskills		1	1	demon-heal		11	12	extra-cold		52	104																									skilltab	2	3	3					extra-cold		104	104					all-stats		11	12					thorns		162	162														0
+Centurion Axe	1690	Centurion Snakecord	6hb	Blade Bow	7	54									5	5000	2	ama		1	2	abs-cold		5	14	oskill	121	6	14	ease		-50	-50																					extra-cold		104	104					demon-heal		27	27																														0
+Centurion Hellclap	1691	Centurion Snakecord	ztb	Battle Belt	7	54									5	5000	2	allskills		1	1	gold%		79	131	addxp		5	10	hp%		18	54																					extra-cold		104	104					skilltab	2	3	3																														0
+Spike Crainte	1692	Spike Stormeye	ulc	Spiderweb Sash	7	66									5	5000	2	allskills		1	1	heal-kill		13	22	ac-miss		355	685	red-dmg		33	66																					ac%		198	198					dex		18	19																														0
+Spike Vigor	1693	Spike Stormeye	uui	Dusk Shroud	7	66									5	5000	2	ama		1	2	ac		355	685	all-stats		13	22	hp%		22	66	move1		20	58																	thorns		198	198					str		18	19																														0
+Spike Cord	1694	Spike Stormeye	uvb	Scarabshell Boots	7	66									5	5000	2	allskills		1	1	hp%		22	66	cheap		5	10	balance1		15	25	levelreq		1	1																	vit		18	19					all-stats		13	14																														0
+Spike Manald	1695	Spike Stormeye	ci2	Tiara	7	66									5	5000	2	ama		1	2	vit		33	66	red-dmg%		13	18	red-dmg		33	66	swing1		20	58																	skill	12	3	3					enr		18	19					ac		660	660																						0
+Fetid Impaler	1696	Fetid Spiter	spl	Splint Mail	7	18									5	5000	2	ama		1	2	str		9	18																													hp		18	18					move1		20	20					ac-hth		180	180					red-dmg%		20	21														0
+Fetid KhalimFlail	1697	Fetid Spiter	msk	Mask	7	18									5	5000	2	allskills		1	1	levelreq		1	1	red-dmg%		9	13																									mana%		25	25					red-dmg%		20	21					allskills		1	1					red-mag		18	18					hp%		25	25						0
+Fetid Stormeye	1698	Fetid Spiter	tbt	Light Plated Boots	7	18									5	5000	2	allskills		1	1	red-dmg		9	18	indestruct		1	1																									move1		20	20					red-dmg%		20	21					skill	22	3	3					enr		8	9					ac%		54	54						0
+Fetid Felloak	1699	Fetid Spiter	sbb	Short Battle Bow	7	18									5	5000	2	dmg%		136	354	hp%		6	18																													str		8	9					deadly		53	53					dmg-demon		13	14					cast1		20	20														0
+Fetid Guard	1700	Fetid Spiter	amu		7	18									5	5000	2	allskills		1	1	heal-kill		7	10																													dmg-undead		13	14					skill	22	3	3					red-mag		18	18																						0
+Fetid Broc	1701	Fetid Spiter	rin		7	18									5	5000	2	ama		1	2	balance1		15	25	thorns		18	218																									att-demon		13	14					swing1		20	20					red-dmg		18	18					move1		20	20					crush		53	53						0
+Tearhaunch Mindrend	1702	Tearhaunch Black	xkp	Sallet	7	42									5	5000	2	ama		1	2	addxp		5	10	ac		235	445	aura	104	3	7	ac-miss		235	445																	skill	26	3	3																																						0
+Tearhaunch Coldkill	1703	Tearhaunch Black	xhn	Mesh Armor	7	42									5	5000	2	ama		1	2	swing1		20	46	red-dmg		21	42																									mana%		25	25					hp%		25	25																														0
+Tearhaunch Blastbark	1704	Tearhaunch Black	rin		7	42									5	5000	2	allskills		1	1	regen		15	15	demon-heal		10	11	levelreq		1	1																					dmg-undead		31	32																																						0
+Blackbog's Moon	1705	Blackbog's Corpsemourn	amu		7	33									5	5000	2	allskills		1	1	regen-mana		25	25	mana-kill		9	10	fireskill		1	2																					demon-heal		16	17																																						0
+Blackbog's Steelshade	1706	Blackbog's Corpsemourn	rin		7	33									5	5000	2	allskills		1	1	res-fire		14	22	vit		16	33	mana%		11	33																					dmg-fire		99	198																																						0
+Schaefer's Dimoaks	1707	Schaefer's Venomsward	xcl	Tigulated Mail	7	39									5	5000	2	ama		1	2	heal-kill		9	15	vit		19	39	cheap		5	10																					ama		1	1					skilltab	2	3	3					all-stats		9	10																						0
+Schaefer's Trek	1708	Schaefer's Venomsward	xvb	Sharkskin Boots	7	39									5	5000	2	ama		1	2	hp%		13	39	mana-kill		9	10	dmg-to-mana		10	25																					fireskill		1	1					skill	16	3	3																														0
+Schaefer's Hellmouth	1709	Schaefer's Venomsward	xkp	Sallet	7	39									5	5000	2	ama		1	2	addxp		5	10	abs-fire		5	10	hp%		13	39	fireskill		1	2																	skilltab	2	3	3					allskills		1	1					thorns		117	117																						0
+Schaefer's Talons	1710	Schaefer's Venomsward	zlb	Demonhide Sash	7	39									5	5000	2	allskills		1	1	extra-fire		44	89	cheap		5	10	demon-heal		9	10	heal-kill		9	15																	ama		1	1					skill	16	3	3																														0
+Darkglow Frostburn	1711	Darkglow Bloodtree	swb	Short War Bow	7	31									5	5000	2	ama		1	2	mag%		40	56	enr		15	31																									fireskill		1	1																																						0
+Darkglow Stormspire	1712	Darkglow Bloodtree	xui	Ghost Armor	7	31									5	5000	2	ama		1	2	heal-kill		8	13	addxp		5	10	mag%		40	56	demon-heal		8	9																	fireskill		1	1																																						0
+Thudergod's Arachnid	1713	Thudergod's Bverrit	ci1	Coronet	7	56									5	5000	2	ass		1	2	mana-kill		12	12	res-cold-max		5	15	heal-kill		12	19	addxp		5	10																	thorns		168	168					ass		1	1					all-stats		12	12																						0
+Thudergod's Stormlash	1714	Thudergod's Bverrit	7sr	Hyperion Spear	7	56									5	5000	2	ass		1	2	cast1		10	20	res-all-max		5	15	res-cold-max		5	15																					ass		1	1					extra-cold		106	106					all-stats		12	12					skilltab	18	3	3														0
+Thudergod's Hearty	1715	Thudergod's Bverrit	uhn	Boneweave	7	56									5	5000	2	ass		1	2	mana		56	112	nofreeze		1	1	red-mag		28	56	res-all		14	21	res-all-max		5	15													skill	274	3	3					extra-cold		106	106					all-stats		12	12					ass		1	1														0
+Thudergod's Sun	1716	Thudergod's Bverrit	ulb	Wyrmhide Boots	7	56									5	5000	2	ass		1	2	oskill	58	6	14	gold%		81	134	hp		56	112	res-cold-max		5	15	res-all-max		5	15													extra-cold		106	106					skilltab	18	3	3					all-stats		12	12					thorns		168	168					allskills		1	1						0
+Thudergod's Pelta	1717	Thudergod's Bverrit	ulg	Bramble Mitts	7	56									5	5000	2	ass		1	2	extra-cold		53	106	half-freeze		1	1	cheap		5	10	mag%		53	81																	allskills		1	1					extra-cold		106	106					thorns		168	168																						0
+Thudergod's Chieftan	1718	Thudergod's Bverrit	zhb	War Belt	7	56									5	5000	2	ass		1	2	regen-mana		25	25	aura	105	3	10	res-all		14	21																					skilltab	18	3	3					extra-cold		106	106					thorns		168	168																						0
+Bloodmoon Coldkill	1719	Bloodmoon Blackleach	amu		7	65									5	5000	2	allskills		1	1	swing1		20	58	regen		15	15	heal-kill		13	22	addxp		5	10	hp%		21	65													dex		18	18					ass		1	1																														0
+Bloodmoon Bonnet	1720	Bloodmoon Blackleach	7tr	Stygian Pike	7	65									5	5000	2	allskills		1	1	dmg%		230	495	balance1		15	25	levelreq		1	1	openwounds		25	50	att		350	675													dex		18	18					str		18	18					vit		18	18																						0
+Bloodmoon Pluckeye	1721	Bloodmoon Blackleach	ula	Scarab Husk	7	65									5	5000	2	allskills		1	1	regen		15	15	ac		350	675	vit		32	65	move1		20	58																	mana		65	65					red-dmg%		29	30																														0
+Bloodmoon Lazarus	1722	Bloodmoon Blackleach	rin		7	65									5	5000	2	allskills		1	1	swing1		20	58	oskill	153	6	17	heal-kill		13	22	mag%		57	90																	deadly		100	100					skilltab	18	3	3																														0
+Darkforge One	1723	Darkforge Shakaku	xap	War Hat	7	30									5	5000	2	ass		1	2	regen		15	15	mana-kill		8	9																									skill	278	3	3					thorns		90	90																														0
+Darkforge Maelstromwrath	1724	Darkforge Shakaku	9pa	Partizan	7	30									5	5000	2	allskills		1	1	extra-pois		40	80	move1		20	40	oskill	58	6	8	mana-kill		8	9																	ass		1	1					skill	278	3	3																														0
+Darkforge Generals	1725	Darkforge Shakaku	hbl	Plated Belt	7	30									5	5000	2	allskills		1	1	regen-mana		25	25	gold%		55	95	ease		-50	-50																					skill	278	3	3																																						0
+Tombale Reign	1726	Tombale Blood	ung	Diamond Mail	7	72									5	5000	2	ass		1	2	oskill	32	3	24	swing1		20	61	gold%		97	158	levelreq		1	1	ac		385	745													red-mag		72	72																																						0
+Tombale Yaggai	1727	Tombale Blood	umb	Boneweave Boots	7	72									5	5000	2	ass		1	2	res-all		15	22	red-dmg%		13	18	res-all-max		5	15	red-dmg		36	72																	hp		72	72																																						0
+Tombale Class	1728	Tombale Blood	7s8	Thresher	7	72									5	5000	2	dmg%		244	516	allskills		1	1	att%		172	416	att		385	745	pierce		50	50	aura	108	3	12													crush		100	100					hp%		25	25																														0
+Ears Peasent	1729	Ears Dark	7fl	Scourge	7	71									5	5000	2	ass		1	2	abs-ltng		5	18	aura	118	3	12	oskill	81	6	18	light-thorns		35	71	regen-mana		25	25													skill	271	3	3					allskills		1	1					dmg-ltng		213	426																						0
+Ears Armor	1730	Ears Dark	ush	Troll Nest	7	71									5	5000	2	allskills		1	1	vit		35	71	hp		71	142	cast1		10	20	mana%		23	71	red-mag		35	71													allskills		1	1					extra-ltng		121	121					light-thorns		213	213					skill	271	3	3														0
+Ears Hand	1731	Ears Dark	upl	Balrog Skin	7	71									5	5000	2	ass		1	2	light-thorns		35	71	regen		15	15	gold%		96	157																					ass		1	1					thorns		213	213					extra-ltng		121	121																						0
+Ears Dwarf	1732	Ears Dark	umb	Boneweave Boots	7	71									5	5000	2	allskills		1	1	gold%		96	157	regen-mana		25	25	cast1		10	20	addxp		5	10																	allskills		1	1					extra-ltng		121	121					light-thorns		213	213					all-stats		13	14														0
+Ears Pierre	1733	Ears Dark	ulm	Armet	7	71									5	5000	2	ass		1	2	res-all		15	22	mana%		23	71	addxp		5	10																					skill	271	3	3					ass		1	1					all-stats		13	14					thorns		213	213														0
+Djinnslayer Circle	1734	Djinnslayer Corpsemourn	7br	Mancatcher	7	73									5	5000	2	ass		1	2	str		36	73	deadly		25	50	oskill	54	3	19	regen		15	15	reduce-ac		25	50													dmg-undead		54	55					vit		19	20					deadly		100	100					att-undead		54	55					ass		1	1						0
+Djinnslayer Cutthroat1	1735	Djinnslayer Corpsemourn	rin		7	73									5	5000	2	ass		1	2	hp%		24	73	swing1		20	62	str		36	73	res-all-max		5	15																	vit		19	20					skilltab	20	3	3					mana%		25	25					ass		1	1														0
+Djinnslayer Cliffkiller	1736	Djinnslayer Corpsemourn	ci2	Tiara	7	73									5	5000	2	allskills		1	1	gold%		98	160	red-dmg		36	73	str		36	73	ease		-50	-50	ac		390	755													ass		1	1					red-dmg		73	73					red-mag		73	73																						0
+Djinnslayer Viperfork	1737	Djinnslayer Corpsemourn	rin		7	73									5	5000	2	ass		1	2	hp		73	146	mag%		61	98	thorns		73	273	balance1		15	25	addxp		5	10													crush		100	100					ac-miss		730	730					move1		20	20																						0
+Djinnslayer Bite	1738	Djinnslayer Corpsemourn	ult	Hellforge Plate	7	73									5	5000	2	allskills		1	1	str		36	73	gold%		98	160	ac-hth		390	755																					red-dmg%		30	31					hp		73	73					ac-miss		730	730																						0
+Djinnslayer Lidless	1739	Djinnslayer Corpsemourn	umg	Vambraces	7	73									5	5000	2	ass		1	2	ac-miss		390	755	aura	104	3	13	red-dmg		36	73	dex		36	73																	enr		19	20					ass		1	1					ac-miss		730	730					skilltab	20	3	3														0
+Flamme Scarab	1740	Flamme Rift	9sm	Cutlass	7	44									5	5000	2	allskills		1	1	str		22	44	balance1		15	25	demon-heal		10	11																					demon-heal		22	22					cast1		20	20					dmg-norm		132	264																						0
+Flamme Horror	1741	Flamme Rift	xsk	Death Mask	7	44									5	5000	2	allskills		1	1	vit		22	44	ac%		144	238	str		22	44	demon-heal		10	11																	move1		20	20					red-mag		44	44																														0
+Flamme Hellplague	1742	Flamme Rift	xrs	Cuirass	7	44									5	5000	2	allskills		1	1	dex		22	44	res-all		13	19																									red-dmg%		27	28					vit		13	14																														0
+Flamme Mahim-Oak	1743	Flamme Rift	xsh	Grim Shield	7	44									5	5000	2	allskills		1	1	block1		15	25	oskill	32	3	15	demon-heal		10	11																					move1		20	20					mana		44	44																														0
+Thieves Yaggai	1744	Thieves Mosers	uhl	Giant Conch	7	55									5	5000	2	allskills		1	1	red-dmg%		12	17	swing1		20	53	levelreq		1	1	indestruct		1	1	oskill	32	3	19													allskills		1	1																																						0
+Thieves Blood	1745	Thieves Mosers	ulg	Bramble Mitts	7	55									5	5000	2	bar		1	2	ease		-50	-50	levelreq		1	1	ac		300	575	balance1		15	25																	red-mag		55	55																																						0
+Ichorsting Brainhew	1746	Ichorsting Earthshifter	gth	Gothic Plate	7	26									5	5000	2	bar		1	2	ac		155	285	ac-miss		155	285	red-dmg%		10	14																					ac%		78	78																																						0
+Ichorsting Goldskin	1747	Ichorsting Earthshifter	mau	Maul	7	26									5	5000	2	dmg%		152	378	att-demon		126	278	demon-heal		8	9																									mana%		25	25																																						0
+Ichorsting Riphook	1748	Ichorsting Earthshifter	hbl	Plated Belt	7	26									5	5000	2	allskills		1	1	ac-hth		155	285	ac		155	285	dex		13	26																					thorns		78	78					red-mag		26	26																														0
+Venomsward Tine	1749	Venomsward Crest	xmg	Heavy Bracers	7	38									5	5000	2	allskills		1	1	oskill	145	6	10	hp		38	76	red-dmg%		11	16	red-dmg		19	38																	hp%		25	25					dex		12	13																														0
+Venomsward Dwarf	1750	Venomsward Crest	9ls	Rune Sword	7	38									5	5000	2	allskills		1	1	hp%		12	38	att-undead		138	314																									dmg-undead		28	29																																						0
+Venomsward Blessed	1751	Venomsward Crest	xcl	Tigulated Mail	7	38									5	5000	2	allskills		1	1	red-dmg		19	38	ac%		138	226																									red-mag		38	38																																						0
+Jade Jang	1752	Jade Darkfear	rin		7	36									5	5000	2	allskills		1	1	move1		20	43	dex		18	36																									str		12	13					red-dmg		36	36																														0
+Jade Expansion	1753	Jade Darkfear	xla	Demonhide Armor	7	36									5	5000	2	allskills		1	1	ac%		136	222	res-all-max		5	15	res-all		12	18	red-dmg%		11	15																	ac		360	360																																						0
+Jade Vampiregaze	1754	Jade Darkfear	9pi	Great Pilum	7	36									5	5000	2	dmg%		172	408	bar		1	2	gold%		61	104																									mana		36	36					str		12	13																														0
+Windhammer Justice	1755	Windhammer Darkfear	rin		7	72									5	5000	2	allskills		1	1	mana		72	144	mag%		61	97	mana-kill		14	14	regen-mana		25	25	cheap		5	10													skill	250	3	3					dmg-cold	150	216	432					extra-cold		122	122																						0
+Windhammer Flayerd	1756	Windhammer Darkfear	ung	Diamond Mail	7	72									5	5000	2	dru		1	2	mana%		24	72	vit		36	72	half-freeze		1	1	regen-mana		25	25																	allskills		1	1					extra-cold		122	122					all-stats		14	14																						0
+Windhammer Shadowkiller	1757	Windhammer Darkfear	drc	Sun Spirit	7	72									5	5000	2	dru		1	2	oskill	32	3	24	nofreeze		1	1	demon-heal		14	14																					allskills		1	1					thorns		216	216					skill	250	3	3					skilltab	15	3	3					all-stats		14	14						0
+Windhammer Soul	1758	Windhammer Darkfear	7b7	Champion Sword	7	72									5	5000	2	allskills		1	1	half-freeze		1	1	abs-cold%		15	30	all-stats		14	23																					dmg-cold	150	216	432					demon-heal		36	36					extra-cold		122	122					dru		1	1														0
+Windhammer Blackleach	1759	Windhammer Darkfear	usk	Demonhead	7	72									5	5000	2	allskills		1	1	abs-cold%		15	30	extra-cold		61	122	res-cold		17	27	demon-heal		14	14	mag%		61	97													all-stats		14	14					allskills		1	1					skilltab	15	3	3					extra-cold		122	122														0
+Windhammer Coil	1760	Windhammer Darkfear	uvc	Vampirefang Belt	7	72									5	5000	2	allskills		1	1	regen-mana		25	25	nofreeze		1	1	red-mag		36	72	aura	105	3	12																	thorns		216	216					allskills		1	1					extra-cold		122	122																						0
+Iros Visceratuant	1761	Iros Might	7mp	War Spike	7	80									5	5000	2	allskills		1	1	demon-heal		15	15	regen-mana		25	25	ease		-50	-50	res-fire-max		5	15																	extra-fire		130	130																																						0
+Iros Couant	1762	Iros Might	uul	Shadow Plate	7	80									5	5000	2	dru		1	2	extra-fire		65	130	res-all		15	22	res-fire-max		5	15																					thorns		240	240																																						0
+Stone Bladebuckle	1763	Stone Kelpie	gma	Great Maul	7	30									5	5000	2	dru		1	2	abs-fire		5	8	addxp		5	10																									demon-heal		15	15					all-stats		8	9					dmg-fire		90	180					skilltab	15	3	3					extra-fire		80	80						0
+Stone Spiritkeeper	1764	Stone Kelpie	zlb	Demonhide Sash	7	30									5	5000	2	allskills		1	1	aura	100	3	5	ease		-50	-50																									skilltab	15	3	3					skill	229	3	3					thorns		90	90					dru		1	1					extra-fire		80	80						0
+Stone Pelta	1765	Stone Kelpie	dr6	Alpha Helm	7	30									5	5000	2	dru		1	2	all-stats		8	13	dmg-to-mana		10	25																									thorns		90	90					allskills		1	1					fireskill		1	1																						0
+Stone Earthshaker	1766	Stone Kelpie	fld	Field Plate	7	30									5	5000	2	allskills		1	1	abs-fire%		15	30	oskill	32	3	10	ease		-50	-50	regen		15	15																	all-stats		8	9					extra-fire		80	80					skilltab	15	3	3					thorns		90	90														0
+Stone Forge	1767	Stone Kelpie	amu		7	30									5	5000	2	allskills		1	1	cheap		5	10	all-stats		8	13																									fireskill		1	1					extra-fire		80	80					skilltab	15	3	3					allskills		1	1														0
+Stone Carapice	1768	Stone Kelpie	xap	War Hat	7	30									5	5000	2	allskills		1	1	fireskill		1	2	hp%		10	30																									thorns		90	90					skill	229	3	3					fireskill		1	1																						0
+Stoutnail Kuko	1769	Stoutnail Cloudcrack	xmb	Mesh Boots	7	39									5	5000	2	dru		1	2	res-fire		15	23	addxp		5	10																									skilltab	15	3	3					fireskill		1	1					thorns		117	117																						0
+Stoutnail Rebuke	1770	Stoutnail Cloudcrack	9m9	War Club	7	39									5	5000	2	allskills		1	1	dmg-fire		195	390	addxp		5	10	ease		-50	-50																					all-stats		9	10					skilltab	15	3	3					allskills		1	1																						0
+Stoutnail Coldkill	1771	Stoutnail Cloudcrack	xcl	Tigulated Mail	7	39									5	5000	2	dru		1	2	heal-kill		9	15	abs-fire%		15	30	fireskill		1	2	res-all		13	19																	skilltab	15	3	3					thorns		117	117					skill	249	3	3																						0
+Stoutnail Darksight	1772	Stoutnail Cloudcrack	xvg	Sharkskin Gloves	7	39									5	5000	2	dru		1	2	aura	100	3	7	abs-fire%		15	30	fireskill		1	2	gold%		64	109																	fireskill		1	1					dru		1	1					skill	249	3	3																						0
+Bonehew Snowclash	1773	Bonehew Bloodthief	7o7	Ogre Axe	7	54									5	5000	2	allskills		1	1	dex		27	54	dmg-norm		270	540	ethereal		1	1																					all-stats		11	12																																						0
+Bonehew Gorerider	1774	Bonehew Bloodthief	xh9	Grim Helm	7	54									5	5000	2	allskills		1	1	cheap		5	10	indestruct		1	1	thorns		54	254	aura	103	3	9																	red-mag		54	54																																						0
+Bonehew Mahim-Oak	1775	Bonehew Bloodthief	zhb	War Belt	7	54									5	5000	2	allskills		1	1	str		27	54	regen		15	15																									red-mag		54	54																																						0
+Cerebus Tornado	1776	Cerebus Gloomstrap	9cl	Cudgel	7	27									5	5000	2	dru		1	2	mag%		38	52	dmg-pois	75	135	270	oskill	58	6	7																					dru		1	1					skilltab	16	3	3																														0
+Cerebus Talons	1777	Cerebus Gloomstrap	tow	Tower Shield	7	27									5	5000	2	dru		1	2	res-pois-max		5	15	all-stats		8	12																									skilltab	16	3	3					skill	238	3	3					extra-pois		77	77																						0
+Cerebus Sharp	1778	Cerebus Gloomstrap	hgl	Gauntlets	7	27									5	5000	2	allskills		1	1	res-pois-len		50	50	res-pois		13	21																									allskills		1	1					extra-pois		77	77																														0
+Cerebus Staunch	1779	Cerebus Gloomstrap	gth	Gothic Plate	7	27									5	5000	2	dru		1	2	res-pois-len		50	50	regen		15	15																									thorns		81	81					allskills		1	1																														0
+Hexfire Web	1780	Hexfire Heavenly	uui	Dusk Shroud	7	60									5	5000	2	allskills		1	1	swing1		20	55	hp		60	120	red-dmg		30	60																					move1		20	20					vit		17	17																														0
+Hexfire Fathom	1781	Hexfire Heavenly	uvg	Vampirebone Gloves	7	60									5	5000	2	allskills		1	1	demon-heal		12	13	res-all-max		5	15	indestruct		1	1																					all-stats		12	13					vit		17	17																														0
+Hexfire Meat	1782	Hexfire Heavenly	uvb	Scarabshell Boots	7	60									5	5000	2	dru		1	2	red-dmg%		12	18	str		30	60	swing1		20	55																					skilltab	16	3	3					hp		60	60																														0
+Steelrend Steelshade	1783	Steelrend Kinemils	7fl	Scourge	7	72									5	5000	2	dmg%		244	516	allskills		1	1	thorns		72	272	dmg-demon		416	860	openwounds		25	50																	dex		19	20																																						0
+Steelrend Rusthandle	1784	Steelrend Kinemils	uit	Monarch	7	72									5	5000	2	allskills		1	1	hp%		24	72	res-all-max		5	15	mag%		61	97																					all-stats		14	14																																						0
+Stormrider Thorn	1785	Stormrider Revenge	pik	Pike	7	28									5	5000	2	allskills		1	1	dmg%		156	384	crush		25	25																									dmg-undead		21	21																																						0
+Stormrider Leoric	1786	Stormrider Revenge	ne5	Demon Head	7	28									5	5000	2	nec		1	2	ac-hth		165	305	levelreq		1	1																									vit		10	11																																						0
+Ravenlore Vomir	1787	Ravenlore Dragonscale	7s8	Thresher	7	70									5	5000	2	nec		1	2	dmg%		240	510	att%		170	410	dmg-undead		410	850	balance1		15	25	reduce-ac		25	50													crush		100	100																																						0
+Ravenlore Peasent	1788	Ravenlore Dragonscale	utu	Wire Fleece	7	70									5	5000	2	nec		1	2	hp%		23	70	res-all		15	22	vit		35	70	ac		375	725																	ac-hth		700	700																																						0
+Arreat's Tombale	1789	Arreat's temper	7sm	Ataghan	7	66									5	5000	2	allskills		1	1	move1		20	58	extra-fire		58	116	dmg-fire		330	660																					fireskill		1	1					allskills		1	1					all-stats		13	14					skill	94	3	3														0
+Arreat's Umbral	1790	Arreat's temper	ung	Diamond Mail	7	66									5	5000	2	allskills		1	1	ease		-50	-50	mana		66	132	enr		33	66	res-fire-max		5	15																	extra-fire		116	116					nec		1	1																														0
+Arreat's Wrath	1791	Arreat's temper	uvb	Scarabshell Boots	7	66									5	5000	2	nec		1	2	abs-fire		5	17	res-all-max		5	15	mana		66	132	move1		20	58	ease		-50	-50													allskills		1	1					skill	94	3	3					skilltab	6	3	3					extra-fire		116	116														0
+Arreat's Ripsaw	1792	Arreat's temper	upk	Blade Barrier	7	66									5	5000	2	nec		1	2	res-all-max		5	15	cheap		5	10	oskill	117	6	17	aura	100	3	11																	extra-fire		116	116					skilltab	6	3	3					nec		1	1																						0
+Arreat's Scarab	1793	Arreat's temper	ci2	Tiara	7	66									5	5000	2	nec		1	2	mag%		58	91	cast1		10	20	extra-fire		58	116	fireskill		1	3	move1		20	58													skill	94	3	3					thorns		198	198					nec		1	1																						0
+Machine Windhammer	1794	Machine Waterwalk	7bw	Lich Wand	7	73									5	5000	2	dmg%		246	519	att-demon		173	419	ignore-ac		1	1	thorns		73	273	levelreq		1	1																	swing1		20	20																																						0
+Machine Wall	1795	Machine Waterwalk	umb	Boneweave Boots	7	73									5	5000	2	allskills		1	1	oskill	32	3	25	red-dmg%		13	18	str		36	73	red-dmg		36	73	swing1		20	62													str		19	20																																						0
+Felloak Mang	1796	Felloak Swordguard	xlt	Templar Coat	7	55									5	5000	2	nec		1	2	str		27	55	swing1		20	53	thorns		55	255																					ac		550	550																																						0
+Felloak Expansion	1797	Felloak Swordguard	9gd	Executioner Sword	7	55									5	5000	2	allskills		1	1	dmg%		210	465	dmg-norm		275	550	deadly		25	50																					hp		55	55																																						0
+Ironpelt Hearty	1798	Ironpelt Basher	xar	Ornate Armor	7	68									5	5000	2	allskills		1	1	levelreq		1	1	move1		20	59	ac%		168	286																					dex		18	19																																						0
+Ironpelt One	1799	Ironpelt Basher	7cr	Phase Blade	7	68									5	5000	2	dmg%		236	504	att-demon		168	404	str		34	68	openwounds		25	50																					dmg-undead		51	51																																						0
+Sandstorm Lord	1800	Sandstorm Skewer	7sb	Elegant Blade	7	57									5	5000	2	nec		1	2	regen-mana		25	25	ease		-50	-50	res-pois		16	26																					nec		1	1																																						0
+Sandstorm Ages	1801	Sandstorm Skewer	uuc	Heater	7	57									5	5000	2	allskills		1	1	cast1		10	20	move1		20	54	red-mag		28	57	all-stats		12	20																	all-stats		12	13																																						0
+Rings Demon	1802	Rings Venomsward	ulc	Spiderweb Sash	7	65									5	5000	2	allskills		1	1	res-pois		17	27	res-all-max		5	15	red-mag		32	65																					skill	73	3	3					thorns		195	195					nec		1	1																						0
+Rings Briser	1803	Rings Venomsward	ukp	Hydraskull	7	65									5	5000	2	nec		1	2	cast1		10	20	mag%		57	90	oskill	32	3	22	mana		65	130																	thorns		195	195					extra-pois		115	115																														0
+Rings Humongous	1804	Rings Venomsward	xtp	Mage Plate	7	65									5	5000	2	allskills		1	1	mag%		57	90	extra-pois		57	115	regen-mana		25	25	heal-kill		13	22																	allskills		1	1					skill	73	3	3																														0
+Rings Bone	1805	Rings Venomsward	uvg	Vampirebone Gloves	7	65									5	5000	2	nec		1	2	addxp		5	10	regen		15	15	res-pois-len		50	50	cheap		5	10	vit		32	65													skill	73	3	3					extra-pois		115	115																														0
+Moonfall Pluckeye	1806	Moonfall Arch	xrs	Cuirass	7	49									5	5000	2	pal		1	2	aura	103	3	9	indestruct		1	1	balance1		15	25																					str		14	15																																						0
+Moonfall Dark	1807	Moonfall Arch	9ls	Rune Sword	7	49									5	5000	2	dmg%		198	447	hp		49	98	dmg-demon		347	745	thorns		49	249																					hp%		25	25																																						0
+Nokozan Ire	1808	Nokozan Hellcast	uvb	Scarabshell Boots	7	68									5	5000	2	pal		1	2	ac-miss		365	705	red-dmg%		13	18	vit		34	68																					ac-hth		680	680					hp%		25	25																														0
+Nokozan Goldskin	1809	Nokozan Hellcast	amu		7	68									5	5000	2	allskills		1	1	str		34	68	thorns		68	268	ease		-50	-50																					swing1		20	20					mana		68	68					deadly		100	100																						0
+Nokozan Stormguild	1810	Nokozan Hellcast	uea	Wyrmhide	7	68									5	5000	2	allskills		1	1	all-stats		13	22	ac-hth		365	705	thorns		68	268																					pal		1	1					mana%		25	25																														0
+Nokozan Band	1811	Nokozan Hellcast	7sb	Elegant Blade	7	68									5	5000	2	pal		1	2	dmg%		236	504	att-demon		168	404	dmg-undead		404	840																					dex		18	19					deadly		100	100					crush		100	100																						0
+Naga Cranebeak	1812	Naga Hellclap	msk	Mask	7	18									5	5000	2	pal		1	2	thorns		18	218	ac%		118	186																									hp		18	18					red-dmg%		20	21																														0
+Naga Kuko	1813	Naga Hellclap	mpi	Military Pick	7	18									5	5000	2	allskills		1	1	dmg%		136	354	balance1		15	25																									deadly		53	53					att-demon		13	14																														0
+Naga Carver	1814	Naga Hellclap	spl	Splint Mail	7	18									5	5000	2	allskills		1	1	ac-miss		115	205	vit		9	18																									thorns		54	54																																						0
+Form Giantskull	1815	Form Victors	amu		7	74									5	5000	2	pal		1	2	move1		20	62	mag%		62	99	ease		-50	-50																					thorns		222	222					skill	118	3	3																														0
+Form Hellslayer	1816	Form Victors	utg	Crusader Gauntlets	7	74									5	5000	2	allskills		1	1	res-ltng		17	27	red-mag		37	74	all-stats		14	24	abs-ltng%		15	30	extra-ltng		62	124													thorns		222	222					light-thorns		222	222																														0
+Form Wizendraw	1817	Form Victors	7br	Mancatcher	7	74									5	5000	2	pal		1	2	gold%		99	161	hp%		24	74	regen		15	15	aura	118	3	13																	allskills		1	1					skilltab	10	3	3																														0
+Justice Lacerator	1818	Justice Meat	tbl	Heavy Belt	7	14									5	5000	2	pal		1	2	cheap		5	10																													skill	114	3	3																																						0
+Justice Vortex	1819	Justice Meat	pa4	Aerin Shield	7	14									5	5000	2	pal		1	2	ease		-50	-50	red-mag		7	14																									thorns		42	42																																						0
+Riphook Windforce	1820	Riphook Dragon	9pa	Partizan	7	34									5	5000	2	pal		1	2	extra-fire		42	84	mana-kill		9	10																									all-stats		9	10					skilltab	10	3	3																														0
+Riphook Ward	1821	Riphook Dragon	zlb	Demonhide Sash	7	34									5	5000	2	allskills		1	1	hp		34	68	res-fire-max		5	15	vit		17	34																					allskills		1	1																																						0
+Riphook Torch	1822	Riphook Dragon	aar	Ancient Armor	7	34									5	5000	2	pal		1	2	res-all		12	18	aura	100	3	6																									skill	102	3	3					fireskill		1	1																														0
+Pierre Keep	1823	Pierre Boneflesh	uvg	Vampirebone Gloves	7	63									5	5000	2	pal		1	2	oskill	145	6	16	ethereal		1	1	hp%		21	63	hp		63	126																	str		17	18					red-dmg		63	63																														0
+Pierre Armor	1824	Pierre Boneflesh	uui	Dusk Shroud	7	63									5	5000	2	allskills		1	1	str		31	63	aura	103	3	11	ac		340	655	ac-miss		340	655	thorns		63	263													thorns		189	189					move1		20	20																														0
+Pierre Vortex	1825	Pierre Boneflesh	7sb	Elegant Blade	7	63									5	5000	2	dmg%		226	489	allskills		1	1	hp%		21	63	att%		163	389	cheap		5	10	mag%		56	88													str		17	18					dmg-demon		47	48																														0
+Pierre Point	1826	Pierre Boneflesh	pab	Sacred Targe	7	63									5	5000	2	pal		1	2	all-stats		12	21	balance1		15	25	ac-miss		340	655	ac		340	655	red-dmg		31	63													vit		17	18					hp		63	63																														0
+Sureshrill Elite	1827	Sureshrill Pupil	ula	Scarab Husk	7	72									5	5000	2	allskills		1	1	heal-kill		14	23	extra-ltng		61	122	mana%		24	72																					skill	121	3	3					extra-ltng		122	122																														0
+Sureshrill Dwarf	1828	Sureshrill Pupil	pac	Sacred Rondache	7	72									5	5000	2	pal		1	2	oskill	276	6	18	red-mag		36	72	abs-ltng%		15	30	res-ltng		17	27	extra-ltng		61	122													skill	121	3	3																																						0
+Sureshrill Diggler	1829	Sureshrill Pupil	7bt	Decapitator	7	72									5	5000	2	allskills		1	1	res-ltng		17	27	cast1		10	20	aura	118	3	12																					pal		1	1					skill	121	3	3																														0
+Harvest Silk	1830	Harvest Flame	7dg	Bone Knife	7	63									5	5000	2	sor		1	2	abs-cold%		15	30	demon-heal		12	13	regen		15	15	half-freeze		1	1	aura	114	3	11													all-stats		12	13					dmg-cold	150	189	378					skilltab	3	3	3					demon-heal		31	32					sor		1	1						0
+Harvest Steelpillar	1831	Harvest Flame	xar	Ornate Armor	7	63									5	5000	2	allskills		1	1	ease		-50	-50	red-mag		31	63	res-cold		17	26	mana-kill		12	13	demon-heal		12	13													all-stats		12	13					skill	59	3	3					extra-cold		113	113					skilltab	3	3	3					sor		1	1						0
+Harvest temper	1832	Harvest Flame	urg	Hyperion	7	63									5	5000	2	allskills		1	1	oskill	58	6	16	hp		63	126	demon-heal		12	13																					thorns		189	189					allskills		1	1					skilltab	3	3	3					skill	59	3	3														0
+Harvest Felloak	1833	Harvest Flame	ulc	Spiderweb Sash	7	63									5	5000	2	sor		1	2	abs-cold%		15	30	abs-cold		5	16	cheap		5	10																					all-stats		12	13					skilltab	3	3	3					skill	59	3	3																						0
+Harvest Talons	1834	Harvest Flame	ulb	Wyrmhide Boots	7	63									5	5000	2	sor		1	2	cast1		10	20	abs-cold%		15	30	mana		63	126																					skilltab	3	3	3					thorns		189	189					extra-cold		113	113																						0
+Harvest Class	1835	Harvest Flame	ulm	Armet	7	63									5	5000	2	sor		1	2	mag%		56	88	half-freeze		1	1	extra-cold		56	113	mana		63	126	nofreeze		1	1													thorns		189	189					sor		1	1					skill	59	3	3																						0
+Thorn Infernostride	1836	Thorn Hellfire	ung	Diamond Mail	7	77									5	5000	2	allskills		1	1	hp%		25	77	nofreeze		1	1	abs-cold		5	20	enr		38	77																	extra-cold		127	127					skilltab	3	3	3					skill	64	3	3																						0
+Thorn Branch	1837	Thorn Hellfire	6cs	Elder Staff	7	77									5	5000	2	sor		1	2	addxp		5	10	mag%		63	102	half-freeze		1	1	freeze		1	1																	all-stats		14	15					freeze		1	1					allskills		1	1					dmg-cold	150	231	462					demon-heal		38	39						0
+Thorn Wormskull	1838	Thorn Hellfire	umc	Mithril Coil	7	77									5	5000	2	sor		1	2	mana-kill		14	15	cheap		5	10	half-freeze		1	1	abs-cold%		15	30	regen		15	15													skilltab	3	3	3					skill	64	3	3					thorns		231	231					all-stats		14	15					allskills		1	1						0
+Thorn Jang	1839	Thorn Hellfire	uhm	Spired Helm	7	77									5	5000	2	sor		1	2	enr		38	77	vit		38	77	nofreeze		1	1																					skilltab	3	3	3					sor		1	1					thorns		231	231																						0
+Thorn Eye	1840	Thorn Hellfire	utg	Crusader Gauntlets	7	77									5	5000	2	allskills		1	1	res-cold-max		5	15	half-freeze		1	1	regen-mana		25	25	aura	105	3	13	cheap		5	10													sor		1	1					extra-cold		127	127					thorns		231	231					skilltab	3	3	3														0
+Thorn Pierre	1841	Thorn Hellfire	umb	Boneweave Boots	7	77									5	5000	2	allskills		1	1	dmg-to-mana		10	25	regen-mana		25	25	hp%		25	77	half-freeze		1	1	oskill	40	6	20													all-stats		14	15					allskills		1	1					extra-cold		127	127																						0
+Zakarum's Wisdon	1842	Zakarum's Demonlimb	7ss	Falcata	7	59									5	5000	2	sor		1	2	aura	118	3	10	mana-kill		12	13	vit		29	59																					extra-ltng		109	109																																						0
+Zakarum's Carapice	1843	Zakarum's Demonlimb	xth	Embossed Plate	7	59									5	5000	2	sor		1	2	cheap		5	10	oskill	276	6	15	abs-ltng%		15	30	regen-mana		25	25																	sor		1	1					light-thorns		177	177																														0
+Zakarum's Flank	1844	Zakarum's Demonlimb	xrn	Grand Crown	7	59									5	5000	2	allskills		1	1	regen-mana		25	25	mana%		19	59	regen		15	15	gold%		84	139	demon-heal		12	13													light-thorns		177	177																																						0
+Constricting Husoldal	1845	Constricting Bul	bwn	Bone Wand	7	15									5	5000	2	allskills		1	1	cast1		10	20	ease		-50	-50																									all-stats		6	7					skill	48	3	3																														0
+Constricting Harvest	1846	Constricting Bul	tgl	Light Gauntlets	7	15									5	5000	2	sor		1	2	aura	110	3	3	heal-kill		6	9	res-ltng		11	17																					all-stats		6	7																																						0
+Constricting Rockstopper	1847	Constricting Bul	tbl	Heavy Belt	7	15									5	5000	2	allskills		1	1	mag%		32	40	abs-ltng		5	5	res-all		9	14																					skill	48	3	3																																						0
+Cord Hellrack	1848	Cord Guardian	7sb	Elegant Blade	7	65									5	5000	2	sor		1	2	aura	118	3	11	heal-kill		13	22	abs-ltng%		15	30	dmg-ltng		325	650																	skilltab	4	3	3					allskills		1	1																														0
+Cord Ash	1849	Cord Guardian	ci2	Tiara	7	65									5	5000	2	allskills		1	1	res-ltng		17	27	ease		-50	-50	light-thorns		32	65	gold%		90	148																	sor		1	1					extra-ltng		115	115					skill	53	3	3																						0
+Cord Torch	1850	Cord Guardian	uml	Luna	7	65									5	5000	2	allskills		1	1	abs-ltng		5	17	addxp		5	10	regen-mana		25	25	cheap		5	10	heal-kill		13	22													thorns		195	195					sor		1	1					skilltab	4	3	3																						0
+Cord Umes	1851	Cord Guardian	amu		7	65									5	5000	2	allskills		1	1	light-thorns		32	65	oskill	32	3	22	hp%		21	65	abs-ltng		5	17																	light-thorns		195	195					allskills		1	1					dmg-ltng		195	390																						0
+Shroud Rimeraven	1852	Shroud Sandstorm	ci2	Tiara	7	65									5	5000	2	allskills		1	1	regen		15	15	cast1		10	20	addxp		5	10	aura	100	3	11																	allskills		1	1																																						0
+Shroud Hades	1853	Shroud Sandstorm	ulc	Spiderweb Sash	7	65									5	5000	2	sor		1	2	cheap		5	10	demon-heal		13	14	extra-fire		57	115	fireskill		1	3																	sor		1	1																																						0
+Bing Toothrow	1854	Bing Wail	rin		7	79									5	5000	2	sor		1	2	abs-fire%		15	30	all-stats		14	25	regen		15	15	addxp		5	10																	all-stats		14	15					demon-heal		39	40					skill	51	3	3																						0
+Bing Amulet	1855	Bing Wail	7b7	Champion Sword	7	79									5	5000	2	sor		1	2	regen-mana		25	25	oskill	81	6	20	regen		15	15	res-fire		18	28	extra-fire		64	129													sor		1	1					skilltab	5	3	3																														0
+Bing Spiritforge	1856	Bing Wail	uul	Shadow Plate	7	79									5	5000	2	allskills		1	1	aura	100	3	14	abs-fire		5	20	fireskill		1	3	res-fire		18	28																	skilltab	5	3	3					allskills		1	1																														0
+Bing Ripper	1857	Bing Wail	utc	Troll Belt	7	79									5	5000	2	allskills		1	1	dmg-to-mana		10	25	cast1		10	20	res-all-max		5	15	red-mag		39	79																	extra-fire		129	129					allskills		1	1					skill	51	3	3																						0
+Stoneraven Bite	1858	Stoneraven Talons	rin		7	34									5	5000	2	allskills		1	1	hp%		11	34	fireskill		1	2	abs-fire		5	9	oskill	153	6	9																	extra-fire		84	84					allskills		1	1																														0
+Stoneraven Waterwalk	1859	Stoneraven Talons	9tr	Fuscina	7	34									5	5000	2	allskills		1	1	abs-fire		5	9	ease		-50	-50																									skill	56	3	3																																						0
+Stoneraven Jade	1860	Stoneraven Talons	zlb	Demonhide Sash	7	34									5	5000	2	allskills		1	1	demon-heal		9	10	regen		15	15	mana-kill		9	10	gold%		59	101																	sor		1	1																																						0
+Frostwind Wartraveler	1861	Frostwind Bloodfist	xlg	Demonhide Gloves	7	34									5	5000	2	sor		1	2	mana-kill		9	10	regen		15	15	aura	100	3	6																					all-stats		9	10																																						0
+Frostwind Jordan	1862	Frostwind Bloodfist	8ss	Jo Staff	7	34									5	5000	2	allskills		1	1	res-fire-max		5	15	abs-fire%		15	30																									extra-fire		84	84																																						0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0
+																																																																																															0

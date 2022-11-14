@@ -13,3 +13,4 @@ quillrat7																															thorns			15	20																										
 quillrat8																															thorns			15	20																										thorns			30	40																										0
 druidhawk	stupidity			-1	-1																										stupidity			-1	-1																										stupidity			-1	-1																										0
 evilpower	oskill		371	1	1																										oskill		371	1	1																										oskill		371	1	1																										0
+cowkingpower	oskill		371	1	1	aura		123	20	20	openwounds			100	100	freeze			30	30	crush			100	100	deadly			100	100	oskill		371	1	1	aura		123	40	40	openwounds			100	100	freeze			30	30	crush			100	100	deadly			100	100	oskill		371	1	1	aura		123	60	60	openwounds			100	100	freeze			30	30	crush			100	100	deadly			100	100	0

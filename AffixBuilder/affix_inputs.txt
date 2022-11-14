@@ -68,3 +68,9 @@ ass	1	0	1	0	1	0	1	0	25	static	armo	Assassin's	of Slaying
 all-stats	5	5	3	3	2	2	1	1	1	0	armo	Great	of Greatness
 addxp	0	0	0	0	1	1	0	0	1	0	armo	Wizard's	of Learning
 cheap	0	0	0	0	1	1	0	0	1	0	armo	Gheed's	of Haggling
+pierce-immunity-cold	300	0	0	0	0	0	0	0	50	static	weap		
+pierce-immunity-fire	300	0	0	0	0	0	0	0	50	static	weap		
+pierce-immunity-light	300	0	0	0	0	0	0	0	50	static	weap		
+pierce-immunity-poison	300	0	0	0	0	0	0	0	50	static	weap		
+pierce-immunity-damage	300	0	0	0	0	0	0	0	50	static	weap		
+pierce-immunity-magic	300	0	0	0	0	0	0	0	50	static	weap		

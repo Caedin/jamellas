@@ -186,7 +186,7 @@ for i in range(2):
                     row = genrow(lvl, grp, val, r, i, key)
 
                     if r['lvlscalefactor'] != 'static':
-                        row['maxlevel'] = lvlbreaks[idx+5] if idx+5 < len(lvlbreaks) else lvlbreaks[-1]
+                        row['maxlevel'] = lvlbreaks[idx+3] if idx+3 < len(lvlbreaks) else lvlbreaks[-1]
 
                     results += [row]
                     prev[i] = val
