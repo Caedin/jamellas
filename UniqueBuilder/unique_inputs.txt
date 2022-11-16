@@ -14,8 +14,8 @@ hp%	2	all	1	armo, weap, ring, amul					linear	x/2	x
 dmg%	1	normal	1	armo, ring, amul		tors,helm	sor,nec		linear	x	2 * x
 dmg%	1	normal	1	armo		belt,glov,boot	sor,nec		linear	3 * x	5 * x
 dmg%	1	normal	1	weap		wand,staf,orb	sor,nec		linear	(5 * x) + 50	(10 * x) + 100
-ama	1	all	1	armo, weap, ring, amul		axe,wand,club,scep,mace,hamm,swor,knif,tkni,taxe,staf,h2h,h2h2,orb,pelt,phlm,ashd,head	pal,nec,sor,bar,dru,ass,allskills,cast1		linear	1	1 + x/25
-pal	1	all	1	armo, weap, ring, amul	poison	wand,knif,jave,spea,pole,staf,bow,xbow,h2h,h2h2,orb,abow,aspe,ajav,pelt,phlm,head	pal,nec,sor,bar,dru,ass,allskills,extra-pois		linear	1	1 + x/25
+ama	1	all	1	armo, weap, ring, amul		axe,wand,club,scep,mace,hamm,swor,knif,tkni,taxe,staf,h2h,h2h2,orb,pelt,phlm,ashd,head	ama,pal,nec,sor,bar,dru,ass,allskills,cast1		linear	1	1 + x/25
+pal	1	all	1	armo, weap, ring, amul	poison	wand,knif,jave,spea,pole,staf,bow,xbow,h2h,h2h2,orb,abow,aspe,ajav,pelt,phlm,head	ama,pal,nec,sor,bar,dru,ass,allskills,extra-pois		linear	1	1 + x/25
 nec	1	all	1	armo, weap, ring, amul	normal,cold,fire,lightning	jave,h2h,h2h2,orb,abow,aspe,ajav,pelt,phlm,ashd	ama,pal,sor,bar,dru,ass,allskills,dmg%,swing1,openwounds,deadly,slow,freeze,dmg-norm,dmg-fire,dmg-cold,dmg-ltng,dmg-pois,crush		linear	1	1 + x/25
 sor	1	all	1	armo, weap, ring, amul	normal,poison	knif,jave,spea,pole,bow,xbow,h2h,h2h2,abow,aspe,ajav,pelt,phlm,ashd,head	ama,pal,nec,bar,dru,ass,allskills,dmg%,swing1,openwounds,deadly,slow,freeze,dmg-norm,dmg-fire,dmg-cold,dmg-ltng,dmg-pois,crush		linear	1	1 + x/25
 bar	1	all	1	armo, weap, ring, amul	fire,cold,lightning,poison	wand,knif,jave,staf,bow,xbow,h2h,h2h2,orb,abow,aspe,ajav,pelt,ashd,head	ama,pal,nec,sor,dru,ass,allskills,cast1,fireskill,extra-fire,extra-ltng,extra-cold,extra-pois		linear	1	1 + x/25
@@ -123,3 +123,43 @@ pierce-immunity-fire	2	fire	30	weap						300	300
 pierce-immunity-light	2	lightning	30	weap						300	300
 pierce-immunity-poison	2	poison	30	weap						300	300
 pierce-immunity-damage	2	normal	30	weap						300	300
+hit-skill	2	normal	1	weap			hit-skill,gethit-skill,sor,nec	8,17	linear	5	x / 5 + 5
+hit-skill	2	fire	1	weap			hit-skill,gethit-skill,sor,nec	36	linear	min(100, x + 25)	x
+hit-skill	2	lightning	1	weap			hit-skill,gethit-skill,sor,nec	38	linear	min(100, x + 25)	x
+hit-skill	2	cold	1	weap			hit-skill,gethit-skill,sor,nec	39	linear	min(100, x + 25)	x
+gethit-skill	2	cold	1	armo			hit-skill,gethit-skill	40,50,60	linear	2	x
+gethit-skill	2	cold	1	armo			hit-skill,gethit-skill	44	linear	10	x
+hit-skill	2	cold	1	weap			hit-skill,gethit-skill,sor,nec	44	linear	10	x
+hit-skill	2	cold	1	weap			hit-skill,gethit-skill,sor,nec	45	linear	min(100, x + 10)	x
+gethit-skill	2	fire	1	armo			hit-skill,gethit-skill	46	linear	4	x
+hit-skill	2	fire	1	weap			hit-skill,gethit-skill,sor,nec	47	linear	min(100, x + 10)	x
+gethit-skill	2	lightning	1	armo			hit-skill,gethit-skill	48	linear	10	x
+hit-skill	2	lightning	1	weap			hit-skill,gethit-skill,sor,nec	48	linear	10	x
+hit-skill	2	lightning	1	weap			hit-skill,gethit-skill,sor,nec	49	linear	min(100, x + 10)	x
+gethit-skill	2	fire	1	armo			hit-skill,gethit-skill	51	linear	4	x
+hit-skill	2	fire	1	armo			hit-skill,gethit-skill,sor,nec	51	linear	8	x
+hit-skill	2	fire	1	armo			hit-skill,gethit-skill,sor,nec	52	linear	1	min(100, 2 * x)
+hit-skill	2	lightning	1	weap			hit-skill,gethit-skill,sor,nec	53	linear	x / 2	x
+hit-skill	2	cold	1	weap			hit-skill,gethit-skill,sor,nec	55	linear	min(100, x + 10)	x
+hit-skill	2	fire	1	weap			hit-skill,gethit-skill,sor,nec	56	linear	10	x
+gethit-skill	2	lightning	1	armo			hit-skill,gethit-skill	57	linear	2	min(100, 2 * x)
+gethit-skill	2	lightning	1	armo			hit-skill,gethit-skill	58	linear	2	min(100, 2 * x)
+hit-skill	2	cold	18	weap			hit-skill,gethit-skill,sor,nec	59	linear	10	x
+hit-skill	2	fire	18	weap			hit-skill,gethit-skill,sor,nec	62	linear	25	x
+hit-skill	2	cold	30	weap			hit-skill,gethit-skill,sor,nec	64	linear	x / 2	x
+gethit-skill	2	normal	1	armo			hit-skill,gethit-skill	68	linear	min(x / 3 + 1, 20)	min(100, 2 * x)
+hit-skill	2	normal	1	weap			hit-skill,gethit-skill,sor,nec	72,81,87	linear	5	x / 2
+hit-skill	2	normal	1	weap			hit-skill,gethit-skill,sor,nec	84	linear	5	x
+hit-skill	2	poison	1	weap			hit-skill,gethit-skill,sor,nec	92	linear	min(100, x / 2 + 1)	min(100, 2 * x)
+hit-skill	2	normal	1	weap			hit-skill,gethit-skill,sor,nec	93, 112, 154, 240, 245	linear	min(100, x / 2 + 1)	min(100, 2 * x)
+hit-skill	2	normal	1	weap			hit-skill,gethit-skill,sor,nec	258,267,279,32	linear	2	x
+gethit-skill	2	normal	1	armo			hit-skill,gethit-skill	117,138,146,149,155,199	linear	2	x
+hit-skill	2	lightning	1	weap			hit-skill,gethit-skill,sor,nec	121	linear	min(100, x / 2 + 1)	min(100, 2 * x)
+hit-skill	2	fire	1	weap			hit-skill,gethit-skill,sor,nec	195	linear	2	100
+hit-skill	2	fire	1	weap			hit-skill,gethit-skill,sor,nec	197	linear	min(100, x / 2 + 1)	min(100, 2 * x)
+hit-skill	2	poison	1	weap			hit-skill,gethit-skill,sor,nec	201	linear	min(100, x / 2 + 1)	min(100, 2 * x)
+gethit-skill	2	cold	1	armo			hit-skill,gethit-skill	235	linear	min(x / 3 + 1, 20)	min(100, 2 * x)
+hit-skill	2	fire	1	weap			hit-skill,gethit-skill,sor,nec	229,234,244	linear	min(100, x / 2 + 1)	min(100, 2 * x)
+hit-skill	2	poison	1	weap			hit-skill,gethit-skill,sor,nec	278	linear	2	min(100, 3 * x)
+hit-skill	2	fire	1	weap			hit-skill,gethit-skill,sor,nec	249	linear	5	min(100, 2 * x)
+hit-skill	2	cold	1	weap			hit-skill,gethit-skill,sor,nec	250	linear	5	min(100, 2 * x)
